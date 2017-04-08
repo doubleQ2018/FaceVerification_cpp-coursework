@@ -14,7 +14,7 @@ AdaBoost::AdaBoost(vector<vector<double> > x, vector<int> y, vector<vector<doubl
     size = x.size();
     D = x[0].size();
     T = 50;
-    K = 7;
+    K = 3;
     for(int i = 0; i < size; i++)
     {
         if(label[i] < 0) 
@@ -71,15 +71,24 @@ AdaBoost::AdaBoost(vector<vector<double> > x, vector<int> y, vector<vector<doubl
         for(int j = 0; j < spnums; j++) weights[k][d2d[i][j]] = 1.0 / spnums;
         for(int j = spnums; j < spnums + snnums; j++) weights[k][d2d[i][j]] = - 1.0 / snnums;
     }
-    for(int i = 0; i < dd.size(); i++) cout<<dd[i]<<" ";
-    cout<<endl;
-    /*
+    for(int i = 0; i < K; i++)
+    {
+        double sums = 0;
+        for(int j = 0; j < size; j++) sums += fabs(weights[i][j]);
+        for(int j = 0; j < size; j++) weights[i][j] /= sums;
+    }
     cout<<"q:"<<endl;
     for(int i = 0; i < q.size(); i++)
     {
         for(auto x : q[i]) cout << x <<" ";
         cout<<endl;
-    }*/   
+    }   
+    cout<<"w:"<<endl;
+    for(int i = 0; i < weights.size(); i++)
+    {
+        for(auto x : weights[i]) cout << x <<" ";
+        cout<<endl;
+    }   
     /*
 
     for(int i = 0; i < size; i++)
@@ -101,40 +110,11 @@ void AdaBoost::TrainProcessor()
         for(int j = 0; j < K; j++)
         {
             cout<<"K = "<<(j+1)<<endl;
-            //cout<<"iteration = "<<(i+1)<<endl;
             RenewWeight(j);
             RenewAlpha(j);
-            /*if(tmpMinError == 0)
-            {
-
-                alphas[j].push_back(100);
-                dimensions[j].push_back(tmpDim);
-                thresholds[j].push_back(tmpRu);
-                return;
-            }*/
             alphas[j].push_back(tmpAlpha);
             dimensions[j].push_back(tmpDim);
             thresholds[j].push_back(tmpRu);
-            /*double sums = 0;
-            for(int j = 0; j < pnums; j++)
-            {
-                if(features[j][tmpDim] <= tmpRu) weights[j] *= tmpBeta;
-                sums += weights[j];
-            }
-            for(int j = pnums; j < size; j++)
-            {
-                if(features[j][tmpDim] > tmpRu) weights[j] *= tmpBeta;
-                sums += weights[j];
-            }
-            for(int j = 0; j < size; j++) weights[j] /= sums;
-            alphas[j][i].push_back(log(1/tmpBeta));
-            dimensions[j][i].push_back(tmpDim);
-            thresholds[j][i].push_back(tmpRu);
-            //cout<<"choose tmpMinError = "<<tmpMinError<<endl;
-            //cout<<"choose tmpBeta = "<<tmpBeta<<endl;
-            //cout<<"choose dimension = "<<tmpDim<<endl;
-            //cout<<"choose thresholds = "<<tmpRu<<endl;
-            */
         }
 
         // Renew fa
@@ -162,7 +142,7 @@ void AdaBoost::TrainProcessor()
                     s *= 1 / (1 + exp(-tmpS(candidate[t], j)));
                 for(int t = pnums / M; t < candidate.size(); t++) 
                 {
-                    double x = -tmpS(candidate[t], j);
+                    double x = exp(-tmpS(candidate[t], j));
                     s *= x / (1 + x);
                 }
                 sums += s * fa[j];
@@ -183,12 +163,19 @@ void AdaBoost::TrainProcessor()
         // Renew w
         for(int i = 0; i < K; i++)
         {
+            double sums = 0;
             for(int j = 0; j < pnums; j++)
             {
                 double x = exp(-tmpS(j, i));
                 weights[i][j] = q[dd[j]][i] * x / (1 + x);
+                sums += weights[i][j];
             }
-            for(int j = pnums; j < size; j++) weights[i][j] = q[dd[j]][i] / (1 + exp(-tmpS(j, i)));
+            for(int j = pnums; j < size; j++) 
+            {
+                weights[i][j] = -q[dd[j]][i] / (1 + exp(-tmpS(j, i)));
+                sums += -weights[i][j];
+            }
+            for(int j = 0; j < size; j++) weights[i][j] /= sums;
         }
         cout<<"w:"<<endl;
         for(int i = 0; i < weights.size(); i++)
@@ -232,9 +219,8 @@ void AdaBoost::RenewWeight(int k)
         {
             maxp = p;
             tmpDim = d;
-            tmpRu = IndexAndWeight[t-1].first+0.001;
+            tmpRu = IndexAndWeight[t-1].first;
         }
-        //cout<<"error = "<<error<<endl;
         for(int i = t; i < size; i++)
         {
             p += IndexAndWeight[i].second;
@@ -242,14 +228,15 @@ void AdaBoost::RenewWeight(int k)
             {
                 maxp = p;
                 tmpDim = d;
-                tmpRu = IndexAndWeight[i].first+0.001;///
-                //tmpBeta = MinError / (1 - MinError);
+                tmpRu = IndexAndWeight[i].first;///
             }
         }
     }
-    tmpMinError = maxp;
+    //tmpMinError = maxp;
     cout<<"maxp = "<<maxp<<endl;
     cout<<"choose dimension = "<<tmpDim<<endl;
+    //for(int i = 0; i < size; i++) cout<<features[i][tmpDim]<<" ";
+    //cout<<endl;
     cout<<"choose ru = "<<tmpRu<<endl;
 
             
@@ -263,19 +250,6 @@ double AdaBoost::tmpS(int n, int k) // h(k) for candidate n
     return h;
 }
 
-/*    
-double CalculatePossibility(int k)
-{
-    double s = 0;
-    for(int i = 0; i < pnums; i++) s *= 1 / (1 + exp(-tmpS(i, k)));
-    for(int i = pnums; i < size; i++) 
-    {
-        double x = -tmpS(i, k);
-        s *= x / (1 + x);
-    }
-    return s;
-}*/
-
 
 double AdaBoost::CalculateMLE(double alpha, int j)
 {
@@ -284,14 +258,18 @@ double AdaBoost::CalculateMLE(double alpha, int j)
     for(int i = 0; i < pnums; i++)
     {
         double x = - tmpS(i, j) + alpha * (features[i][tmpDim] < tmpRu ? 1 : -1);
+        //cout<<"i = "<<(i+1)<<", feature = "<<features[i][tmpDim]<<", h(m, n) = "<<x<<endl;
         //cout<<(features[i][tmpDim] < tmpRu ? 1 : -1)<<endl;
         mle += q[dd[i]][j] * log(1 / (1 + exp(x)));   
+        //cout<<"q = "<<q[dd[i]][j]<<", mle = "<<mle<<endl;
     }
     for(int i = pnums; i < size; i++)
     {
         double x = - tmpS(i, j) + alpha * (features[i][tmpDim] < tmpRu ? 1 : -1);
+        //cout<<"i = "<<(i+1)<<", feature = "<<features[i][tmpDim]<<", h(m, n) = "<<x<<endl;
         //cout<<(features[i][tmpDim] < tmpRu ? 1 : -1)<<endl;
         mle += q[dd[i]][j] * log(exp(x) / (1 + exp(x)));
+        //cout<<"q = "<<q[dd[i]][j]<<", mle = "<<mle<<endl;
     }
     return mle;
 }
