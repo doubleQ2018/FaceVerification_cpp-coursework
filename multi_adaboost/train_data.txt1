@@ -1,0 +1,100 @@
+George_W_Bush   1   107
+George_W_Bush   1   213
+George_W_Bush   1   319
+George_W_Bush   1   425
+George_W_Bush   107   213
+George_W_Bush   107   319
+George_W_Bush   107   425
+George_W_Bush   213   319
+George_W_Bush   213   425
+George_W_Bush   319   425
+Colin_Powell   1   48
+Colin_Powell   1   95
+Colin_Powell   1   142
+Colin_Powell   1   189
+Colin_Powell   48   95
+Colin_Powell   48   142
+Colin_Powell   48   189
+Colin_Powell   95   142
+Colin_Powell   95   189
+Colin_Powell   142   189
+Tony_Blair   1   29
+Tony_Blair   1   57
+Tony_Blair   1   85
+Tony_Blair   1   113
+Tony_Blair   29   57
+Tony_Blair   29   85
+Tony_Blair   29   113
+Tony_Blair   57   85
+Tony_Blair   57   113
+Tony_Blair   85   113
+Ariel_Sharon   1   16
+Ariel_Sharon   1   31
+Ariel_Sharon   1   46
+Ariel_Sharon   1   61
+Ariel_Sharon   16   31
+Ariel_Sharon   16   46
+Ariel_Sharon   16   61
+Ariel_Sharon   31   46
+Ariel_Sharon   31   61
+Ariel_Sharon   46   61
+Hugo_Chavez   1   15
+Hugo_Chavez   1   29
+Hugo_Chavez   1   43
+Hugo_Chavez   1   57
+Hugo_Chavez   15   29
+Hugo_Chavez   15   43
+Hugo_Chavez   15   57
+Hugo_Chavez   29   43
+Hugo_Chavez   29   57
+Hugo_Chavez   43   57
+George_W_Bush   1   Jennifer_Aniston  1
+George_W_Bush   1   Jennifer_Lopez  1
+George_W_Bush   107   Jennifer_Aniston  1
+George_W_Bush   107   Jennifer_Lopez  1
+George_W_Bush   213   Jennifer_Aniston  1
+George_W_Bush   213   Jennifer_Lopez  1
+George_W_Bush   319   Jennifer_Aniston  1
+George_W_Bush   319   Jennifer_Lopez  1
+George_W_Bush   425   Jennifer_Aniston  1
+George_W_Bush   425   Jennifer_Lopez  1
+Colin_Powell   1   Angelina_Jolie  1
+Colin_Powell   1   Igor_Ivanov  1
+Colin_Powell   48   Angelina_Jolie  1
+Colin_Powell   48   Igor_Ivanov  1
+Colin_Powell   95   Angelina_Jolie  1
+Colin_Powell   95   Igor_Ivanov  1
+Colin_Powell   142   Angelina_Jolie  1
+Colin_Powell   142   Igor_Ivanov  1
+Colin_Powell   189   Angelina_Jolie  1
+Colin_Powell   189   Igor_Ivanov  1
+Tony_Blair   1   Michael_Bloomberg  1
+Tony_Blair   1   Paul_Bremer  1
+Tony_Blair   29   Michael_Bloomberg  1
+Tony_Blair   29   Paul_Bremer  1
+Tony_Blair   57   Michael_Bloomberg  1
+Tony_Blair   57   Paul_Bremer  1
+Tony_Blair   85   Michael_Bloomberg  1
+Tony_Blair   85   Paul_Bremer  1
+Tony_Blair   113   Michael_Bloomberg  1
+Tony_Blair   113   Paul_Bremer  1
+Ariel_Sharon   1   John_Howard  1
+Ariel_Sharon   1   Joschka_Fischer  1
+Ariel_Sharon   16   John_Howard  1
+Ariel_Sharon   16   Joschka_Fischer  1
+Ariel_Sharon   31   John_Howard  1
+Ariel_Sharon   31   Joschka_Fischer  1
+Ariel_Sharon   46   John_Howard  1
+Ariel_Sharon   46   Joschka_Fischer  1
+Ariel_Sharon   61   John_Howard  1
+Ariel_Sharon   61   Joschka_Fischer  1
+Hugo_Chavez   1   Julianne_Moore  1
+Hugo_Chavez   1   Nicole_Kidman  1
+Hugo_Chavez   15   Julianne_Moore  1
+Hugo_Chavez   15   Nicole_Kidman  1
+Hugo_Chavez   29   Julianne_Moore  1
+Hugo_Chavez   29   Nicole_Kidman  1
+Hugo_Chavez   43   Julianne_Moore  1
+Hugo_Chavez   43   Nicole_Kidman  1
+Hugo_Chavez   57   Julianne_Moore  1
+Hugo_Chavez   57   Nicole_Kidman  1

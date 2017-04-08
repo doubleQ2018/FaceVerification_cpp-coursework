@@ -1,0 +1,100 @@
+George_W_Bush   3   109
+George_W_Bush   3   215
+George_W_Bush   3   321
+George_W_Bush   3   427
+George_W_Bush   109   215
+George_W_Bush   109   321
+George_W_Bush   109   427
+George_W_Bush   215   321
+George_W_Bush   215   427
+George_W_Bush   321   427
+Colin_Powell   3   50
+Colin_Powell   3   97
+Colin_Powell   3   144
+Colin_Powell   3   191
+Colin_Powell   50   97
+Colin_Powell   50   144
+Colin_Powell   50   191
+Colin_Powell   97   144
+Colin_Powell   97   191
+Colin_Powell   144   191
+Tony_Blair   3   31
+Tony_Blair   3   59
+Tony_Blair   3   87
+Tony_Blair   3   115
+Tony_Blair   31   59
+Tony_Blair   31   87
+Tony_Blair   31   115
+Tony_Blair   59   87
+Tony_Blair   59   115
+Tony_Blair   87   115
+Ariel_Sharon   3   18
+Ariel_Sharon   3   33
+Ariel_Sharon   3   48
+Ariel_Sharon   3   63
+Ariel_Sharon   18   33
+Ariel_Sharon   18   48
+Ariel_Sharon   18   63
+Ariel_Sharon   33   48
+Ariel_Sharon   33   63
+Ariel_Sharon   48   63
+Hugo_Chavez   3   17
+Hugo_Chavez   3   31
+Hugo_Chavez   3   45
+Hugo_Chavez   3   59
+Hugo_Chavez   17   31
+Hugo_Chavez   17   45
+Hugo_Chavez   17   59
+Hugo_Chavez   31   45
+Hugo_Chavez   31   59
+Hugo_Chavez   45   59
+George_W_Bush   3   Angelina_Jolie  1
+George_W_Bush   3   Igor_Ivanov  1
+George_W_Bush   109   Angelina_Jolie  1
+George_W_Bush   109   Igor_Ivanov  1
+George_W_Bush   215   Angelina_Jolie  1
+George_W_Bush   215   Igor_Ivanov  1
+George_W_Bush   321   Angelina_Jolie  1
+George_W_Bush   321   Igor_Ivanov  1
+George_W_Bush   427   Angelina_Jolie  1
+George_W_Bush   427   Igor_Ivanov  1
+Colin_Powell   3   Michael_Bloomberg  1
+Colin_Powell   3   Paul_Bremer  1
+Colin_Powell   50   Michael_Bloomberg  1
+Colin_Powell   50   Paul_Bremer  1
+Colin_Powell   97   Michael_Bloomberg  1
+Colin_Powell   97   Paul_Bremer  1
+Colin_Powell   144   Michael_Bloomberg  1
+Colin_Powell   144   Paul_Bremer  1
+Colin_Powell   191   Michael_Bloomberg  1
+Colin_Powell   191   Paul_Bremer  1
+Tony_Blair   3   John_Howard  1
+Tony_Blair   3   Joschka_Fischer  1
+Tony_Blair   31   John_Howard  1
+Tony_Blair   31   Joschka_Fischer  1
+Tony_Blair   59   John_Howard  1
+Tony_Blair   59   Joschka_Fischer  1
+Tony_Blair   87   John_Howard  1
+Tony_Blair   87   Joschka_Fischer  1
+Tony_Blair   115   John_Howard  1
+Tony_Blair   115   Joschka_Fischer  1
+Ariel_Sharon   3   Julianne_Moore  1
+Ariel_Sharon   3   Nicole_Kidman  1
+Ariel_Sharon   18   Julianne_Moore  1
+Ariel_Sharon   18   Nicole_Kidman  1
+Ariel_Sharon   33   Julianne_Moore  1
+Ariel_Sharon   33   Nicole_Kidman  1
+Ariel_Sharon   48   Julianne_Moore  1
+Ariel_Sharon   48   Nicole_Kidman  1
+Ariel_Sharon   63   Julianne_Moore  1
+Ariel_Sharon   63   Nicole_Kidman  1
+Hugo_Chavez   3   Tim_Henman  1
+Hugo_Chavez   3   Fidel_Castro  1
+Hugo_Chavez   17   Tim_Henman  1
+Hugo_Chavez   17   Fidel_Castro  1
+Hugo_Chavez   31   Tim_Henman  1
+Hugo_Chavez   31   Fidel_Castro  1
+Hugo_Chavez   45   Tim_Henman  1
+Hugo_Chavez   45   Fidel_Castro  1
+Hugo_Chavez   59   Tim_Henman  1
+Hugo_Chavez   59   Fidel_Castro  1
