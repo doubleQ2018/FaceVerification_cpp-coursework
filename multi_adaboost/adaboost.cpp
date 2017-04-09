@@ -304,6 +304,24 @@ double AdaBoost::TestS(vector<double> tf, int k) // h(k) for test candidate n
 
 void AdaBoost::TestProcessor()
 {
+   for(int i = 0; i < features.size(); i++)
+   {
+       double plikely = 0, nlikely = 0;
+       for(int j = 0; j < K; j++)
+       {
+           double x = exp(-TestS(features[i], j));
+           plikely += q[dd[i]][j] / (1 + x);                 
+           nlikely += q[dd[i]][j] * x / (1 + x);
+       }
+       vector<double> tmp;
+       tmp.push_back(plikely);
+       tmp.push_back(nlikely);
+       scores.push_back(tmp);
+       if(plikely > nlikely) test_result.push_back("1");
+       else test_result.push_back("-1");
+
+   }
+
    int n = test_features.size();
    for(int i = 0; i < n; i++)
    {
@@ -317,6 +335,7 @@ void AdaBoost::TestProcessor()
        vector<double> tmp;
        tmp.push_back(plikely);
        tmp.push_back(nlikely);
+       scores.push_back(tmp);
        if(plikely > nlikely) test_result.push_back("1");
        else test_result.push_back("-1");
 
