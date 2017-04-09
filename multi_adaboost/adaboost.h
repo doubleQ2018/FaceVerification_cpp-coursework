@@ -6,7 +6,7 @@ using namespace std;
 class AdaBoost
 {
     public:
-        AdaBoost(vector<vector<double> > x, vector<int> y, vector<vector<double> > test, int m);
+        AdaBoost(vector<vector<double> > x, vector<int> y, vector<vector<double> > test, int m, int t1, int k1);
         void Processor();
         void TestProcessor();
         void SaveResult();
@@ -40,6 +40,7 @@ class AdaBoost
         vector<vector<double> > dimensions; // K x T
         vector<vector<double> > thresholds; // K x T
         vector<string> test_result;
+        vector<vector<double> > scores;
         virtual int S(double z, double ru) {return z <= ru ? 1 : -1;}
         void TrainProcessor();
         void RenewWeight(int k);
