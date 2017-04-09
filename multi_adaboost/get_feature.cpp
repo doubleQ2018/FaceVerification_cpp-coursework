@@ -45,7 +45,7 @@ void FeatureProcessor::LoadPair()
     int i = 0;
     while(getline(in, line))
     {
-        if(i < 50)
+        if(i < 1800)
         {
             istringstream inn(line);
             string x, a, b;
@@ -68,7 +68,7 @@ void FeatureProcessor::LoadPair()
     i = 0;
     while(getline(in1, line1))
     {
-        if(i < 50)
+        if(i < 1800)
         {
             istringstream inn(line1);
             string x, a, b;
@@ -99,7 +99,7 @@ vector<double> calculate(vector<double> &x, vector<double> y)
 }
 void FeatureProcessor::GetFeature()
 {
-    string path = "/Users/zhangqi/STUDY/qq/data/pre_data/";
+    string path = "/Users/zhangqi/STUDY/qq/data/data/";
     cout<<"Preparint train set..."<<endl;
     for(int i = 0; i < fpair.size(); i++)
     //for(int i = 1790; i < 1810; i++)

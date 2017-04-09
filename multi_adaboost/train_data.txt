@@ -1,0 +1,3800 @@
+George_W_Bush   1   54
+George_W_Bush   1   107
+George_W_Bush   1   160
+George_W_Bush   1   213
+George_W_Bush   1   266
+George_W_Bush   1   319
+George_W_Bush   1   372
+George_W_Bush   1   425
+George_W_Bush   1   478
+George_W_Bush   54   107
+George_W_Bush   54   160
+George_W_Bush   54   213
+George_W_Bush   54   266
+George_W_Bush   54   319
+George_W_Bush   54   372
+George_W_Bush   54   425
+George_W_Bush   54   478
+George_W_Bush   107   160
+George_W_Bush   107   213
+George_W_Bush   107   266
+George_W_Bush   107   319
+George_W_Bush   107   372
+George_W_Bush   107   425
+George_W_Bush   107   478
+George_W_Bush   160   213
+George_W_Bush   160   266
+George_W_Bush   160   319
+George_W_Bush   160   372
+George_W_Bush   160   425
+George_W_Bush   160   478
+George_W_Bush   213   266
+George_W_Bush   213   319
+George_W_Bush   213   372
+George_W_Bush   213   425
+George_W_Bush   213   478
+George_W_Bush   266   319
+George_W_Bush   266   372
+George_W_Bush   266   425
+George_W_Bush   266   478
+George_W_Bush   319   372
+George_W_Bush   319   425
+George_W_Bush   319   478
+George_W_Bush   372   425
+George_W_Bush   372   478
+George_W_Bush   425   478
+Colin_Powell   1   24
+Colin_Powell   1   47
+Colin_Powell   1   70
+Colin_Powell   1   93
+Colin_Powell   1   116
+Colin_Powell   1   139
+Colin_Powell   1   162
+Colin_Powell   1   185
+Colin_Powell   1   208
+Colin_Powell   24   47
+Colin_Powell   24   70
+Colin_Powell   24   93
+Colin_Powell   24   116
+Colin_Powell   24   139
+Colin_Powell   24   162
+Colin_Powell   24   185
+Colin_Powell   24   208
+Colin_Powell   47   70
+Colin_Powell   47   93
+Colin_Powell   47   116
+Colin_Powell   47   139
+Colin_Powell   47   162
+Colin_Powell   47   185
+Colin_Powell   47   208
+Colin_Powell   70   93
+Colin_Powell   70   116
+Colin_Powell   70   139
+Colin_Powell   70   162
+Colin_Powell   70   185
+Colin_Powell   70   208
+Colin_Powell   93   116
+Colin_Powell   93   139
+Colin_Powell   93   162
+Colin_Powell   93   185
+Colin_Powell   93   208
+Colin_Powell   116   139
+Colin_Powell   116   162
+Colin_Powell   116   185
+Colin_Powell   116   208
+Colin_Powell   139   162
+Colin_Powell   139   185
+Colin_Powell   139   208
+Colin_Powell   162   185
+Colin_Powell   162   208
+Colin_Powell   185   208
+Tony_Blair   1   15
+Tony_Blair   1   29
+Tony_Blair   1   43
+Tony_Blair   1   57
+Tony_Blair   1   71
+Tony_Blair   1   85
+Tony_Blair   1   99
+Tony_Blair   1   113
+Tony_Blair   1   127
+Tony_Blair   15   29
+Tony_Blair   15   43
+Tony_Blair   15   57
+Tony_Blair   15   71
+Tony_Blair   15   85
+Tony_Blair   15   99
+Tony_Blair   15   113
+Tony_Blair   15   127
+Tony_Blair   29   43
+Tony_Blair   29   57
+Tony_Blair   29   71
+Tony_Blair   29   85
+Tony_Blair   29   99
+Tony_Blair   29   113
+Tony_Blair   29   127
+Tony_Blair   43   57
+Tony_Blair   43   71
+Tony_Blair   43   85
+Tony_Blair   43   99
+Tony_Blair   43   113
+Tony_Blair   43   127
+Tony_Blair   57   71
+Tony_Blair   57   85
+Tony_Blair   57   99
+Tony_Blair   57   113
+Tony_Blair   57   127
+Tony_Blair   71   85
+Tony_Blair   71   99
+Tony_Blair   71   113
+Tony_Blair   71   127
+Tony_Blair   85   99
+Tony_Blair   85   113
+Tony_Blair   85   127
+Tony_Blair   99   113
+Tony_Blair   99   127
+Tony_Blair   113   127
+Ariel_Sharon   1   8
+Ariel_Sharon   1   15
+Ariel_Sharon   1   22
+Ariel_Sharon   1   29
+Ariel_Sharon   1   36
+Ariel_Sharon   1   43
+Ariel_Sharon   1   50
+Ariel_Sharon   1   57
+Ariel_Sharon   1   64
+Ariel_Sharon   8   15
+Ariel_Sharon   8   22
+Ariel_Sharon   8   29
+Ariel_Sharon   8   36
+Ariel_Sharon   8   43
+Ariel_Sharon   8   50
+Ariel_Sharon   8   57
+Ariel_Sharon   8   64
+Ariel_Sharon   15   22
+Ariel_Sharon   15   29
+Ariel_Sharon   15   36
+Ariel_Sharon   15   43
+Ariel_Sharon   15   50
+Ariel_Sharon   15   57
+Ariel_Sharon   15   64
+Ariel_Sharon   22   29
+Ariel_Sharon   22   36
+Ariel_Sharon   22   43
+Ariel_Sharon   22   50
+Ariel_Sharon   22   57
+Ariel_Sharon   22   64
+Ariel_Sharon   29   36
+Ariel_Sharon   29   43
+Ariel_Sharon   29   50
+Ariel_Sharon   29   57
+Ariel_Sharon   29   64
+Ariel_Sharon   36   43
+Ariel_Sharon   36   50
+Ariel_Sharon   36   57
+Ariel_Sharon   36   64
+Ariel_Sharon   43   50
+Ariel_Sharon   43   57
+Ariel_Sharon   43   64
+Ariel_Sharon   50   57
+Ariel_Sharon   50   64
+Ariel_Sharon   57   64
+Hugo_Chavez   1   8
+Hugo_Chavez   1   15
+Hugo_Chavez   1   22
+Hugo_Chavez   1   29
+Hugo_Chavez   1   36
+Hugo_Chavez   1   43
+Hugo_Chavez   1   50
+Hugo_Chavez   1   57
+Hugo_Chavez   1   64
+Hugo_Chavez   8   15
+Hugo_Chavez   8   22
+Hugo_Chavez   8   29
+Hugo_Chavez   8   36
+Hugo_Chavez   8   43
+Hugo_Chavez   8   50
+Hugo_Chavez   8   57
+Hugo_Chavez   8   64
+Hugo_Chavez   15   22
+Hugo_Chavez   15   29
+Hugo_Chavez   15   36
+Hugo_Chavez   15   43
+Hugo_Chavez   15   50
+Hugo_Chavez   15   57
+Hugo_Chavez   15   64
+Hugo_Chavez   22   29
+Hugo_Chavez   22   36
+Hugo_Chavez   22   43
+Hugo_Chavez   22   50
+Hugo_Chavez   22   57
+Hugo_Chavez   22   64
+Hugo_Chavez   29   36
+Hugo_Chavez   29   43
+Hugo_Chavez   29   50
+Hugo_Chavez   29   57
+Hugo_Chavez   29   64
+Hugo_Chavez   36   43
+Hugo_Chavez   36   50
+Hugo_Chavez   36   57
+Hugo_Chavez   36   64
+Hugo_Chavez   43   50
+Hugo_Chavez   43   57
+Hugo_Chavez   43   64
+Hugo_Chavez   50   57
+Hugo_Chavez   50   64
+Hugo_Chavez   57   64
+Junichiro_Koizumi   1   7
+Junichiro_Koizumi   1   13
+Junichiro_Koizumi   1   19
+Junichiro_Koizumi   1   25
+Junichiro_Koizumi   1   31
+Junichiro_Koizumi   1   37
+Junichiro_Koizumi   1   43
+Junichiro_Koizumi   1   49
+Junichiro_Koizumi   1   55
+Junichiro_Koizumi   7   13
+Junichiro_Koizumi   7   19
+Junichiro_Koizumi   7   25
+Junichiro_Koizumi   7   31
+Junichiro_Koizumi   7   37
+Junichiro_Koizumi   7   43
+Junichiro_Koizumi   7   49
+Junichiro_Koizumi   7   55
+Junichiro_Koizumi   13   19
+Junichiro_Koizumi   13   25
+Junichiro_Koizumi   13   31
+Junichiro_Koizumi   13   37
+Junichiro_Koizumi   13   43
+Junichiro_Koizumi   13   49
+Junichiro_Koizumi   13   55
+Junichiro_Koizumi   19   25
+Junichiro_Koizumi   19   31
+Junichiro_Koizumi   19   37
+Junichiro_Koizumi   19   43
+Junichiro_Koizumi   19   49
+Junichiro_Koizumi   19   55
+Junichiro_Koizumi   25   31
+Junichiro_Koizumi   25   37
+Junichiro_Koizumi   25   43
+Junichiro_Koizumi   25   49
+Junichiro_Koizumi   25   55
+Junichiro_Koizumi   31   37
+Junichiro_Koizumi   31   43
+Junichiro_Koizumi   31   49
+Junichiro_Koizumi   31   55
+Junichiro_Koizumi   37   43
+Junichiro_Koizumi   37   49
+Junichiro_Koizumi   37   55
+Junichiro_Koizumi   43   49
+Junichiro_Koizumi   43   55
+Junichiro_Koizumi   49   55
+Jean_Chretien   1   6
+Jean_Chretien   1   11
+Jean_Chretien   1   16
+Jean_Chretien   1   21
+Jean_Chretien   1   26
+Jean_Chretien   1   31
+Jean_Chretien   1   36
+Jean_Chretien   1   41
+Jean_Chretien   1   46
+Jean_Chretien   6   11
+Jean_Chretien   6   16
+Jean_Chretien   6   21
+Jean_Chretien   6   26
+Jean_Chretien   6   31
+Jean_Chretien   6   36
+Jean_Chretien   6   41
+Jean_Chretien   6   46
+Jean_Chretien   11   16
+Jean_Chretien   11   21
+Jean_Chretien   11   26
+Jean_Chretien   11   31
+Jean_Chretien   11   36
+Jean_Chretien   11   41
+Jean_Chretien   11   46
+Jean_Chretien   16   21
+Jean_Chretien   16   26
+Jean_Chretien   16   31
+Jean_Chretien   16   36
+Jean_Chretien   16   41
+Jean_Chretien   16   46
+Jean_Chretien   21   26
+Jean_Chretien   21   31
+Jean_Chretien   21   36
+Jean_Chretien   21   41
+Jean_Chretien   21   46
+Jean_Chretien   26   31
+Jean_Chretien   26   36
+Jean_Chretien   26   41
+Jean_Chretien   26   46
+Jean_Chretien   31   36
+Jean_Chretien   31   41
+Jean_Chretien   31   46
+Jean_Chretien   36   41
+Jean_Chretien   36   46
+Jean_Chretien   41   46
+John_Ashcroft   1   6
+John_Ashcroft   1   11
+John_Ashcroft   1   16
+John_Ashcroft   1   21
+John_Ashcroft   1   26
+John_Ashcroft   1   31
+John_Ashcroft   1   36
+John_Ashcroft   1   41
+John_Ashcroft   1   46
+John_Ashcroft   6   11
+John_Ashcroft   6   16
+John_Ashcroft   6   21
+John_Ashcroft   6   26
+John_Ashcroft   6   31
+John_Ashcroft   6   36
+John_Ashcroft   6   41
+John_Ashcroft   6   46
+John_Ashcroft   11   16
+John_Ashcroft   11   21
+John_Ashcroft   11   26
+John_Ashcroft   11   31
+John_Ashcroft   11   36
+John_Ashcroft   11   41
+John_Ashcroft   11   46
+John_Ashcroft   16   21
+John_Ashcroft   16   26
+John_Ashcroft   16   31
+John_Ashcroft   16   36
+John_Ashcroft   16   41
+John_Ashcroft   16   46
+John_Ashcroft   21   26
+John_Ashcroft   21   31
+John_Ashcroft   21   36
+John_Ashcroft   21   41
+John_Ashcroft   21   46
+John_Ashcroft   26   31
+John_Ashcroft   26   36
+John_Ashcroft   26   41
+John_Ashcroft   26   46
+John_Ashcroft   31   36
+John_Ashcroft   31   41
+John_Ashcroft   31   46
+John_Ashcroft   36   41
+John_Ashcroft   36   46
+John_Ashcroft   41   46
+Serena_Williams   1   6
+Serena_Williams   1   11
+Serena_Williams   1   16
+Serena_Williams   1   21
+Serena_Williams   1   26
+Serena_Williams   1   31
+Serena_Williams   1   36
+Serena_Williams   1   41
+Serena_Williams   1   46
+Serena_Williams   6   11
+Serena_Williams   6   16
+Serena_Williams   6   21
+Serena_Williams   6   26
+Serena_Williams   6   31
+Serena_Williams   6   36
+Serena_Williams   6   41
+Serena_Williams   6   46
+Serena_Williams   11   16
+Serena_Williams   11   21
+Serena_Williams   11   26
+Serena_Williams   11   31
+Serena_Williams   11   36
+Serena_Williams   11   41
+Serena_Williams   11   46
+Serena_Williams   16   21
+Serena_Williams   16   26
+Serena_Williams   16   31
+Serena_Williams   16   36
+Serena_Williams   16   41
+Serena_Williams   16   46
+Serena_Williams   21   26
+Serena_Williams   21   31
+Serena_Williams   21   36
+Serena_Williams   21   41
+Serena_Williams   21   46
+Serena_Williams   26   31
+Serena_Williams   26   36
+Serena_Williams   26   41
+Serena_Williams   26   46
+Serena_Williams   31   36
+Serena_Williams   31   41
+Serena_Williams   31   46
+Serena_Williams   36   41
+Serena_Williams   36   46
+Serena_Williams   41   46
+Vladimir_Putin   1   5
+Vladimir_Putin   1   9
+Vladimir_Putin   1   13
+Vladimir_Putin   1   17
+Vladimir_Putin   1   21
+Vladimir_Putin   1   25
+Vladimir_Putin   1   29
+Vladimir_Putin   1   33
+Vladimir_Putin   1   37
+Vladimir_Putin   5   9
+Vladimir_Putin   5   13
+Vladimir_Putin   5   17
+Vladimir_Putin   5   21
+Vladimir_Putin   5   25
+Vladimir_Putin   5   29
+Vladimir_Putin   5   33
+Vladimir_Putin   5   37
+Vladimir_Putin   9   13
+Vladimir_Putin   9   17
+Vladimir_Putin   9   21
+Vladimir_Putin   9   25
+Vladimir_Putin   9   29
+Vladimir_Putin   9   33
+Vladimir_Putin   9   37
+Vladimir_Putin   13   17
+Vladimir_Putin   13   21
+Vladimir_Putin   13   25
+Vladimir_Putin   13   29
+Vladimir_Putin   13   33
+Vladimir_Putin   13   37
+Vladimir_Putin   17   21
+Vladimir_Putin   17   25
+Vladimir_Putin   17   29
+Vladimir_Putin   17   33
+Vladimir_Putin   17   37
+Vladimir_Putin   21   25
+Vladimir_Putin   21   29
+Vladimir_Putin   21   33
+Vladimir_Putin   21   37
+Vladimir_Putin   25   29
+Vladimir_Putin   25   33
+Vladimir_Putin   25   37
+Vladimir_Putin   29   33
+Vladimir_Putin   29   37
+Vladimir_Putin   33   37
+Luiz_Inacio_Lula_da_Silva   1   5
+Luiz_Inacio_Lula_da_Silva   1   9
+Luiz_Inacio_Lula_da_Silva   1   13
+Luiz_Inacio_Lula_da_Silva   1   17
+Luiz_Inacio_Lula_da_Silva   1   21
+Luiz_Inacio_Lula_da_Silva   1   25
+Luiz_Inacio_Lula_da_Silva   1   29
+Luiz_Inacio_Lula_da_Silva   1   33
+Luiz_Inacio_Lula_da_Silva   1   37
+Luiz_Inacio_Lula_da_Silva   5   9
+Luiz_Inacio_Lula_da_Silva   5   13
+Luiz_Inacio_Lula_da_Silva   5   17
+Luiz_Inacio_Lula_da_Silva   5   21
+Luiz_Inacio_Lula_da_Silva   5   25
+Luiz_Inacio_Lula_da_Silva   5   29
+Luiz_Inacio_Lula_da_Silva   5   33
+Luiz_Inacio_Lula_da_Silva   5   37
+Luiz_Inacio_Lula_da_Silva   9   13
+Luiz_Inacio_Lula_da_Silva   9   17
+Luiz_Inacio_Lula_da_Silva   9   21
+Luiz_Inacio_Lula_da_Silva   9   25
+Luiz_Inacio_Lula_da_Silva   9   29
+Luiz_Inacio_Lula_da_Silva   9   33
+Luiz_Inacio_Lula_da_Silva   9   37
+Luiz_Inacio_Lula_da_Silva   13   17
+Luiz_Inacio_Lula_da_Silva   13   21
+Luiz_Inacio_Lula_da_Silva   13   25
+Luiz_Inacio_Lula_da_Silva   13   29
+Luiz_Inacio_Lula_da_Silva   13   33
+Luiz_Inacio_Lula_da_Silva   13   37
+Luiz_Inacio_Lula_da_Silva   17   21
+Luiz_Inacio_Lula_da_Silva   17   25
+Luiz_Inacio_Lula_da_Silva   17   29
+Luiz_Inacio_Lula_da_Silva   17   33
+Luiz_Inacio_Lula_da_Silva   17   37
+Luiz_Inacio_Lula_da_Silva   21   25
+Luiz_Inacio_Lula_da_Silva   21   29
+Luiz_Inacio_Lula_da_Silva   21   33
+Luiz_Inacio_Lula_da_Silva   21   37
+Luiz_Inacio_Lula_da_Silva   25   29
+Luiz_Inacio_Lula_da_Silva   25   33
+Luiz_Inacio_Lula_da_Silva   25   37
+Luiz_Inacio_Lula_da_Silva   29   33
+Luiz_Inacio_Lula_da_Silva   29   37
+Luiz_Inacio_Lula_da_Silva   33   37
+Gloria_Macapagal_Arroyo   1   5
+Gloria_Macapagal_Arroyo   1   9
+Gloria_Macapagal_Arroyo   1   13
+Gloria_Macapagal_Arroyo   1   17
+Gloria_Macapagal_Arroyo   1   21
+Gloria_Macapagal_Arroyo   1   25
+Gloria_Macapagal_Arroyo   1   29
+Gloria_Macapagal_Arroyo   1   33
+Gloria_Macapagal_Arroyo   1   37
+Gloria_Macapagal_Arroyo   5   9
+Gloria_Macapagal_Arroyo   5   13
+Gloria_Macapagal_Arroyo   5   17
+Gloria_Macapagal_Arroyo   5   21
+Gloria_Macapagal_Arroyo   5   25
+Gloria_Macapagal_Arroyo   5   29
+Gloria_Macapagal_Arroyo   5   33
+Gloria_Macapagal_Arroyo   5   37
+Gloria_Macapagal_Arroyo   9   13
+Gloria_Macapagal_Arroyo   9   17
+Gloria_Macapagal_Arroyo   9   21
+Gloria_Macapagal_Arroyo   9   25
+Gloria_Macapagal_Arroyo   9   29
+Gloria_Macapagal_Arroyo   9   33
+Gloria_Macapagal_Arroyo   9   37
+Gloria_Macapagal_Arroyo   13   17
+Gloria_Macapagal_Arroyo   13   21
+Gloria_Macapagal_Arroyo   13   25
+Gloria_Macapagal_Arroyo   13   29
+Gloria_Macapagal_Arroyo   13   33
+Gloria_Macapagal_Arroyo   13   37
+Gloria_Macapagal_Arroyo   17   21
+Gloria_Macapagal_Arroyo   17   25
+Gloria_Macapagal_Arroyo   17   29
+Gloria_Macapagal_Arroyo   17   33
+Gloria_Macapagal_Arroyo   17   37
+Gloria_Macapagal_Arroyo   21   25
+Gloria_Macapagal_Arroyo   21   29
+Gloria_Macapagal_Arroyo   21   33
+Gloria_Macapagal_Arroyo   21   37
+Gloria_Macapagal_Arroyo   25   29
+Gloria_Macapagal_Arroyo   25   33
+Gloria_Macapagal_Arroyo   25   37
+Gloria_Macapagal_Arroyo   29   33
+Gloria_Macapagal_Arroyo   29   37
+Gloria_Macapagal_Arroyo   33   37
+Arnold_Schwarzenegger   1   5
+Arnold_Schwarzenegger   1   9
+Arnold_Schwarzenegger   1   13
+Arnold_Schwarzenegger   1   17
+Arnold_Schwarzenegger   1   21
+Arnold_Schwarzenegger   1   25
+Arnold_Schwarzenegger   1   29
+Arnold_Schwarzenegger   1   33
+Arnold_Schwarzenegger   1   37
+Arnold_Schwarzenegger   5   9
+Arnold_Schwarzenegger   5   13
+Arnold_Schwarzenegger   5   17
+Arnold_Schwarzenegger   5   21
+Arnold_Schwarzenegger   5   25
+Arnold_Schwarzenegger   5   29
+Arnold_Schwarzenegger   5   33
+Arnold_Schwarzenegger   5   37
+Arnold_Schwarzenegger   9   13
+Arnold_Schwarzenegger   9   17
+Arnold_Schwarzenegger   9   21
+Arnold_Schwarzenegger   9   25
+Arnold_Schwarzenegger   9   29
+Arnold_Schwarzenegger   9   33
+Arnold_Schwarzenegger   9   37
+Arnold_Schwarzenegger   13   17
+Arnold_Schwarzenegger   13   21
+Arnold_Schwarzenegger   13   25
+Arnold_Schwarzenegger   13   29
+Arnold_Schwarzenegger   13   33
+Arnold_Schwarzenegger   13   37
+Arnold_Schwarzenegger   17   21
+Arnold_Schwarzenegger   17   25
+Arnold_Schwarzenegger   17   29
+Arnold_Schwarzenegger   17   33
+Arnold_Schwarzenegger   17   37
+Arnold_Schwarzenegger   21   25
+Arnold_Schwarzenegger   21   29
+Arnold_Schwarzenegger   21   33
+Arnold_Schwarzenegger   21   37
+Arnold_Schwarzenegger   25   29
+Arnold_Schwarzenegger   25   33
+Arnold_Schwarzenegger   25   37
+Arnold_Schwarzenegger   29   33
+Arnold_Schwarzenegger   29   37
+Arnold_Schwarzenegger   33   37
+Laura_Bush   1   5
+Laura_Bush   1   9
+Laura_Bush   1   13
+Laura_Bush   1   17
+Laura_Bush   1   21
+Laura_Bush   1   25
+Laura_Bush   1   29
+Laura_Bush   1   33
+Laura_Bush   1   37
+Laura_Bush   5   9
+Laura_Bush   5   13
+Laura_Bush   5   17
+Laura_Bush   5   21
+Laura_Bush   5   25
+Laura_Bush   5   29
+Laura_Bush   5   33
+Laura_Bush   5   37
+Laura_Bush   9   13
+Laura_Bush   9   17
+Laura_Bush   9   21
+Laura_Bush   9   25
+Laura_Bush   9   29
+Laura_Bush   9   33
+Laura_Bush   9   37
+Laura_Bush   13   17
+Laura_Bush   13   21
+Laura_Bush   13   25
+Laura_Bush   13   29
+Laura_Bush   13   33
+Laura_Bush   13   37
+Laura_Bush   17   21
+Laura_Bush   17   25
+Laura_Bush   17   29
+Laura_Bush   17   33
+Laura_Bush   17   37
+Laura_Bush   21   25
+Laura_Bush   21   29
+Laura_Bush   21   33
+Laura_Bush   21   37
+Laura_Bush   25   29
+Laura_Bush   25   33
+Laura_Bush   25   37
+Laura_Bush   29   33
+Laura_Bush   29   37
+Laura_Bush   33   37
+Lleyton_Hewitt   1   5
+Lleyton_Hewitt   1   9
+Lleyton_Hewitt   1   13
+Lleyton_Hewitt   1   17
+Lleyton_Hewitt   1   21
+Lleyton_Hewitt   1   25
+Lleyton_Hewitt   1   29
+Lleyton_Hewitt   1   33
+Lleyton_Hewitt   1   37
+Lleyton_Hewitt   5   9
+Lleyton_Hewitt   5   13
+Lleyton_Hewitt   5   17
+Lleyton_Hewitt   5   21
+Lleyton_Hewitt   5   25
+Lleyton_Hewitt   5   29
+Lleyton_Hewitt   5   33
+Lleyton_Hewitt   5   37
+Lleyton_Hewitt   9   13
+Lleyton_Hewitt   9   17
+Lleyton_Hewitt   9   21
+Lleyton_Hewitt   9   25
+Lleyton_Hewitt   9   29
+Lleyton_Hewitt   9   33
+Lleyton_Hewitt   9   37
+Lleyton_Hewitt   13   17
+Lleyton_Hewitt   13   21
+Lleyton_Hewitt   13   25
+Lleyton_Hewitt   13   29
+Lleyton_Hewitt   13   33
+Lleyton_Hewitt   13   37
+Lleyton_Hewitt   17   21
+Lleyton_Hewitt   17   25
+Lleyton_Hewitt   17   29
+Lleyton_Hewitt   17   33
+Lleyton_Hewitt   17   37
+Lleyton_Hewitt   21   25
+Lleyton_Hewitt   21   29
+Lleyton_Hewitt   21   33
+Lleyton_Hewitt   21   37
+Lleyton_Hewitt   25   29
+Lleyton_Hewitt   25   33
+Lleyton_Hewitt   25   37
+Lleyton_Hewitt   29   33
+Lleyton_Hewitt   29   37
+Lleyton_Hewitt   33   37
+Alejandro_Toledo   1   4
+Alejandro_Toledo   1   7
+Alejandro_Toledo   1   10
+Alejandro_Toledo   1   13
+Alejandro_Toledo   1   16
+Alejandro_Toledo   1   19
+Alejandro_Toledo   1   22
+Alejandro_Toledo   1   25
+Alejandro_Toledo   1   28
+Alejandro_Toledo   4   7
+Alejandro_Toledo   4   10
+Alejandro_Toledo   4   13
+Alejandro_Toledo   4   16
+Alejandro_Toledo   4   19
+Alejandro_Toledo   4   22
+Alejandro_Toledo   4   25
+Alejandro_Toledo   4   28
+Alejandro_Toledo   7   10
+Alejandro_Toledo   7   13
+Alejandro_Toledo   7   16
+Alejandro_Toledo   7   19
+Alejandro_Toledo   7   22
+Alejandro_Toledo   7   25
+Alejandro_Toledo   7   28
+Alejandro_Toledo   10   13
+Alejandro_Toledo   10   16
+Alejandro_Toledo   10   19
+Alejandro_Toledo   10   22
+Alejandro_Toledo   10   25
+Alejandro_Toledo   10   28
+Alejandro_Toledo   13   16
+Alejandro_Toledo   13   19
+Alejandro_Toledo   13   22
+Alejandro_Toledo   13   25
+Alejandro_Toledo   13   28
+Alejandro_Toledo   16   19
+Alejandro_Toledo   16   22
+Alejandro_Toledo   16   25
+Alejandro_Toledo   16   28
+Alejandro_Toledo   19   22
+Alejandro_Toledo   19   25
+Alejandro_Toledo   19   28
+Alejandro_Toledo   22   25
+Alejandro_Toledo   22   28
+Alejandro_Toledo   25   28
+Hans_Blix   1   4
+Hans_Blix   1   7
+Hans_Blix   1   10
+Hans_Blix   1   13
+Hans_Blix   1   16
+Hans_Blix   1   19
+Hans_Blix   1   22
+Hans_Blix   1   25
+Hans_Blix   1   28
+Hans_Blix   4   7
+Hans_Blix   4   10
+Hans_Blix   4   13
+Hans_Blix   4   16
+Hans_Blix   4   19
+Hans_Blix   4   22
+Hans_Blix   4   25
+Hans_Blix   4   28
+Hans_Blix   7   10
+Hans_Blix   7   13
+Hans_Blix   7   16
+Hans_Blix   7   19
+Hans_Blix   7   22
+Hans_Blix   7   25
+Hans_Blix   7   28
+Hans_Blix   10   13
+Hans_Blix   10   16
+Hans_Blix   10   19
+Hans_Blix   10   22
+Hans_Blix   10   25
+Hans_Blix   10   28
+Hans_Blix   13   16
+Hans_Blix   13   19
+Hans_Blix   13   22
+Hans_Blix   13   25
+Hans_Blix   13   28
+Hans_Blix   16   19
+Hans_Blix   16   22
+Hans_Blix   16   25
+Hans_Blix   16   28
+Hans_Blix   19   22
+Hans_Blix   19   25
+Hans_Blix   19   28
+Hans_Blix   22   25
+Hans_Blix   22   28
+Hans_Blix   25   28
+Nestor_Kirchner   1   4
+Nestor_Kirchner   1   7
+Nestor_Kirchner   1   10
+Nestor_Kirchner   1   13
+Nestor_Kirchner   1   16
+Nestor_Kirchner   1   19
+Nestor_Kirchner   1   22
+Nestor_Kirchner   1   25
+Nestor_Kirchner   1   28
+Nestor_Kirchner   4   7
+Nestor_Kirchner   4   10
+Nestor_Kirchner   4   13
+Nestor_Kirchner   4   16
+Nestor_Kirchner   4   19
+Nestor_Kirchner   4   22
+Nestor_Kirchner   4   25
+Nestor_Kirchner   4   28
+Nestor_Kirchner   7   10
+Nestor_Kirchner   7   13
+Nestor_Kirchner   7   16
+Nestor_Kirchner   7   19
+Nestor_Kirchner   7   22
+Nestor_Kirchner   7   25
+Nestor_Kirchner   7   28
+Nestor_Kirchner   10   13
+Nestor_Kirchner   10   16
+Nestor_Kirchner   10   19
+Nestor_Kirchner   10   22
+Nestor_Kirchner   10   25
+Nestor_Kirchner   10   28
+Nestor_Kirchner   13   16
+Nestor_Kirchner   13   19
+Nestor_Kirchner   13   22
+Nestor_Kirchner   13   25
+Nestor_Kirchner   13   28
+Nestor_Kirchner   16   19
+Nestor_Kirchner   16   22
+Nestor_Kirchner   16   25
+Nestor_Kirchner   16   28
+Nestor_Kirchner   19   22
+Nestor_Kirchner   19   25
+Nestor_Kirchner   19   28
+Nestor_Kirchner   22   25
+Nestor_Kirchner   22   28
+Nestor_Kirchner   25   28
+Andre_Agassi   1   4
+Andre_Agassi   1   7
+Andre_Agassi   1   10
+Andre_Agassi   1   13
+Andre_Agassi   1   16
+Andre_Agassi   1   19
+Andre_Agassi   1   22
+Andre_Agassi   1   25
+Andre_Agassi   1   28
+Andre_Agassi   4   7
+Andre_Agassi   4   10
+Andre_Agassi   4   13
+Andre_Agassi   4   16
+Andre_Agassi   4   19
+Andre_Agassi   4   22
+Andre_Agassi   4   25
+Andre_Agassi   4   28
+Andre_Agassi   7   10
+Andre_Agassi   7   13
+Andre_Agassi   7   16
+Andre_Agassi   7   19
+Andre_Agassi   7   22
+Andre_Agassi   7   25
+Andre_Agassi   7   28
+Andre_Agassi   10   13
+Andre_Agassi   10   16
+Andre_Agassi   10   19
+Andre_Agassi   10   22
+Andre_Agassi   10   25
+Andre_Agassi   10   28
+Andre_Agassi   13   16
+Andre_Agassi   13   19
+Andre_Agassi   13   22
+Andre_Agassi   13   25
+Andre_Agassi   13   28
+Andre_Agassi   16   19
+Andre_Agassi   16   22
+Andre_Agassi   16   25
+Andre_Agassi   16   28
+Andre_Agassi   19   22
+Andre_Agassi   19   25
+Andre_Agassi   19   28
+Andre_Agassi   22   25
+Andre_Agassi   22   28
+Andre_Agassi   25   28
+Megawati_Sukarnoputri   1   4
+Megawati_Sukarnoputri   1   7
+Megawati_Sukarnoputri   1   10
+Megawati_Sukarnoputri   1   13
+Megawati_Sukarnoputri   1   16
+Megawati_Sukarnoputri   1   19
+Megawati_Sukarnoputri   1   22
+Megawati_Sukarnoputri   1   25
+Megawati_Sukarnoputri   1   28
+Megawati_Sukarnoputri   4   7
+Megawati_Sukarnoputri   4   10
+Megawati_Sukarnoputri   4   13
+Megawati_Sukarnoputri   4   16
+Megawati_Sukarnoputri   4   19
+Megawati_Sukarnoputri   4   22
+Megawati_Sukarnoputri   4   25
+Megawati_Sukarnoputri   4   28
+Megawati_Sukarnoputri   7   10
+Megawati_Sukarnoputri   7   13
+Megawati_Sukarnoputri   7   16
+Megawati_Sukarnoputri   7   19
+Megawati_Sukarnoputri   7   22
+Megawati_Sukarnoputri   7   25
+Megawati_Sukarnoputri   7   28
+Megawati_Sukarnoputri   10   13
+Megawati_Sukarnoputri   10   16
+Megawati_Sukarnoputri   10   19
+Megawati_Sukarnoputri   10   22
+Megawati_Sukarnoputri   10   25
+Megawati_Sukarnoputri   10   28
+Megawati_Sukarnoputri   13   16
+Megawati_Sukarnoputri   13   19
+Megawati_Sukarnoputri   13   22
+Megawati_Sukarnoputri   13   25
+Megawati_Sukarnoputri   13   28
+Megawati_Sukarnoputri   16   19
+Megawati_Sukarnoputri   16   22
+Megawati_Sukarnoputri   16   25
+Megawati_Sukarnoputri   16   28
+Megawati_Sukarnoputri   19   22
+Megawati_Sukarnoputri   19   25
+Megawati_Sukarnoputri   19   28
+Megawati_Sukarnoputri   22   25
+Megawati_Sukarnoputri   22   28
+Megawati_Sukarnoputri   25   28
+Tom_Ridge   1   4
+Tom_Ridge   1   7
+Tom_Ridge   1   10
+Tom_Ridge   1   13
+Tom_Ridge   1   16
+Tom_Ridge   1   19
+Tom_Ridge   1   22
+Tom_Ridge   1   25
+Tom_Ridge   1   28
+Tom_Ridge   4   7
+Tom_Ridge   4   10
+Tom_Ridge   4   13
+Tom_Ridge   4   16
+Tom_Ridge   4   19
+Tom_Ridge   4   22
+Tom_Ridge   4   25
+Tom_Ridge   4   28
+Tom_Ridge   7   10
+Tom_Ridge   7   13
+Tom_Ridge   7   16
+Tom_Ridge   7   19
+Tom_Ridge   7   22
+Tom_Ridge   7   25
+Tom_Ridge   7   28
+Tom_Ridge   10   13
+Tom_Ridge   10   16
+Tom_Ridge   10   19
+Tom_Ridge   10   22
+Tom_Ridge   10   25
+Tom_Ridge   10   28
+Tom_Ridge   13   16
+Tom_Ridge   13   19
+Tom_Ridge   13   22
+Tom_Ridge   13   25
+Tom_Ridge   13   28
+Tom_Ridge   16   19
+Tom_Ridge   16   22
+Tom_Ridge   16   25
+Tom_Ridge   16   28
+Tom_Ridge   19   22
+Tom_Ridge   19   25
+Tom_Ridge   19   28
+Tom_Ridge   22   25
+Tom_Ridge   22   28
+Tom_Ridge   25   28
+Roh_Moo-hyun   1   4
+Roh_Moo-hyun   1   7
+Roh_Moo-hyun   1   10
+Roh_Moo-hyun   1   13
+Roh_Moo-hyun   1   16
+Roh_Moo-hyun   1   19
+Roh_Moo-hyun   1   22
+Roh_Moo-hyun   1   25
+Roh_Moo-hyun   1   28
+Roh_Moo-hyun   4   7
+Roh_Moo-hyun   4   10
+Roh_Moo-hyun   4   13
+Roh_Moo-hyun   4   16
+Roh_Moo-hyun   4   19
+Roh_Moo-hyun   4   22
+Roh_Moo-hyun   4   25
+Roh_Moo-hyun   4   28
+Roh_Moo-hyun   7   10
+Roh_Moo-hyun   7   13
+Roh_Moo-hyun   7   16
+Roh_Moo-hyun   7   19
+Roh_Moo-hyun   7   22
+Roh_Moo-hyun   7   25
+Roh_Moo-hyun   7   28
+Roh_Moo-hyun   10   13
+Roh_Moo-hyun   10   16
+Roh_Moo-hyun   10   19
+Roh_Moo-hyun   10   22
+Roh_Moo-hyun   10   25
+Roh_Moo-hyun   10   28
+Roh_Moo-hyun   13   16
+Roh_Moo-hyun   13   19
+Roh_Moo-hyun   13   22
+Roh_Moo-hyun   13   25
+Roh_Moo-hyun   13   28
+Roh_Moo-hyun   16   19
+Roh_Moo-hyun   16   22
+Roh_Moo-hyun   16   25
+Roh_Moo-hyun   16   28
+Roh_Moo-hyun   19   22
+Roh_Moo-hyun   19   25
+Roh_Moo-hyun   19   28
+Roh_Moo-hyun   22   25
+Roh_Moo-hyun   22   28
+Roh_Moo-hyun   25   28
+David_Beckham   1   4
+David_Beckham   1   7
+David_Beckham   1   10
+David_Beckham   1   13
+David_Beckham   1   16
+David_Beckham   1   19
+David_Beckham   1   22
+David_Beckham   1   25
+David_Beckham   1   28
+David_Beckham   4   7
+David_Beckham   4   10
+David_Beckham   4   13
+David_Beckham   4   16
+David_Beckham   4   19
+David_Beckham   4   22
+David_Beckham   4   25
+David_Beckham   4   28
+David_Beckham   7   10
+David_Beckham   7   13
+David_Beckham   7   16
+David_Beckham   7   19
+David_Beckham   7   22
+David_Beckham   7   25
+David_Beckham   7   28
+David_Beckham   10   13
+David_Beckham   10   16
+David_Beckham   10   19
+David_Beckham   10   22
+David_Beckham   10   25
+David_Beckham   10   28
+David_Beckham   13   16
+David_Beckham   13   19
+David_Beckham   13   22
+David_Beckham   13   25
+David_Beckham   13   28
+David_Beckham   16   19
+David_Beckham   16   22
+David_Beckham   16   25
+David_Beckham   16   28
+David_Beckham   19   22
+David_Beckham   19   25
+David_Beckham   19   28
+David_Beckham   22   25
+David_Beckham   22   28
+David_Beckham   25   28
+Guillermo_Coria   1   4
+Guillermo_Coria   1   7
+Guillermo_Coria   1   10
+Guillermo_Coria   1   13
+Guillermo_Coria   1   16
+Guillermo_Coria   1   19
+Guillermo_Coria   1   22
+Guillermo_Coria   1   25
+Guillermo_Coria   1   28
+Guillermo_Coria   4   7
+Guillermo_Coria   4   10
+Guillermo_Coria   4   13
+Guillermo_Coria   4   16
+Guillermo_Coria   4   19
+Guillermo_Coria   4   22
+Guillermo_Coria   4   25
+Guillermo_Coria   4   28
+Guillermo_Coria   7   10
+Guillermo_Coria   7   13
+Guillermo_Coria   7   16
+Guillermo_Coria   7   19
+Guillermo_Coria   7   22
+Guillermo_Coria   7   25
+Guillermo_Coria   7   28
+Guillermo_Coria   10   13
+Guillermo_Coria   10   16
+Guillermo_Coria   10   19
+Guillermo_Coria   10   22
+Guillermo_Coria   10   25
+Guillermo_Coria   10   28
+Guillermo_Coria   13   16
+Guillermo_Coria   13   19
+Guillermo_Coria   13   22
+Guillermo_Coria   13   25
+Guillermo_Coria   13   28
+Guillermo_Coria   16   19
+Guillermo_Coria   16   22
+Guillermo_Coria   16   25
+Guillermo_Coria   16   28
+Guillermo_Coria   19   22
+Guillermo_Coria   19   25
+Guillermo_Coria   19   28
+Guillermo_Coria   22   25
+Guillermo_Coria   22   28
+Guillermo_Coria   25   28
+Recep_Tayyip_Erdogan   1   4
+Recep_Tayyip_Erdogan   1   7
+Recep_Tayyip_Erdogan   1   10
+Recep_Tayyip_Erdogan   1   13
+Recep_Tayyip_Erdogan   1   16
+Recep_Tayyip_Erdogan   1   19
+Recep_Tayyip_Erdogan   1   22
+Recep_Tayyip_Erdogan   1   25
+Recep_Tayyip_Erdogan   1   28
+Recep_Tayyip_Erdogan   4   7
+Recep_Tayyip_Erdogan   4   10
+Recep_Tayyip_Erdogan   4   13
+Recep_Tayyip_Erdogan   4   16
+Recep_Tayyip_Erdogan   4   19
+Recep_Tayyip_Erdogan   4   22
+Recep_Tayyip_Erdogan   4   25
+Recep_Tayyip_Erdogan   4   28
+Recep_Tayyip_Erdogan   7   10
+Recep_Tayyip_Erdogan   7   13
+Recep_Tayyip_Erdogan   7   16
+Recep_Tayyip_Erdogan   7   19
+Recep_Tayyip_Erdogan   7   22
+Recep_Tayyip_Erdogan   7   25
+Recep_Tayyip_Erdogan   7   28
+Recep_Tayyip_Erdogan   10   13
+Recep_Tayyip_Erdogan   10   16
+Recep_Tayyip_Erdogan   10   19
+Recep_Tayyip_Erdogan   10   22
+Recep_Tayyip_Erdogan   10   25
+Recep_Tayyip_Erdogan   10   28
+Recep_Tayyip_Erdogan   13   16
+Recep_Tayyip_Erdogan   13   19
+Recep_Tayyip_Erdogan   13   22
+Recep_Tayyip_Erdogan   13   25
+Recep_Tayyip_Erdogan   13   28
+Recep_Tayyip_Erdogan   16   19
+Recep_Tayyip_Erdogan   16   22
+Recep_Tayyip_Erdogan   16   25
+Recep_Tayyip_Erdogan   16   28
+Recep_Tayyip_Erdogan   19   22
+Recep_Tayyip_Erdogan   19   25
+Recep_Tayyip_Erdogan   19   28
+Recep_Tayyip_Erdogan   22   25
+Recep_Tayyip_Erdogan   22   28
+Recep_Tayyip_Erdogan   25   28
+Bill_Clinton   1   3
+Bill_Clinton   1   5
+Bill_Clinton   1   7
+Bill_Clinton   1   9
+Bill_Clinton   1   11
+Bill_Clinton   1   13
+Bill_Clinton   1   15
+Bill_Clinton   1   17
+Bill_Clinton   1   19
+Bill_Clinton   3   5
+Bill_Clinton   3   7
+Bill_Clinton   3   9
+Bill_Clinton   3   11
+Bill_Clinton   3   13
+Bill_Clinton   3   15
+Bill_Clinton   3   17
+Bill_Clinton   3   19
+Bill_Clinton   5   7
+Bill_Clinton   5   9
+Bill_Clinton   5   11
+Bill_Clinton   5   13
+Bill_Clinton   5   15
+Bill_Clinton   5   17
+Bill_Clinton   5   19
+Bill_Clinton   7   9
+Bill_Clinton   7   11
+Bill_Clinton   7   13
+Bill_Clinton   7   15
+Bill_Clinton   7   17
+Bill_Clinton   7   19
+Bill_Clinton   9   11
+Bill_Clinton   9   13
+Bill_Clinton   9   15
+Bill_Clinton   9   17
+Bill_Clinton   9   19
+Bill_Clinton   11   13
+Bill_Clinton   11   15
+Bill_Clinton   11   17
+Bill_Clinton   11   19
+Bill_Clinton   13   15
+Bill_Clinton   13   17
+Bill_Clinton   13   19
+Bill_Clinton   15   17
+Bill_Clinton   15   19
+Bill_Clinton   17   19
+Jack_Straw   1   3
+Jack_Straw   1   5
+Jack_Straw   1   7
+Jack_Straw   1   9
+Jack_Straw   1   11
+Jack_Straw   1   13
+Jack_Straw   1   15
+Jack_Straw   1   17
+Jack_Straw   1   19
+Jack_Straw   3   5
+Jack_Straw   3   7
+Jack_Straw   3   9
+Jack_Straw   3   11
+Jack_Straw   3   13
+Jack_Straw   3   15
+Jack_Straw   3   17
+Jack_Straw   3   19
+Jack_Straw   5   7
+Jack_Straw   5   9
+Jack_Straw   5   11
+Jack_Straw   5   13
+Jack_Straw   5   15
+Jack_Straw   5   17
+Jack_Straw   5   19
+Jack_Straw   7   9
+Jack_Straw   7   11
+Jack_Straw   7   13
+Jack_Straw   7   15
+Jack_Straw   7   17
+Jack_Straw   7   19
+Jack_Straw   9   11
+Jack_Straw   9   13
+Jack_Straw   9   15
+Jack_Straw   9   17
+Jack_Straw   9   19
+Jack_Straw   11   13
+Jack_Straw   11   15
+Jack_Straw   11   17
+Jack_Straw   11   19
+Jack_Straw   13   15
+Jack_Straw   13   17
+Jack_Straw   13   19
+Jack_Straw   15   17
+Jack_Straw   15   19
+Jack_Straw   17   19
+Juan_Carlos_Ferrero   1   3
+Juan_Carlos_Ferrero   1   5
+Juan_Carlos_Ferrero   1   7
+Juan_Carlos_Ferrero   1   9
+Juan_Carlos_Ferrero   1   11
+Juan_Carlos_Ferrero   1   13
+Juan_Carlos_Ferrero   1   15
+Juan_Carlos_Ferrero   1   17
+Juan_Carlos_Ferrero   1   19
+Juan_Carlos_Ferrero   3   5
+Juan_Carlos_Ferrero   3   7
+Juan_Carlos_Ferrero   3   9
+Juan_Carlos_Ferrero   3   11
+Juan_Carlos_Ferrero   3   13
+Juan_Carlos_Ferrero   3   15
+Juan_Carlos_Ferrero   3   17
+Juan_Carlos_Ferrero   3   19
+Juan_Carlos_Ferrero   5   7
+Juan_Carlos_Ferrero   5   9
+Juan_Carlos_Ferrero   5   11
+Juan_Carlos_Ferrero   5   13
+Juan_Carlos_Ferrero   5   15
+Juan_Carlos_Ferrero   5   17
+Juan_Carlos_Ferrero   5   19
+Juan_Carlos_Ferrero   7   9
+Juan_Carlos_Ferrero   7   11
+Juan_Carlos_Ferrero   7   13
+Juan_Carlos_Ferrero   7   15
+Juan_Carlos_Ferrero   7   17
+Juan_Carlos_Ferrero   7   19
+Juan_Carlos_Ferrero   9   11
+Juan_Carlos_Ferrero   9   13
+Juan_Carlos_Ferrero   9   15
+Juan_Carlos_Ferrero   9   17
+Juan_Carlos_Ferrero   9   19
+Juan_Carlos_Ferrero   11   13
+Juan_Carlos_Ferrero   11   15
+Juan_Carlos_Ferrero   11   17
+Juan_Carlos_Ferrero   11   19
+Juan_Carlos_Ferrero   13   15
+Juan_Carlos_Ferrero   13   17
+Juan_Carlos_Ferrero   13   19
+Juan_Carlos_Ferrero   15   17
+Juan_Carlos_Ferrero   15   19
+Juan_Carlos_Ferrero   17   19
+Ricardo_Lagos   1   3
+Ricardo_Lagos   1   5
+Ricardo_Lagos   1   7
+Ricardo_Lagos   1   9
+Ricardo_Lagos   1   11
+Ricardo_Lagos   1   13
+Ricardo_Lagos   1   15
+Ricardo_Lagos   1   17
+Ricardo_Lagos   1   19
+Ricardo_Lagos   3   5
+Ricardo_Lagos   3   7
+Ricardo_Lagos   3   9
+Ricardo_Lagos   3   11
+Ricardo_Lagos   3   13
+Ricardo_Lagos   3   15
+Ricardo_Lagos   3   17
+Ricardo_Lagos   3   19
+Ricardo_Lagos   5   7
+Ricardo_Lagos   5   9
+Ricardo_Lagos   5   11
+Ricardo_Lagos   5   13
+Ricardo_Lagos   5   15
+Ricardo_Lagos   5   17
+Ricardo_Lagos   5   19
+Ricardo_Lagos   7   9
+Ricardo_Lagos   7   11
+Ricardo_Lagos   7   13
+Ricardo_Lagos   7   15
+Ricardo_Lagos   7   17
+Ricardo_Lagos   7   19
+Ricardo_Lagos   9   11
+Ricardo_Lagos   9   13
+Ricardo_Lagos   9   15
+Ricardo_Lagos   9   17
+Ricardo_Lagos   9   19
+Ricardo_Lagos   11   13
+Ricardo_Lagos   11   15
+Ricardo_Lagos   11   17
+Ricardo_Lagos   11   19
+Ricardo_Lagos   13   15
+Ricardo_Lagos   13   17
+Ricardo_Lagos   13   19
+Ricardo_Lagos   15   17
+Ricardo_Lagos   15   19
+Ricardo_Lagos   17   19
+Rudolph_Giuliani   1   3
+Rudolph_Giuliani   1   5
+Rudolph_Giuliani   1   7
+Rudolph_Giuliani   1   9
+Rudolph_Giuliani   1   11
+Rudolph_Giuliani   1   13
+Rudolph_Giuliani   1   15
+Rudolph_Giuliani   1   17
+Rudolph_Giuliani   1   19
+Rudolph_Giuliani   3   5
+Rudolph_Giuliani   3   7
+Rudolph_Giuliani   3   9
+Rudolph_Giuliani   3   11
+Rudolph_Giuliani   3   13
+Rudolph_Giuliani   3   15
+Rudolph_Giuliani   3   17
+Rudolph_Giuliani   3   19
+Rudolph_Giuliani   5   7
+Rudolph_Giuliani   5   9
+Rudolph_Giuliani   5   11
+Rudolph_Giuliani   5   13
+Rudolph_Giuliani   5   15
+Rudolph_Giuliani   5   17
+Rudolph_Giuliani   5   19
+Rudolph_Giuliani   7   9
+Rudolph_Giuliani   7   11
+Rudolph_Giuliani   7   13
+Rudolph_Giuliani   7   15
+Rudolph_Giuliani   7   17
+Rudolph_Giuliani   7   19
+Rudolph_Giuliani   9   11
+Rudolph_Giuliani   9   13
+Rudolph_Giuliani   9   15
+Rudolph_Giuliani   9   17
+Rudolph_Giuliani   9   19
+Rudolph_Giuliani   11   13
+Rudolph_Giuliani   11   15
+Rudolph_Giuliani   11   17
+Rudolph_Giuliani   11   19
+Rudolph_Giuliani   13   15
+Rudolph_Giuliani   13   17
+Rudolph_Giuliani   13   19
+Rudolph_Giuliani   15   17
+Rudolph_Giuliani   15   19
+Rudolph_Giuliani   17   19
+Tom_Daschle   1   3
+Tom_Daschle   1   5
+Tom_Daschle   1   7
+Tom_Daschle   1   9
+Tom_Daschle   1   11
+Tom_Daschle   1   13
+Tom_Daschle   1   15
+Tom_Daschle   1   17
+Tom_Daschle   1   19
+Tom_Daschle   3   5
+Tom_Daschle   3   7
+Tom_Daschle   3   9
+Tom_Daschle   3   11
+Tom_Daschle   3   13
+Tom_Daschle   3   15
+Tom_Daschle   3   17
+Tom_Daschle   3   19
+Tom_Daschle   5   7
+Tom_Daschle   5   9
+Tom_Daschle   5   11
+Tom_Daschle   5   13
+Tom_Daschle   5   15
+Tom_Daschle   5   17
+Tom_Daschle   5   19
+Tom_Daschle   7   9
+Tom_Daschle   7   11
+Tom_Daschle   7   13
+Tom_Daschle   7   15
+Tom_Daschle   7   17
+Tom_Daschle   7   19
+Tom_Daschle   9   11
+Tom_Daschle   9   13
+Tom_Daschle   9   15
+Tom_Daschle   9   17
+Tom_Daschle   9   19
+Tom_Daschle   11   13
+Tom_Daschle   11   15
+Tom_Daschle   11   17
+Tom_Daschle   11   19
+Tom_Daschle   13   15
+Tom_Daschle   13   17
+Tom_Daschle   13   19
+Tom_Daschle   15   17
+Tom_Daschle   15   19
+Tom_Daschle   17   19
+Atal_Bihari_Vajpayee   1   3
+Atal_Bihari_Vajpayee   1   5
+Atal_Bihari_Vajpayee   1   7
+Atal_Bihari_Vajpayee   1   9
+Atal_Bihari_Vajpayee   1   11
+Atal_Bihari_Vajpayee   1   13
+Atal_Bihari_Vajpayee   1   15
+Atal_Bihari_Vajpayee   1   17
+Atal_Bihari_Vajpayee   1   19
+Atal_Bihari_Vajpayee   3   5
+Atal_Bihari_Vajpayee   3   7
+Atal_Bihari_Vajpayee   3   9
+Atal_Bihari_Vajpayee   3   11
+Atal_Bihari_Vajpayee   3   13
+Atal_Bihari_Vajpayee   3   15
+Atal_Bihari_Vajpayee   3   17
+Atal_Bihari_Vajpayee   3   19
+Atal_Bihari_Vajpayee   5   7
+Atal_Bihari_Vajpayee   5   9
+Atal_Bihari_Vajpayee   5   11
+Atal_Bihari_Vajpayee   5   13
+Atal_Bihari_Vajpayee   5   15
+Atal_Bihari_Vajpayee   5   17
+Atal_Bihari_Vajpayee   5   19
+Atal_Bihari_Vajpayee   7   9
+Atal_Bihari_Vajpayee   7   11
+Atal_Bihari_Vajpayee   7   13
+Atal_Bihari_Vajpayee   7   15
+Atal_Bihari_Vajpayee   7   17
+Atal_Bihari_Vajpayee   7   19
+Atal_Bihari_Vajpayee   9   11
+Atal_Bihari_Vajpayee   9   13
+Atal_Bihari_Vajpayee   9   15
+Atal_Bihari_Vajpayee   9   17
+Atal_Bihari_Vajpayee   9   19
+Atal_Bihari_Vajpayee   11   13
+Atal_Bihari_Vajpayee   11   15
+Atal_Bihari_Vajpayee   11   17
+Atal_Bihari_Vajpayee   11   19
+Atal_Bihari_Vajpayee   13   15
+Atal_Bihari_Vajpayee   13   17
+Atal_Bihari_Vajpayee   13   19
+Atal_Bihari_Vajpayee   15   17
+Atal_Bihari_Vajpayee   15   19
+Atal_Bihari_Vajpayee   17   19
+Jose_Maria_Aznar   1   3
+Jose_Maria_Aznar   1   5
+Jose_Maria_Aznar   1   7
+Jose_Maria_Aznar   1   9
+Jose_Maria_Aznar   1   11
+Jose_Maria_Aznar   1   13
+Jose_Maria_Aznar   1   15
+Jose_Maria_Aznar   1   17
+Jose_Maria_Aznar   1   19
+Jose_Maria_Aznar   3   5
+Jose_Maria_Aznar   3   7
+Jose_Maria_Aznar   3   9
+Jose_Maria_Aznar   3   11
+Jose_Maria_Aznar   3   13
+Jose_Maria_Aznar   3   15
+Jose_Maria_Aznar   3   17
+Jose_Maria_Aznar   3   19
+Jose_Maria_Aznar   5   7
+Jose_Maria_Aznar   5   9
+Jose_Maria_Aznar   5   11
+Jose_Maria_Aznar   5   13
+Jose_Maria_Aznar   5   15
+Jose_Maria_Aznar   5   17
+Jose_Maria_Aznar   5   19
+Jose_Maria_Aznar   7   9
+Jose_Maria_Aznar   7   11
+Jose_Maria_Aznar   7   13
+Jose_Maria_Aznar   7   15
+Jose_Maria_Aznar   7   17
+Jose_Maria_Aznar   7   19
+Jose_Maria_Aznar   9   11
+Jose_Maria_Aznar   9   13
+Jose_Maria_Aznar   9   15
+Jose_Maria_Aznar   9   17
+Jose_Maria_Aznar   9   19
+Jose_Maria_Aznar   11   13
+Jose_Maria_Aznar   11   15
+Jose_Maria_Aznar   11   17
+Jose_Maria_Aznar   11   19
+Jose_Maria_Aznar   13   15
+Jose_Maria_Aznar   13   17
+Jose_Maria_Aznar   13   19
+Jose_Maria_Aznar   15   17
+Jose_Maria_Aznar   15   19
+Jose_Maria_Aznar   17   19
+Saddam_Hussein   1   3
+Saddam_Hussein   1   5
+Saddam_Hussein   1   7
+Saddam_Hussein   1   9
+Saddam_Hussein   1   11
+Saddam_Hussein   1   13
+Saddam_Hussein   1   15
+Saddam_Hussein   1   17
+Saddam_Hussein   1   19
+Saddam_Hussein   3   5
+Saddam_Hussein   3   7
+Saddam_Hussein   3   9
+Saddam_Hussein   3   11
+Saddam_Hussein   3   13
+Saddam_Hussein   3   15
+Saddam_Hussein   3   17
+Saddam_Hussein   3   19
+Saddam_Hussein   5   7
+Saddam_Hussein   5   9
+Saddam_Hussein   5   11
+Saddam_Hussein   5   13
+Saddam_Hussein   5   15
+Saddam_Hussein   5   17
+Saddam_Hussein   5   19
+Saddam_Hussein   7   9
+Saddam_Hussein   7   11
+Saddam_Hussein   7   13
+Saddam_Hussein   7   15
+Saddam_Hussein   7   17
+Saddam_Hussein   7   19
+Saddam_Hussein   9   11
+Saddam_Hussein   9   13
+Saddam_Hussein   9   15
+Saddam_Hussein   9   17
+Saddam_Hussein   9   19
+Saddam_Hussein   11   13
+Saddam_Hussein   11   15
+Saddam_Hussein   11   17
+Saddam_Hussein   11   19
+Saddam_Hussein   13   15
+Saddam_Hussein   13   17
+Saddam_Hussein   13   19
+Saddam_Hussein   15   17
+Saddam_Hussein   15   19
+Saddam_Hussein   17   19
+Tiger_Woods   1   3
+Tiger_Woods   1   5
+Tiger_Woods   1   7
+Tiger_Woods   1   9
+Tiger_Woods   1   11
+Tiger_Woods   1   13
+Tiger_Woods   1   15
+Tiger_Woods   1   17
+Tiger_Woods   1   19
+Tiger_Woods   3   5
+Tiger_Woods   3   7
+Tiger_Woods   3   9
+Tiger_Woods   3   11
+Tiger_Woods   3   13
+Tiger_Woods   3   15
+Tiger_Woods   3   17
+Tiger_Woods   3   19
+Tiger_Woods   5   7
+Tiger_Woods   5   9
+Tiger_Woods   5   11
+Tiger_Woods   5   13
+Tiger_Woods   5   15
+Tiger_Woods   5   17
+Tiger_Woods   5   19
+Tiger_Woods   7   9
+Tiger_Woods   7   11
+Tiger_Woods   7   13
+Tiger_Woods   7   15
+Tiger_Woods   7   17
+Tiger_Woods   7   19
+Tiger_Woods   9   11
+Tiger_Woods   9   13
+Tiger_Woods   9   15
+Tiger_Woods   9   17
+Tiger_Woods   9   19
+Tiger_Woods   11   13
+Tiger_Woods   11   15
+Tiger_Woods   11   17
+Tiger_Woods   11   19
+Tiger_Woods   13   15
+Tiger_Woods   13   17
+Tiger_Woods   13   19
+Tiger_Woods   15   17
+Tiger_Woods   15   19
+Tiger_Woods   17   19
+Hamid_Karzai   1   3
+Hamid_Karzai   1   5
+Hamid_Karzai   1   7
+Hamid_Karzai   1   9
+Hamid_Karzai   1   11
+Hamid_Karzai   1   13
+Hamid_Karzai   1   15
+Hamid_Karzai   1   17
+Hamid_Karzai   1   19
+Hamid_Karzai   3   5
+Hamid_Karzai   3   7
+Hamid_Karzai   3   9
+Hamid_Karzai   3   11
+Hamid_Karzai   3   13
+Hamid_Karzai   3   15
+Hamid_Karzai   3   17
+Hamid_Karzai   3   19
+Hamid_Karzai   5   7
+Hamid_Karzai   5   9
+Hamid_Karzai   5   11
+Hamid_Karzai   5   13
+Hamid_Karzai   5   15
+Hamid_Karzai   5   17
+Hamid_Karzai   5   19
+Hamid_Karzai   7   9
+Hamid_Karzai   7   11
+Hamid_Karzai   7   13
+Hamid_Karzai   7   15
+Hamid_Karzai   7   17
+Hamid_Karzai   7   19
+Hamid_Karzai   9   11
+Hamid_Karzai   9   13
+Hamid_Karzai   9   15
+Hamid_Karzai   9   17
+Hamid_Karzai   9   19
+Hamid_Karzai   11   13
+Hamid_Karzai   11   15
+Hamid_Karzai   11   17
+Hamid_Karzai   11   19
+Hamid_Karzai   13   15
+Hamid_Karzai   13   17
+Hamid_Karzai   13   19
+Hamid_Karzai   15   17
+Hamid_Karzai   15   19
+Hamid_Karzai   17   19
+Lindsay_Davenport   1   3
+Lindsay_Davenport   1   5
+Lindsay_Davenport   1   7
+Lindsay_Davenport   1   9
+Lindsay_Davenport   1   11
+Lindsay_Davenport   1   13
+Lindsay_Davenport   1   15
+Lindsay_Davenport   1   17
+Lindsay_Davenport   1   19
+Lindsay_Davenport   3   5
+Lindsay_Davenport   3   7
+Lindsay_Davenport   3   9
+Lindsay_Davenport   3   11
+Lindsay_Davenport   3   13
+Lindsay_Davenport   3   15
+Lindsay_Davenport   3   17
+Lindsay_Davenport   3   19
+Lindsay_Davenport   5   7
+Lindsay_Davenport   5   9
+Lindsay_Davenport   5   11
+Lindsay_Davenport   5   13
+Lindsay_Davenport   5   15
+Lindsay_Davenport   5   17
+Lindsay_Davenport   5   19
+Lindsay_Davenport   7   9
+Lindsay_Davenport   7   11
+Lindsay_Davenport   7   13
+Lindsay_Davenport   7   15
+Lindsay_Davenport   7   17
+Lindsay_Davenport   7   19
+Lindsay_Davenport   9   11
+Lindsay_Davenport   9   13
+Lindsay_Davenport   9   15
+Lindsay_Davenport   9   17
+Lindsay_Davenport   9   19
+Lindsay_Davenport   11   13
+Lindsay_Davenport   11   15
+Lindsay_Davenport   11   17
+Lindsay_Davenport   11   19
+Lindsay_Davenport   13   15
+Lindsay_Davenport   13   17
+Lindsay_Davenport   13   19
+Lindsay_Davenport   15   17
+Lindsay_Davenport   15   19
+Lindsay_Davenport   17   19
+Naomi_Watts   1   3
+Naomi_Watts   1   5
+Naomi_Watts   1   7
+Naomi_Watts   1   9
+Naomi_Watts   1   11
+Naomi_Watts   1   13
+Naomi_Watts   1   15
+Naomi_Watts   1   17
+Naomi_Watts   1   19
+Naomi_Watts   3   5
+Naomi_Watts   3   7
+Naomi_Watts   3   9
+Naomi_Watts   3   11
+Naomi_Watts   3   13
+Naomi_Watts   3   15
+Naomi_Watts   3   17
+Naomi_Watts   3   19
+Naomi_Watts   5   7
+Naomi_Watts   5   9
+Naomi_Watts   5   11
+Naomi_Watts   5   13
+Naomi_Watts   5   15
+Naomi_Watts   5   17
+Naomi_Watts   5   19
+Naomi_Watts   7   9
+Naomi_Watts   7   11
+Naomi_Watts   7   13
+Naomi_Watts   7   15
+Naomi_Watts   7   17
+Naomi_Watts   7   19
+Naomi_Watts   9   11
+Naomi_Watts   9   13
+Naomi_Watts   9   15
+Naomi_Watts   9   17
+Naomi_Watts   9   19
+Naomi_Watts   11   13
+Naomi_Watts   11   15
+Naomi_Watts   11   17
+Naomi_Watts   11   19
+Naomi_Watts   13   15
+Naomi_Watts   13   17
+Naomi_Watts   13   19
+Naomi_Watts   15   17
+Naomi_Watts   15   19
+Naomi_Watts   17   19
+Pete_Sampras   1   3
+Pete_Sampras   1   5
+Pete_Sampras   1   7
+Pete_Sampras   1   9
+Pete_Sampras   1   11
+Pete_Sampras   1   13
+Pete_Sampras   1   15
+Pete_Sampras   1   17
+Pete_Sampras   1   19
+Pete_Sampras   3   5
+Pete_Sampras   3   7
+Pete_Sampras   3   9
+Pete_Sampras   3   11
+Pete_Sampras   3   13
+Pete_Sampras   3   15
+Pete_Sampras   3   17
+Pete_Sampras   3   19
+Pete_Sampras   5   7
+Pete_Sampras   5   9
+Pete_Sampras   5   11
+Pete_Sampras   5   13
+Pete_Sampras   5   15
+Pete_Sampras   5   17
+Pete_Sampras   5   19
+Pete_Sampras   7   9
+Pete_Sampras   7   11
+Pete_Sampras   7   13
+Pete_Sampras   7   15
+Pete_Sampras   7   17
+Pete_Sampras   7   19
+Pete_Sampras   9   11
+Pete_Sampras   9   13
+Pete_Sampras   9   15
+Pete_Sampras   9   17
+Pete_Sampras   9   19
+Pete_Sampras   11   13
+Pete_Sampras   11   15
+Pete_Sampras   11   17
+Pete_Sampras   11   19
+Pete_Sampras   13   15
+Pete_Sampras   13   17
+Pete_Sampras   13   19
+Pete_Sampras   15   17
+Pete_Sampras   15   19
+Pete_Sampras   17   19
+Carlos_Menem   1   3
+Carlos_Menem   1   5
+Carlos_Menem   1   7
+Carlos_Menem   1   9
+Carlos_Menem   1   11
+Carlos_Menem   1   13
+Carlos_Menem   1   15
+Carlos_Menem   1   17
+Carlos_Menem   1   19
+Carlos_Menem   3   5
+Carlos_Menem   3   7
+Carlos_Menem   3   9
+Carlos_Menem   3   11
+Carlos_Menem   3   13
+Carlos_Menem   3   15
+Carlos_Menem   3   17
+Carlos_Menem   3   19
+Carlos_Menem   5   7
+Carlos_Menem   5   9
+Carlos_Menem   5   11
+Carlos_Menem   5   13
+Carlos_Menem   5   15
+Carlos_Menem   5   17
+Carlos_Menem   5   19
+Carlos_Menem   7   9
+Carlos_Menem   7   11
+Carlos_Menem   7   13
+Carlos_Menem   7   15
+Carlos_Menem   7   17
+Carlos_Menem   7   19
+Carlos_Menem   9   11
+Carlos_Menem   9   13
+Carlos_Menem   9   15
+Carlos_Menem   9   17
+Carlos_Menem   9   19
+Carlos_Menem   11   13
+Carlos_Menem   11   15
+Carlos_Menem   11   17
+Carlos_Menem   11   19
+Carlos_Menem   13   15
+Carlos_Menem   13   17
+Carlos_Menem   13   19
+Carlos_Menem   15   17
+Carlos_Menem   15   19
+Carlos_Menem   17   19
+George_W_Bush   1   Jennifer_Aniston  1
+George_W_Bush   1   Jennifer_Lopez  1
+George_W_Bush   1   Angelina_Jolie  1
+George_W_Bush   1   Igor_Ivanov  1
+George_W_Bush   1   Michael_Bloomberg  1
+George_W_Bush   54   Jennifer_Aniston  1
+George_W_Bush   54   Jennifer_Lopez  1
+George_W_Bush   54   Angelina_Jolie  1
+George_W_Bush   54   Igor_Ivanov  1
+George_W_Bush   54   Michael_Bloomberg  1
+George_W_Bush   107   Jennifer_Aniston  1
+George_W_Bush   107   Jennifer_Lopez  1
+George_W_Bush   107   Angelina_Jolie  1
+George_W_Bush   107   Igor_Ivanov  1
+George_W_Bush   107   Michael_Bloomberg  1
+George_W_Bush   160   Jennifer_Aniston  1
+George_W_Bush   160   Jennifer_Lopez  1
+George_W_Bush   160   Angelina_Jolie  1
+George_W_Bush   160   Igor_Ivanov  1
+George_W_Bush   160   Michael_Bloomberg  1
+George_W_Bush   213   Jennifer_Aniston  1
+George_W_Bush   213   Jennifer_Lopez  1
+George_W_Bush   213   Angelina_Jolie  1
+George_W_Bush   213   Igor_Ivanov  1
+George_W_Bush   213   Michael_Bloomberg  1
+George_W_Bush   266   Jennifer_Aniston  1
+George_W_Bush   266   Jennifer_Lopez  1
+George_W_Bush   266   Angelina_Jolie  1
+George_W_Bush   266   Igor_Ivanov  1
+George_W_Bush   266   Michael_Bloomberg  1
+George_W_Bush   319   Jennifer_Aniston  1
+George_W_Bush   319   Jennifer_Lopez  1
+George_W_Bush   319   Angelina_Jolie  1
+George_W_Bush   319   Igor_Ivanov  1
+George_W_Bush   319   Michael_Bloomberg  1
+George_W_Bush   372   Jennifer_Aniston  1
+George_W_Bush   372   Jennifer_Lopez  1
+George_W_Bush   372   Angelina_Jolie  1
+George_W_Bush   372   Igor_Ivanov  1
+George_W_Bush   372   Michael_Bloomberg  1
+George_W_Bush   425   Jennifer_Aniston  1
+George_W_Bush   425   Jennifer_Lopez  1
+George_W_Bush   425   Angelina_Jolie  1
+George_W_Bush   425   Igor_Ivanov  1
+George_W_Bush   425   Michael_Bloomberg  1
+George_W_Bush   478   Jennifer_Aniston  1
+George_W_Bush   478   Jennifer_Lopez  1
+George_W_Bush   478   Angelina_Jolie  1
+George_W_Bush   478   Igor_Ivanov  1
+George_W_Bush   478   Michael_Bloomberg  1
+Colin_Powell   1   Paul_Bremer  1
+Colin_Powell   1   John_Howard  1
+Colin_Powell   1   Joschka_Fischer  1
+Colin_Powell   1   Julianne_Moore  1
+Colin_Powell   1   Nicole_Kidman  1
+Colin_Powell   24   Paul_Bremer  1
+Colin_Powell   24   John_Howard  1
+Colin_Powell   24   Joschka_Fischer  1
+Colin_Powell   24   Julianne_Moore  1
+Colin_Powell   24   Nicole_Kidman  1
+Colin_Powell   47   Paul_Bremer  1
+Colin_Powell   47   John_Howard  1
+Colin_Powell   47   Joschka_Fischer  1
+Colin_Powell   47   Julianne_Moore  1
+Colin_Powell   47   Nicole_Kidman  1
+Colin_Powell   70   Paul_Bremer  1
+Colin_Powell   70   John_Howard  1
+Colin_Powell   70   Joschka_Fischer  1
+Colin_Powell   70   Julianne_Moore  1
+Colin_Powell   70   Nicole_Kidman  1
+Colin_Powell   93   Paul_Bremer  1
+Colin_Powell   93   John_Howard  1
+Colin_Powell   93   Joschka_Fischer  1
+Colin_Powell   93   Julianne_Moore  1
+Colin_Powell   93   Nicole_Kidman  1
+Colin_Powell   116   Paul_Bremer  1
+Colin_Powell   116   John_Howard  1
+Colin_Powell   116   Joschka_Fischer  1
+Colin_Powell   116   Julianne_Moore  1
+Colin_Powell   116   Nicole_Kidman  1
+Colin_Powell   139   Paul_Bremer  1
+Colin_Powell   139   John_Howard  1
+Colin_Powell   139   Joschka_Fischer  1
+Colin_Powell   139   Julianne_Moore  1
+Colin_Powell   139   Nicole_Kidman  1
+Colin_Powell   162   Paul_Bremer  1
+Colin_Powell   162   John_Howard  1
+Colin_Powell   162   Joschka_Fischer  1
+Colin_Powell   162   Julianne_Moore  1
+Colin_Powell   162   Nicole_Kidman  1
+Colin_Powell   185   Paul_Bremer  1
+Colin_Powell   185   John_Howard  1
+Colin_Powell   185   Joschka_Fischer  1
+Colin_Powell   185   Julianne_Moore  1
+Colin_Powell   185   Nicole_Kidman  1
+Colin_Powell   208   Paul_Bremer  1
+Colin_Powell   208   John_Howard  1
+Colin_Powell   208   Joschka_Fischer  1
+Colin_Powell   208   Julianne_Moore  1
+Colin_Powell   208   Nicole_Kidman  1
+Tony_Blair   1   Tim_Henman  1
+Tony_Blair   1   Fidel_Castro  1
+Tony_Blair   1   Michael_Schumacher  1
+Tony_Blair   1   Pervez_Musharraf  1
+Tony_Blair   1   Richard_Myers  1
+Tony_Blair   15   Tim_Henman  1
+Tony_Blair   15   Fidel_Castro  1
+Tony_Blair   15   Michael_Schumacher  1
+Tony_Blair   15   Pervez_Musharraf  1
+Tony_Blair   15   Richard_Myers  1
+Tony_Blair   29   Tim_Henman  1
+Tony_Blair   29   Fidel_Castro  1
+Tony_Blair   29   Michael_Schumacher  1
+Tony_Blair   29   Pervez_Musharraf  1
+Tony_Blair   29   Richard_Myers  1
+Tony_Blair   43   Tim_Henman  1
+Tony_Blair   43   Fidel_Castro  1
+Tony_Blair   43   Michael_Schumacher  1
+Tony_Blair   43   Pervez_Musharraf  1
+Tony_Blair   43   Richard_Myers  1
+Tony_Blair   57   Tim_Henman  1
+Tony_Blair   57   Fidel_Castro  1
+Tony_Blair   57   Michael_Schumacher  1
+Tony_Blair   57   Pervez_Musharraf  1
+Tony_Blair   57   Richard_Myers  1
+Tony_Blair   71   Tim_Henman  1
+Tony_Blair   71   Fidel_Castro  1
+Tony_Blair   71   Michael_Schumacher  1
+Tony_Blair   71   Pervez_Musharraf  1
+Tony_Blair   71   Richard_Myers  1
+Tony_Blair   85   Tim_Henman  1
+Tony_Blair   85   Fidel_Castro  1
+Tony_Blair   85   Michael_Schumacher  1
+Tony_Blair   85   Pervez_Musharraf  1
+Tony_Blair   85   Richard_Myers  1
+Tony_Blair   99   Tim_Henman  1
+Tony_Blair   99   Fidel_Castro  1
+Tony_Blair   99   Michael_Schumacher  1
+Tony_Blair   99   Pervez_Musharraf  1
+Tony_Blair   99   Richard_Myers  1
+Tony_Blair   113   Tim_Henman  1
+Tony_Blair   113   Fidel_Castro  1
+Tony_Blair   113   Michael_Schumacher  1
+Tony_Blair   113   Pervez_Musharraf  1
+Tony_Blair   113   Richard_Myers  1
+Tony_Blair   127   Tim_Henman  1
+Tony_Blair   127   Fidel_Castro  1
+Tony_Blair   127   Michael_Schumacher  1
+Tony_Blair   127   Pervez_Musharraf  1
+Tony_Blair   127   Richard_Myers  1
+Ariel_Sharon   1   Bill_Gates  1
+Ariel_Sharon   1   Jean_Charest  1
+Ariel_Sharon   1   John_Kerry  1
+Ariel_Sharon   1   John_Snow  1
+Ariel_Sharon   1   Venus_Williams  1
+Ariel_Sharon   8   Bill_Gates  1
+Ariel_Sharon   8   Jean_Charest  1
+Ariel_Sharon   8   John_Kerry  1
+Ariel_Sharon   8   John_Snow  1
+Ariel_Sharon   8   Venus_Williams  1
+Ariel_Sharon   15   Bill_Gates  1
+Ariel_Sharon   15   Jean_Charest  1
+Ariel_Sharon   15   John_Kerry  1
+Ariel_Sharon   15   John_Snow  1
+Ariel_Sharon   15   Venus_Williams  1
+Ariel_Sharon   22   Bill_Gates  1
+Ariel_Sharon   22   Jean_Charest  1
+Ariel_Sharon   22   John_Kerry  1
+Ariel_Sharon   22   John_Snow  1
+Ariel_Sharon   22   Venus_Williams  1
+Ariel_Sharon   29   Bill_Gates  1
+Ariel_Sharon   29   Jean_Charest  1
+Ariel_Sharon   29   John_Kerry  1
+Ariel_Sharon   29   John_Snow  1
+Ariel_Sharon   29   Venus_Williams  1
+Ariel_Sharon   36   Bill_Gates  1
+Ariel_Sharon   36   Jean_Charest  1
+Ariel_Sharon   36   John_Kerry  1
+Ariel_Sharon   36   John_Snow  1
+Ariel_Sharon   36   Venus_Williams  1
+Ariel_Sharon   43   Bill_Gates  1
+Ariel_Sharon   43   Jean_Charest  1
+Ariel_Sharon   43   John_Kerry  1
+Ariel_Sharon   43   John_Snow  1
+Ariel_Sharon   43   Venus_Williams  1
+Ariel_Sharon   50   Bill_Gates  1
+Ariel_Sharon   50   Jean_Charest  1
+Ariel_Sharon   50   John_Kerry  1
+Ariel_Sharon   50   John_Snow  1
+Ariel_Sharon   50   Venus_Williams  1
+Ariel_Sharon   57   Bill_Gates  1
+Ariel_Sharon   57   Jean_Charest  1
+Ariel_Sharon   57   John_Kerry  1
+Ariel_Sharon   57   John_Snow  1
+Ariel_Sharon   57   Venus_Williams  1
+Ariel_Sharon   64   Bill_Gates  1
+Ariel_Sharon   64   Jean_Charest  1
+Ariel_Sharon   64   John_Kerry  1
+Ariel_Sharon   64   John_Snow  1
+Ariel_Sharon   64   Venus_Williams  1
+Hugo_Chavez   1   Halle_Berry  1
+Hugo_Chavez   1   Trent_Lott  1
+Hugo_Chavez   1   Andy_Roddick  1
+Hugo_Chavez   1   Bill_Simon  1
+Hugo_Chavez   1   Hu_Jintao  1
+Hugo_Chavez   8   Halle_Berry  1
+Hugo_Chavez   8   Trent_Lott  1
+Hugo_Chavez   8   Andy_Roddick  1
+Hugo_Chavez   8   Bill_Simon  1
+Hugo_Chavez   8   Hu_Jintao  1
+Hugo_Chavez   15   Halle_Berry  1
+Hugo_Chavez   15   Trent_Lott  1
+Hugo_Chavez   15   Andy_Roddick  1
+Hugo_Chavez   15   Bill_Simon  1
+Hugo_Chavez   15   Hu_Jintao  1
+Hugo_Chavez   22   Halle_Berry  1
+Hugo_Chavez   22   Trent_Lott  1
+Hugo_Chavez   22   Andy_Roddick  1
+Hugo_Chavez   22   Bill_Simon  1
+Hugo_Chavez   22   Hu_Jintao  1
+Hugo_Chavez   29   Halle_Berry  1
+Hugo_Chavez   29   Trent_Lott  1
+Hugo_Chavez   29   Andy_Roddick  1
+Hugo_Chavez   29   Bill_Simon  1
+Hugo_Chavez   29   Hu_Jintao  1
+Hugo_Chavez   36   Halle_Berry  1
+Hugo_Chavez   36   Trent_Lott  1
+Hugo_Chavez   36   Andy_Roddick  1
+Hugo_Chavez   36   Bill_Simon  1
+Hugo_Chavez   36   Hu_Jintao  1
+Hugo_Chavez   43   Halle_Berry  1
+Hugo_Chavez   43   Trent_Lott  1
+Hugo_Chavez   43   Andy_Roddick  1
+Hugo_Chavez   43   Bill_Simon  1
+Hugo_Chavez   43   Hu_Jintao  1
+Hugo_Chavez   50   Halle_Berry  1
+Hugo_Chavez   50   Trent_Lott  1
+Hugo_Chavez   50   Andy_Roddick  1
+Hugo_Chavez   50   Bill_Simon  1
+Hugo_Chavez   50   Hu_Jintao  1
+Hugo_Chavez   57   Halle_Berry  1
+Hugo_Chavez   57   Trent_Lott  1
+Hugo_Chavez   57   Andy_Roddick  1
+Hugo_Chavez   57   Bill_Simon  1
+Hugo_Chavez   57   Hu_Jintao  1
+Hugo_Chavez   64   Halle_Berry  1
+Hugo_Chavez   64   Trent_Lott  1
+Hugo_Chavez   64   Andy_Roddick  1
+Hugo_Chavez   64   Bill_Simon  1
+Hugo_Chavez   64   Hu_Jintao  1
+Junichiro_Koizumi   1   Meryl_Streep  1
+Junichiro_Koizumi   1   Mohammed_Al-Douri  1
+Junichiro_Koizumi   1   Norah_Jones  1
+Junichiro_Koizumi   1   Taha_Yassin_Ramadan  1
+Junichiro_Koizumi   1   Britney_Spears  1
+Junichiro_Koizumi   7   Meryl_Streep  1
+Junichiro_Koizumi   7   Mohammed_Al-Douri  1
+Junichiro_Koizumi   7   Norah_Jones  1
+Junichiro_Koizumi   7   Taha_Yassin_Ramadan  1
+Junichiro_Koizumi   7   Britney_Spears  1
+Junichiro_Koizumi   13   Meryl_Streep  1
+Junichiro_Koizumi   13   Mohammed_Al-Douri  1
+Junichiro_Koizumi   13   Norah_Jones  1
+Junichiro_Koizumi   13   Taha_Yassin_Ramadan  1
+Junichiro_Koizumi   13   Britney_Spears  1
+Junichiro_Koizumi   19   Meryl_Streep  1
+Junichiro_Koizumi   19   Mohammed_Al-Douri  1
+Junichiro_Koizumi   19   Norah_Jones  1
+Junichiro_Koizumi   19   Taha_Yassin_Ramadan  1
+Junichiro_Koizumi   19   Britney_Spears  1
+Junichiro_Koizumi   25   Meryl_Streep  1
+Junichiro_Koizumi   25   Mohammed_Al-Douri  1
+Junichiro_Koizumi   25   Norah_Jones  1
+Junichiro_Koizumi   25   Taha_Yassin_Ramadan  1
+Junichiro_Koizumi   25   Britney_Spears  1
+Junichiro_Koizumi   31   Meryl_Streep  1
+Junichiro_Koizumi   31   Mohammed_Al-Douri  1
+Junichiro_Koizumi   31   Norah_Jones  1
+Junichiro_Koizumi   31   Taha_Yassin_Ramadan  1
+Junichiro_Koizumi   31   Britney_Spears  1
+Junichiro_Koizumi   37   Meryl_Streep  1
+Junichiro_Koizumi   37   Mohammed_Al-Douri  1
+Junichiro_Koizumi   37   Norah_Jones  1
+Junichiro_Koizumi   37   Taha_Yassin_Ramadan  1
+Junichiro_Koizumi   37   Britney_Spears  1
+Junichiro_Koizumi   43   Meryl_Streep  1
+Junichiro_Koizumi   43   Mohammed_Al-Douri  1
+Junichiro_Koizumi   43   Norah_Jones  1
+Junichiro_Koizumi   43   Taha_Yassin_Ramadan  1
+Junichiro_Koizumi   43   Britney_Spears  1
+Junichiro_Koizumi   49   Meryl_Streep  1
+Junichiro_Koizumi   49   Mohammed_Al-Douri  1
+Junichiro_Koizumi   49   Norah_Jones  1
+Junichiro_Koizumi   49   Taha_Yassin_Ramadan  1
+Junichiro_Koizumi   49   Britney_Spears  1
+Junichiro_Koizumi   55   Meryl_Streep  1
+Junichiro_Koizumi   55   Mohammed_Al-Douri  1
+Junichiro_Koizumi   55   Norah_Jones  1
+Junichiro_Koizumi   55   Taha_Yassin_Ramadan  1
+Junichiro_Koizumi   55   Britney_Spears  1
+Jean_Chretien   1   David_Nalbandian  1
+Jean_Chretien   1   Dick_Cheney  1
+Jean_Chretien   1   Eduardo_Duhalde  1
+Jean_Chretien   1   Hillary_Clinton  1
+Jean_Chretien   1   James_Blake  1
+Jean_Chretien   6   David_Nalbandian  1
+Jean_Chretien   6   Dick_Cheney  1
+Jean_Chretien   6   Eduardo_Duhalde  1
+Jean_Chretien   6   Hillary_Clinton  1
+Jean_Chretien   6   James_Blake  1
+Jean_Chretien   11   David_Nalbandian  1
+Jean_Chretien   11   Dick_Cheney  1
+Jean_Chretien   11   Eduardo_Duhalde  1
+Jean_Chretien   11   Hillary_Clinton  1
+Jean_Chretien   11   James_Blake  1
+Jean_Chretien   16   David_Nalbandian  1
+Jean_Chretien   16   Dick_Cheney  1
+Jean_Chretien   16   Eduardo_Duhalde  1
+Jean_Chretien   16   Hillary_Clinton  1
+Jean_Chretien   16   James_Blake  1
+Jean_Chretien   21   David_Nalbandian  1
+Jean_Chretien   21   Dick_Cheney  1
+Jean_Chretien   21   Eduardo_Duhalde  1
+Jean_Chretien   21   Hillary_Clinton  1
+Jean_Chretien   21   James_Blake  1
+Jean_Chretien   26   David_Nalbandian  1
+Jean_Chretien   26   Dick_Cheney  1
+Jean_Chretien   26   Eduardo_Duhalde  1
+Jean_Chretien   26   Hillary_Clinton  1
+Jean_Chretien   26   James_Blake  1
+Jean_Chretien   31   David_Nalbandian  1
+Jean_Chretien   31   Dick_Cheney  1
+Jean_Chretien   31   Eduardo_Duhalde  1
+Jean_Chretien   31   Hillary_Clinton  1
+Jean_Chretien   31   James_Blake  1
+Jean_Chretien   36   David_Nalbandian  1
+Jean_Chretien   36   Dick_Cheney  1
+Jean_Chretien   36   Eduardo_Duhalde  1
+Jean_Chretien   36   Hillary_Clinton  1
+Jean_Chretien   36   James_Blake  1
+Jean_Chretien   41   David_Nalbandian  1
+Jean_Chretien   41   Dick_Cheney  1
+Jean_Chretien   41   Eduardo_Duhalde  1
+Jean_Chretien   41   Hillary_Clinton  1
+Jean_Chretien   41   James_Blake  1
+Jean_Chretien   46   David_Nalbandian  1
+Jean_Chretien   46   Dick_Cheney  1
+Jean_Chretien   46   Eduardo_Duhalde  1
+Jean_Chretien   46   Hillary_Clinton  1
+Jean_Chretien   46   James_Blake  1
+John_Ashcroft   1   Kim_Clijsters  1
+John_Ashcroft   1   Mahathir_Mohamad  1
+John_Ashcroft   1   Roger_Federer  1
+John_Ashcroft   1   Ari_Fleischer  1
+John_Ashcroft   1   Charles_Moose  1
+John_Ashcroft   6   Kim_Clijsters  1
+John_Ashcroft   6   Mahathir_Mohamad  1
+John_Ashcroft   6   Roger_Federer  1
+John_Ashcroft   6   Ari_Fleischer  1
+John_Ashcroft   6   Charles_Moose  1
+John_Ashcroft   11   Kim_Clijsters  1
+John_Ashcroft   11   Mahathir_Mohamad  1
+John_Ashcroft   11   Roger_Federer  1
+John_Ashcroft   11   Ari_Fleischer  1
+John_Ashcroft   11   Charles_Moose  1
+John_Ashcroft   16   Kim_Clijsters  1
+John_Ashcroft   16   Mahathir_Mohamad  1
+John_Ashcroft   16   Roger_Federer  1
+John_Ashcroft   16   Ari_Fleischer  1
+John_Ashcroft   16   Charles_Moose  1
+John_Ashcroft   21   Kim_Clijsters  1
+John_Ashcroft   21   Mahathir_Mohamad  1
+John_Ashcroft   21   Roger_Federer  1
+John_Ashcroft   21   Ari_Fleischer  1
+John_Ashcroft   21   Charles_Moose  1
+John_Ashcroft   26   Kim_Clijsters  1
+John_Ashcroft   26   Mahathir_Mohamad  1
+John_Ashcroft   26   Roger_Federer  1
+John_Ashcroft   26   Ari_Fleischer  1
+John_Ashcroft   26   Charles_Moose  1
+John_Ashcroft   31   Kim_Clijsters  1
+John_Ashcroft   31   Mahathir_Mohamad  1
+John_Ashcroft   31   Roger_Federer  1
+John_Ashcroft   31   Ari_Fleischer  1
+John_Ashcroft   31   Charles_Moose  1
+John_Ashcroft   36   Kim_Clijsters  1
+John_Ashcroft   36   Mahathir_Mohamad  1
+John_Ashcroft   36   Roger_Federer  1
+John_Ashcroft   36   Ari_Fleischer  1
+John_Ashcroft   36   Charles_Moose  1
+John_Ashcroft   41   Kim_Clijsters  1
+John_Ashcroft   41   Mahathir_Mohamad  1
+John_Ashcroft   41   Roger_Federer  1
+John_Ashcroft   41   Ari_Fleischer  1
+John_Ashcroft   41   Charles_Moose  1
+John_Ashcroft   46   Kim_Clijsters  1
+John_Ashcroft   46   Mahathir_Mohamad  1
+John_Ashcroft   46   Roger_Federer  1
+John_Ashcroft   46   Ari_Fleischer  1
+John_Ashcroft   46   Charles_Moose  1
+Serena_Williams   1   Edmund_Stoiber  1
+Serena_Williams   1   George_HW_Bush  1
+Serena_Williams   1   Jackie_Chan  1
+Serena_Williams   1   Joe_Lieberman  1
+Serena_Williams   1   Queen_Elizabeth_II  1
+Serena_Williams   6   Edmund_Stoiber  1
+Serena_Williams   6   George_HW_Bush  1
+Serena_Williams   6   Jackie_Chan  1
+Serena_Williams   6   Joe_Lieberman  1
+Serena_Williams   6   Queen_Elizabeth_II  1
+Serena_Williams   11   Edmund_Stoiber  1
+Serena_Williams   11   George_HW_Bush  1
+Serena_Williams   11   Jackie_Chan  1
+Serena_Williams   11   Joe_Lieberman  1
+Serena_Williams   11   Queen_Elizabeth_II  1
+Serena_Williams   16   Edmund_Stoiber  1
+Serena_Williams   16   George_HW_Bush  1
+Serena_Williams   16   Jackie_Chan  1
+Serena_Williams   16   Joe_Lieberman  1
+Serena_Williams   16   Queen_Elizabeth_II  1
+Serena_Williams   21   Edmund_Stoiber  1
+Serena_Williams   21   George_HW_Bush  1
+Serena_Williams   21   Jackie_Chan  1
+Serena_Williams   21   Joe_Lieberman  1
+Serena_Williams   21   Queen_Elizabeth_II  1
+Serena_Williams   26   Edmund_Stoiber  1
+Serena_Williams   26   George_HW_Bush  1
+Serena_Williams   26   Jackie_Chan  1
+Serena_Williams   26   Joe_Lieberman  1
+Serena_Williams   26   Queen_Elizabeth_II  1
+Serena_Williams   31   Edmund_Stoiber  1
+Serena_Williams   31   George_HW_Bush  1
+Serena_Williams   31   Jackie_Chan  1
+Serena_Williams   31   Joe_Lieberman  1
+Serena_Williams   31   Queen_Elizabeth_II  1
+Serena_Williams   36   Edmund_Stoiber  1
+Serena_Williams   36   George_HW_Bush  1
+Serena_Williams   36   Jackie_Chan  1
+Serena_Williams   36   Joe_Lieberman  1
+Serena_Williams   36   Queen_Elizabeth_II  1
+Serena_Williams   41   Edmund_Stoiber  1
+Serena_Williams   41   George_HW_Bush  1
+Serena_Williams   41   Jackie_Chan  1
+Serena_Williams   41   Joe_Lieberman  1
+Serena_Williams   41   Queen_Elizabeth_II  1
+Serena_Williams   46   Edmund_Stoiber  1
+Serena_Williams   46   George_HW_Bush  1
+Serena_Williams   46   Jackie_Chan  1
+Serena_Williams   46   Joe_Lieberman  1
+Serena_Williams   46   Queen_Elizabeth_II  1
+Vladimir_Putin   1   Wen_Jiabao  1
+Vladimir_Putin   1   Anna_Kournikova  1
+Vladimir_Putin   1   Gonzalo_Sanchez_de_Lozada  1
+Vladimir_Putin   1   Harrison_Ford  1
+Vladimir_Putin   1   Howard_Dean  1
+Vladimir_Putin   5   Wen_Jiabao  1
+Vladimir_Putin   5   Anna_Kournikova  1
+Vladimir_Putin   5   Gonzalo_Sanchez_de_Lozada  1
+Vladimir_Putin   5   Harrison_Ford  1
+Vladimir_Putin   5   Howard_Dean  1
+Vladimir_Putin   9   Wen_Jiabao  1
+Vladimir_Putin   9   Anna_Kournikova  1
+Vladimir_Putin   9   Gonzalo_Sanchez_de_Lozada  1
+Vladimir_Putin   9   Harrison_Ford  1
+Vladimir_Putin   9   Howard_Dean  1
+Vladimir_Putin   13   Wen_Jiabao  1
+Vladimir_Putin   13   Anna_Kournikova  1
+Vladimir_Putin   13   Gonzalo_Sanchez_de_Lozada  1
+Vladimir_Putin   13   Harrison_Ford  1
+Vladimir_Putin   13   Howard_Dean  1
+Vladimir_Putin   17   Wen_Jiabao  1
+Vladimir_Putin   17   Anna_Kournikova  1
+Vladimir_Putin   17   Gonzalo_Sanchez_de_Lozada  1
+Vladimir_Putin   17   Harrison_Ford  1
+Vladimir_Putin   17   Howard_Dean  1
+Vladimir_Putin   21   Wen_Jiabao  1
+Vladimir_Putin   21   Anna_Kournikova  1
+Vladimir_Putin   21   Gonzalo_Sanchez_de_Lozada  1
+Vladimir_Putin   21   Harrison_Ford  1
+Vladimir_Putin   21   Howard_Dean  1
+Vladimir_Putin   25   Wen_Jiabao  1
+Vladimir_Putin   25   Anna_Kournikova  1
+Vladimir_Putin   25   Gonzalo_Sanchez_de_Lozada  1
+Vladimir_Putin   25   Harrison_Ford  1
+Vladimir_Putin   25   Howard_Dean  1
+Vladimir_Putin   29   Wen_Jiabao  1
+Vladimir_Putin   29   Anna_Kournikova  1
+Vladimir_Putin   29   Gonzalo_Sanchez_de_Lozada  1
+Vladimir_Putin   29   Harrison_Ford  1
+Vladimir_Putin   29   Howard_Dean  1
+Vladimir_Putin   33   Wen_Jiabao  1
+Vladimir_Putin   33   Anna_Kournikova  1
+Vladimir_Putin   33   Gonzalo_Sanchez_de_Lozada  1
+Vladimir_Putin   33   Harrison_Ford  1
+Vladimir_Putin   33   Howard_Dean  1
+Vladimir_Putin   37   Wen_Jiabao  1
+Vladimir_Putin   37   Anna_Kournikova  1
+Vladimir_Putin   37   Gonzalo_Sanchez_de_Lozada  1
+Vladimir_Putin   37   Harrison_Ford  1
+Vladimir_Putin   37   Howard_Dean  1
+Luiz_Inacio_Lula_da_Silva   1   Jeb_Bush  1
+Luiz_Inacio_Lula_da_Silva   1   Jennifer_Garner  1
+Luiz_Inacio_Lula_da_Silva   1   Keanu_Reeves  1
+Luiz_Inacio_Lula_da_Silva   1   Rubens_Barrichello  1
+Luiz_Inacio_Lula_da_Silva   1   Catherine_Zeta-Jones  1
+Luiz_Inacio_Lula_da_Silva   5   Jeb_Bush  1
+Luiz_Inacio_Lula_da_Silva   5   Jennifer_Garner  1
+Luiz_Inacio_Lula_da_Silva   5   Keanu_Reeves  1
+Luiz_Inacio_Lula_da_Silva   5   Rubens_Barrichello  1
+Luiz_Inacio_Lula_da_Silva   5   Catherine_Zeta-Jones  1
+Luiz_Inacio_Lula_da_Silva   9   Jeb_Bush  1
+Luiz_Inacio_Lula_da_Silva   9   Jennifer_Garner  1
+Luiz_Inacio_Lula_da_Silva   9   Keanu_Reeves  1
+Luiz_Inacio_Lula_da_Silva   9   Rubens_Barrichello  1
+Luiz_Inacio_Lula_da_Silva   9   Catherine_Zeta-Jones  1
+Luiz_Inacio_Lula_da_Silva   13   Jeb_Bush  1
+Luiz_Inacio_Lula_da_Silva   13   Jennifer_Garner  1
+Luiz_Inacio_Lula_da_Silva   13   Keanu_Reeves  1
+Luiz_Inacio_Lula_da_Silva   13   Rubens_Barrichello  1
+Luiz_Inacio_Lula_da_Silva   13   Catherine_Zeta-Jones  1
+Luiz_Inacio_Lula_da_Silva   17   Jeb_Bush  1
+Luiz_Inacio_Lula_da_Silva   17   Jennifer_Garner  1
+Luiz_Inacio_Lula_da_Silva   17   Keanu_Reeves  1
+Luiz_Inacio_Lula_da_Silva   17   Rubens_Barrichello  1
+Luiz_Inacio_Lula_da_Silva   17   Catherine_Zeta-Jones  1
+Luiz_Inacio_Lula_da_Silva   21   Jeb_Bush  1
+Luiz_Inacio_Lula_da_Silva   21   Jennifer_Garner  1
+Luiz_Inacio_Lula_da_Silva   21   Keanu_Reeves  1
+Luiz_Inacio_Lula_da_Silva   21   Rubens_Barrichello  1
+Luiz_Inacio_Lula_da_Silva   21   Catherine_Zeta-Jones  1
+Luiz_Inacio_Lula_da_Silva   25   Jeb_Bush  1
+Luiz_Inacio_Lula_da_Silva   25   Jennifer_Garner  1
+Luiz_Inacio_Lula_da_Silva   25   Keanu_Reeves  1
+Luiz_Inacio_Lula_da_Silva   25   Rubens_Barrichello  1
+Luiz_Inacio_Lula_da_Silva   25   Catherine_Zeta-Jones  1
+Luiz_Inacio_Lula_da_Silva   29   Jeb_Bush  1
+Luiz_Inacio_Lula_da_Silva   29   Jennifer_Garner  1
+Luiz_Inacio_Lula_da_Silva   29   Keanu_Reeves  1
+Luiz_Inacio_Lula_da_Silva   29   Rubens_Barrichello  1
+Luiz_Inacio_Lula_da_Silva   29   Catherine_Zeta-Jones  1
+Luiz_Inacio_Lula_da_Silva   33   Jeb_Bush  1
+Luiz_Inacio_Lula_da_Silva   33   Jennifer_Garner  1
+Luiz_Inacio_Lula_da_Silva   33   Keanu_Reeves  1
+Luiz_Inacio_Lula_da_Silva   33   Rubens_Barrichello  1
+Luiz_Inacio_Lula_da_Silva   33   Catherine_Zeta-Jones  1
+Luiz_Inacio_Lula_da_Silva   37   Jeb_Bush  1
+Luiz_Inacio_Lula_da_Silva   37   Jennifer_Garner  1
+Luiz_Inacio_Lula_da_Silva   37   Keanu_Reeves  1
+Luiz_Inacio_Lula_da_Silva   37   Rubens_Barrichello  1
+Luiz_Inacio_Lula_da_Silva   37   Catherine_Zeta-Jones  1
+Gloria_Macapagal_Arroyo   1   Jiri_Novak  1
+Gloria_Macapagal_Arroyo   1   John_Allen_Muhammad  1
+Gloria_Macapagal_Arroyo   1   John_Paul_II  1
+Gloria_Macapagal_Arroyo   1   Kim_Ryong-sung  1
+Gloria_Macapagal_Arroyo   1   Mark_Philippoussis  1
+Gloria_Macapagal_Arroyo   5   Jiri_Novak  1
+Gloria_Macapagal_Arroyo   5   John_Allen_Muhammad  1
+Gloria_Macapagal_Arroyo   5   John_Paul_II  1
+Gloria_Macapagal_Arroyo   5   Kim_Ryong-sung  1
+Gloria_Macapagal_Arroyo   5   Mark_Philippoussis  1
+Gloria_Macapagal_Arroyo   9   Jiri_Novak  1
+Gloria_Macapagal_Arroyo   9   John_Allen_Muhammad  1
+Gloria_Macapagal_Arroyo   9   John_Paul_II  1
+Gloria_Macapagal_Arroyo   9   Kim_Ryong-sung  1
+Gloria_Macapagal_Arroyo   9   Mark_Philippoussis  1
+Gloria_Macapagal_Arroyo   13   Jiri_Novak  1
+Gloria_Macapagal_Arroyo   13   John_Allen_Muhammad  1
+Gloria_Macapagal_Arroyo   13   John_Paul_II  1
+Gloria_Macapagal_Arroyo   13   Kim_Ryong-sung  1
+Gloria_Macapagal_Arroyo   13   Mark_Philippoussis  1
+Gloria_Macapagal_Arroyo   17   Jiri_Novak  1
+Gloria_Macapagal_Arroyo   17   John_Allen_Muhammad  1
+Gloria_Macapagal_Arroyo   17   John_Paul_II  1
+Gloria_Macapagal_Arroyo   17   Kim_Ryong-sung  1
+Gloria_Macapagal_Arroyo   17   Mark_Philippoussis  1
+Gloria_Macapagal_Arroyo   21   Jiri_Novak  1
+Gloria_Macapagal_Arroyo   21   John_Allen_Muhammad  1
+Gloria_Macapagal_Arroyo   21   John_Paul_II  1
+Gloria_Macapagal_Arroyo   21   Kim_Ryong-sung  1
+Gloria_Macapagal_Arroyo   21   Mark_Philippoussis  1
+Gloria_Macapagal_Arroyo   25   Jiri_Novak  1
+Gloria_Macapagal_Arroyo   25   John_Allen_Muhammad  1
+Gloria_Macapagal_Arroyo   25   John_Paul_II  1
+Gloria_Macapagal_Arroyo   25   Kim_Ryong-sung  1
+Gloria_Macapagal_Arroyo   25   Mark_Philippoussis  1
+Gloria_Macapagal_Arroyo   29   Jiri_Novak  1
+Gloria_Macapagal_Arroyo   29   John_Allen_Muhammad  1
+Gloria_Macapagal_Arroyo   29   John_Paul_II  1
+Gloria_Macapagal_Arroyo   29   Kim_Ryong-sung  1
+Gloria_Macapagal_Arroyo   29   Mark_Philippoussis  1
+Gloria_Macapagal_Arroyo   33   Jiri_Novak  1
+Gloria_Macapagal_Arroyo   33   John_Allen_Muhammad  1
+Gloria_Macapagal_Arroyo   33   John_Paul_II  1
+Gloria_Macapagal_Arroyo   33   Kim_Ryong-sung  1
+Gloria_Macapagal_Arroyo   33   Mark_Philippoussis  1
+Gloria_Macapagal_Arroyo   37   Jiri_Novak  1
+Gloria_Macapagal_Arroyo   37   John_Allen_Muhammad  1
+Gloria_Macapagal_Arroyo   37   John_Paul_II  1
+Gloria_Macapagal_Arroyo   37   Kim_Ryong-sung  1
+Gloria_Macapagal_Arroyo   37   Mark_Philippoussis  1
+Arnold_Schwarzenegger   1   Mike_Weir  1
+Arnold_Schwarzenegger   1   Richard_Gephardt  1
+Arnold_Schwarzenegger   1   Sergio_Vieira_De_Mello  1
+Arnold_Schwarzenegger   1   Jason_Kidd  1
+Arnold_Schwarzenegger   1   Javier_Solana  1
+Arnold_Schwarzenegger   5   Mike_Weir  1
+Arnold_Schwarzenegger   5   Richard_Gephardt  1
+Arnold_Schwarzenegger   5   Sergio_Vieira_De_Mello  1
+Arnold_Schwarzenegger   5   Jason_Kidd  1
+Arnold_Schwarzenegger   5   Javier_Solana  1
+Arnold_Schwarzenegger   9   Mike_Weir  1
+Arnold_Schwarzenegger   9   Richard_Gephardt  1
+Arnold_Schwarzenegger   9   Sergio_Vieira_De_Mello  1
+Arnold_Schwarzenegger   9   Jason_Kidd  1
+Arnold_Schwarzenegger   9   Javier_Solana  1
+Arnold_Schwarzenegger   13   Mike_Weir  1
+Arnold_Schwarzenegger   13   Richard_Gephardt  1
+Arnold_Schwarzenegger   13   Sergio_Vieira_De_Mello  1
+Arnold_Schwarzenegger   13   Jason_Kidd  1
+Arnold_Schwarzenegger   13   Javier_Solana  1
+Arnold_Schwarzenegger   17   Mike_Weir  1
+Arnold_Schwarzenegger   17   Richard_Gephardt  1
+Arnold_Schwarzenegger   17   Sergio_Vieira_De_Mello  1
+Arnold_Schwarzenegger   17   Jason_Kidd  1
+Arnold_Schwarzenegger   17   Javier_Solana  1
+Arnold_Schwarzenegger   21   Mike_Weir  1
+Arnold_Schwarzenegger   21   Richard_Gephardt  1
+Arnold_Schwarzenegger   21   Sergio_Vieira_De_Mello  1
+Arnold_Schwarzenegger   21   Jason_Kidd  1
+Arnold_Schwarzenegger   21   Javier_Solana  1
+Arnold_Schwarzenegger   25   Mike_Weir  1
+Arnold_Schwarzenegger   25   Richard_Gephardt  1
+Arnold_Schwarzenegger   25   Sergio_Vieira_De_Mello  1
+Arnold_Schwarzenegger   25   Jason_Kidd  1
+Arnold_Schwarzenegger   25   Javier_Solana  1
+Arnold_Schwarzenegger   29   Mike_Weir  1
+Arnold_Schwarzenegger   29   Richard_Gephardt  1
+Arnold_Schwarzenegger   29   Sergio_Vieira_De_Mello  1
+Arnold_Schwarzenegger   29   Jason_Kidd  1
+Arnold_Schwarzenegger   29   Javier_Solana  1
+Arnold_Schwarzenegger   33   Mike_Weir  1
+Arnold_Schwarzenegger   33   Richard_Gephardt  1
+Arnold_Schwarzenegger   33   Sergio_Vieira_De_Mello  1
+Arnold_Schwarzenegger   33   Jason_Kidd  1
+Arnold_Schwarzenegger   33   Javier_Solana  1
+Arnold_Schwarzenegger   37   Mike_Weir  1
+Arnold_Schwarzenegger   37   Richard_Gephardt  1
+Arnold_Schwarzenegger   37   Sergio_Vieira_De_Mello  1
+Arnold_Schwarzenegger   37   Jason_Kidd  1
+Arnold_Schwarzenegger   37   Javier_Solana  1
+Laura_Bush   1   Jean-David_Levitte  1
+Laura_Bush   1   Paradorn_Srichaphan  1
+Laura_Bush   1   Paul_Wolfowitz  1
+Laura_Bush   1   Tom_Hanks  1
+Laura_Bush   1   Tommy_Thompson  1
+Laura_Bush   5   Jean-David_Levitte  1
+Laura_Bush   5   Paradorn_Srichaphan  1
+Laura_Bush   5   Paul_Wolfowitz  1
+Laura_Bush   5   Tom_Hanks  1
+Laura_Bush   5   Tommy_Thompson  1
+Laura_Bush   9   Jean-David_Levitte  1
+Laura_Bush   9   Paradorn_Srichaphan  1
+Laura_Bush   9   Paul_Wolfowitz  1
+Laura_Bush   9   Tom_Hanks  1
+Laura_Bush   9   Tommy_Thompson  1
+Laura_Bush   13   Jean-David_Levitte  1
+Laura_Bush   13   Paradorn_Srichaphan  1
+Laura_Bush   13   Paul_Wolfowitz  1
+Laura_Bush   13   Tom_Hanks  1
+Laura_Bush   13   Tommy_Thompson  1
+Laura_Bush   17   Jean-David_Levitte  1
+Laura_Bush   17   Paradorn_Srichaphan  1
+Laura_Bush   17   Paul_Wolfowitz  1
+Laura_Bush   17   Tom_Hanks  1
+Laura_Bush   17   Tommy_Thompson  1
+Laura_Bush   21   Jean-David_Levitte  1
+Laura_Bush   21   Paradorn_Srichaphan  1
+Laura_Bush   21   Paul_Wolfowitz  1
+Laura_Bush   21   Tom_Hanks  1
+Laura_Bush   21   Tommy_Thompson  1
+Laura_Bush   25   Jean-David_Levitte  1
+Laura_Bush   25   Paradorn_Srichaphan  1
+Laura_Bush   25   Paul_Wolfowitz  1
+Laura_Bush   25   Tom_Hanks  1
+Laura_Bush   25   Tommy_Thompson  1
+Laura_Bush   29   Jean-David_Levitte  1
+Laura_Bush   29   Paradorn_Srichaphan  1
+Laura_Bush   29   Paul_Wolfowitz  1
+Laura_Bush   29   Tom_Hanks  1
+Laura_Bush   29   Tommy_Thompson  1
+Laura_Bush   33   Jean-David_Levitte  1
+Laura_Bush   33   Paradorn_Srichaphan  1
+Laura_Bush   33   Paul_Wolfowitz  1
+Laura_Bush   33   Tom_Hanks  1
+Laura_Bush   33   Tommy_Thompson  1
+Laura_Bush   37   Jean-David_Levitte  1
+Laura_Bush   37   Paradorn_Srichaphan  1
+Laura_Bush   37   Paul_Wolfowitz  1
+Laura_Bush   37   Tom_Hanks  1
+Laura_Bush   37   Tommy_Thompson  1
+Lleyton_Hewitt   1   Walter_Mondale  1
+Lleyton_Hewitt   1   Bill_Graham  1
+Lleyton_Hewitt   1   Colin_Farrell  1
+Lleyton_Hewitt   1   Fernando_Gonzalez  1
+Lleyton_Hewitt   1   George_Clooney  1
+Lleyton_Hewitt   5   Walter_Mondale  1
+Lleyton_Hewitt   5   Bill_Graham  1
+Lleyton_Hewitt   5   Colin_Farrell  1
+Lleyton_Hewitt   5   Fernando_Gonzalez  1
+Lleyton_Hewitt   5   George_Clooney  1
+Lleyton_Hewitt   9   Walter_Mondale  1
+Lleyton_Hewitt   9   Bill_Graham  1
+Lleyton_Hewitt   9   Colin_Farrell  1
+Lleyton_Hewitt   9   Fernando_Gonzalez  1
+Lleyton_Hewitt   9   George_Clooney  1
+Lleyton_Hewitt   13   Walter_Mondale  1
+Lleyton_Hewitt   13   Bill_Graham  1
+Lleyton_Hewitt   13   Colin_Farrell  1
+Lleyton_Hewitt   13   Fernando_Gonzalez  1
+Lleyton_Hewitt   13   George_Clooney  1
+Lleyton_Hewitt   17   Walter_Mondale  1
+Lleyton_Hewitt   17   Bill_Graham  1
+Lleyton_Hewitt   17   Colin_Farrell  1
+Lleyton_Hewitt   17   Fernando_Gonzalez  1
+Lleyton_Hewitt   17   George_Clooney  1
+Lleyton_Hewitt   21   Walter_Mondale  1
+Lleyton_Hewitt   21   Bill_Graham  1
+Lleyton_Hewitt   21   Colin_Farrell  1
+Lleyton_Hewitt   21   Fernando_Gonzalez  1
+Lleyton_Hewitt   21   George_Clooney  1
+Lleyton_Hewitt   25   Walter_Mondale  1
+Lleyton_Hewitt   25   Bill_Graham  1
+Lleyton_Hewitt   25   Colin_Farrell  1
+Lleyton_Hewitt   25   Fernando_Gonzalez  1
+Lleyton_Hewitt   25   George_Clooney  1
+Lleyton_Hewitt   29   Walter_Mondale  1
+Lleyton_Hewitt   29   Bill_Graham  1
+Lleyton_Hewitt   29   Colin_Farrell  1
+Lleyton_Hewitt   29   Fernando_Gonzalez  1
+Lleyton_Hewitt   29   George_Clooney  1
+Lleyton_Hewitt   33   Walter_Mondale  1
+Lleyton_Hewitt   33   Bill_Graham  1
+Lleyton_Hewitt   33   Colin_Farrell  1
+Lleyton_Hewitt   33   Fernando_Gonzalez  1
+Lleyton_Hewitt   33   George_Clooney  1
+Lleyton_Hewitt   37   Walter_Mondale  1
+Lleyton_Hewitt   37   Bill_Graham  1
+Lleyton_Hewitt   37   Colin_Farrell  1
+Lleyton_Hewitt   37   Fernando_Gonzalez  1
+Lleyton_Hewitt   37   George_Clooney  1
+Alejandro_Toledo   1   Heizo_Takenaka  1
+Alejandro_Toledo   1   Hosni_Mubarak  1
+Alejandro_Toledo   1   Hugh_Grant  1
+Alejandro_Toledo   1   Joan_Laporta  1
+Alejandro_Toledo   1   John_Abizaid  1
+Alejandro_Toledo   4   Heizo_Takenaka  1
+Alejandro_Toledo   4   Hosni_Mubarak  1
+Alejandro_Toledo   4   Hugh_Grant  1
+Alejandro_Toledo   4   Joan_Laporta  1
+Alejandro_Toledo   4   John_Abizaid  1
+Alejandro_Toledo   7   Heizo_Takenaka  1
+Alejandro_Toledo   7   Hosni_Mubarak  1
+Alejandro_Toledo   7   Hugh_Grant  1
+Alejandro_Toledo   7   Joan_Laporta  1
+Alejandro_Toledo   7   John_Abizaid  1
+Alejandro_Toledo   10   Heizo_Takenaka  1
+Alejandro_Toledo   10   Hosni_Mubarak  1
+Alejandro_Toledo   10   Hugh_Grant  1
+Alejandro_Toledo   10   Joan_Laporta  1
+Alejandro_Toledo   10   John_Abizaid  1
+Alejandro_Toledo   13   Heizo_Takenaka  1
+Alejandro_Toledo   13   Hosni_Mubarak  1
+Alejandro_Toledo   13   Hugh_Grant  1
+Alejandro_Toledo   13   Joan_Laporta  1
+Alejandro_Toledo   13   John_Abizaid  1
+Alejandro_Toledo   16   Heizo_Takenaka  1
+Alejandro_Toledo   16   Hosni_Mubarak  1
+Alejandro_Toledo   16   Hugh_Grant  1
+Alejandro_Toledo   16   Joan_Laporta  1
+Alejandro_Toledo   16   John_Abizaid  1
+Alejandro_Toledo   19   Heizo_Takenaka  1
+Alejandro_Toledo   19   Hosni_Mubarak  1
+Alejandro_Toledo   19   Hugh_Grant  1
+Alejandro_Toledo   19   Joan_Laporta  1
+Alejandro_Toledo   19   John_Abizaid  1
+Alejandro_Toledo   22   Heizo_Takenaka  1
+Alejandro_Toledo   22   Hosni_Mubarak  1
+Alejandro_Toledo   22   Hugh_Grant  1
+Alejandro_Toledo   22   Joan_Laporta  1
+Alejandro_Toledo   22   John_Abizaid  1
+Alejandro_Toledo   25   Heizo_Takenaka  1
+Alejandro_Toledo   25   Hosni_Mubarak  1
+Alejandro_Toledo   25   Hugh_Grant  1
+Alejandro_Toledo   25   Joan_Laporta  1
+Alejandro_Toledo   25   John_Abizaid  1
+Alejandro_Toledo   28   Heizo_Takenaka  1
+Alejandro_Toledo   28   Hosni_Mubarak  1
+Alejandro_Toledo   28   Hugh_Grant  1
+Alejandro_Toledo   28   Joan_Laporta  1
+Alejandro_Toledo   28   John_Abizaid  1
+Hans_Blix   1   Jose_Serra  1
+Hans_Blix   1   Kate_Hudson  1
+Hans_Blix   1   Li_Peng  1
+Hans_Blix   1   Paul_ONeill  1
+Hans_Blix   1   Ray_Romano  1
+Hans_Blix   4   Jose_Serra  1
+Hans_Blix   4   Kate_Hudson  1
+Hans_Blix   4   Li_Peng  1
+Hans_Blix   4   Paul_ONeill  1
+Hans_Blix   4   Ray_Romano  1
+Hans_Blix   7   Jose_Serra  1
+Hans_Blix   7   Kate_Hudson  1
+Hans_Blix   7   Li_Peng  1
+Hans_Blix   7   Paul_ONeill  1
+Hans_Blix   7   Ray_Romano  1
+Hans_Blix   10   Jose_Serra  1
+Hans_Blix   10   Kate_Hudson  1
+Hans_Blix   10   Li_Peng  1
+Hans_Blix   10   Paul_ONeill  1
+Hans_Blix   10   Ray_Romano  1
+Hans_Blix   13   Jose_Serra  1
+Hans_Blix   13   Kate_Hudson  1
+Hans_Blix   13   Li_Peng  1
+Hans_Blix   13   Paul_ONeill  1
+Hans_Blix   13   Ray_Romano  1
+Hans_Blix   16   Jose_Serra  1
+Hans_Blix   16   Kate_Hudson  1
+Hans_Blix   16   Li_Peng  1
+Hans_Blix   16   Paul_ONeill  1
+Hans_Blix   16   Ray_Romano  1
+Hans_Blix   19   Jose_Serra  1
+Hans_Blix   19   Kate_Hudson  1
+Hans_Blix   19   Li_Peng  1
+Hans_Blix   19   Paul_ONeill  1
+Hans_Blix   19   Ray_Romano  1
+Hans_Blix   22   Jose_Serra  1
+Hans_Blix   22   Kate_Hudson  1
+Hans_Blix   22   Li_Peng  1
+Hans_Blix   22   Paul_ONeill  1
+Hans_Blix   22   Ray_Romano  1
+Hans_Blix   25   Jose_Serra  1
+Hans_Blix   25   Kate_Hudson  1
+Hans_Blix   25   Li_Peng  1
+Hans_Blix   25   Paul_ONeill  1
+Hans_Blix   25   Ray_Romano  1
+Hans_Blix   28   Jose_Serra  1
+Hans_Blix   28   Kate_Hudson  1
+Hans_Blix   28   Li_Peng  1
+Hans_Blix   28   Paul_ONeill  1
+Hans_Blix   28   Ray_Romano  1
+Nestor_Kirchner   1   Richard_Armitage  1
+Nestor_Kirchner   1   Sylvester_Stallone  1
+Nestor_Kirchner   1   Tung_Chee-hwa  1
+Nestor_Kirchner   1   Zhu_Rongji  1
+Nestor_Kirchner   1   Al_Gore  1
+Nestor_Kirchner   4   Richard_Armitage  1
+Nestor_Kirchner   4   Sylvester_Stallone  1
+Nestor_Kirchner   4   Tung_Chee-hwa  1
+Nestor_Kirchner   4   Zhu_Rongji  1
+Nestor_Kirchner   4   Al_Gore  1
+Nestor_Kirchner   7   Richard_Armitage  1
+Nestor_Kirchner   7   Sylvester_Stallone  1
+Nestor_Kirchner   7   Tung_Chee-hwa  1
+Nestor_Kirchner   7   Zhu_Rongji  1
+Nestor_Kirchner   7   Al_Gore  1
+Nestor_Kirchner   10   Richard_Armitage  1
+Nestor_Kirchner   10   Sylvester_Stallone  1
+Nestor_Kirchner   10   Tung_Chee-hwa  1
+Nestor_Kirchner   10   Zhu_Rongji  1
+Nestor_Kirchner   10   Al_Gore  1
+Nestor_Kirchner   13   Richard_Armitage  1
+Nestor_Kirchner   13   Sylvester_Stallone  1
+Nestor_Kirchner   13   Tung_Chee-hwa  1
+Nestor_Kirchner   13   Zhu_Rongji  1
+Nestor_Kirchner   13   Al_Gore  1
+Nestor_Kirchner   16   Richard_Armitage  1
+Nestor_Kirchner   16   Sylvester_Stallone  1
+Nestor_Kirchner   16   Tung_Chee-hwa  1
+Nestor_Kirchner   16   Zhu_Rongji  1
+Nestor_Kirchner   16   Al_Gore  1
+Nestor_Kirchner   19   Richard_Armitage  1
+Nestor_Kirchner   19   Sylvester_Stallone  1
+Nestor_Kirchner   19   Tung_Chee-hwa  1
+Nestor_Kirchner   19   Zhu_Rongji  1
+Nestor_Kirchner   19   Al_Gore  1
+Nestor_Kirchner   22   Richard_Armitage  1
+Nestor_Kirchner   22   Sylvester_Stallone  1
+Nestor_Kirchner   22   Tung_Chee-hwa  1
+Nestor_Kirchner   22   Zhu_Rongji  1
+Nestor_Kirchner   22   Al_Gore  1
+Nestor_Kirchner   25   Richard_Armitage  1
+Nestor_Kirchner   25   Sylvester_Stallone  1
+Nestor_Kirchner   25   Tung_Chee-hwa  1
+Nestor_Kirchner   25   Zhu_Rongji  1
+Nestor_Kirchner   25   Al_Gore  1
+Nestor_Kirchner   28   Richard_Armitage  1
+Nestor_Kirchner   28   Sylvester_Stallone  1
+Nestor_Kirchner   28   Tung_Chee-hwa  1
+Nestor_Kirchner   28   Zhu_Rongji  1
+Nestor_Kirchner   28   Al_Gore  1
+Andre_Agassi   1   Bob_Hope  1
+Andre_Agassi   1   Cesar_Gaviria  1
+Andre_Agassi   1   Fernando_Henrique_Cardoso  1
+Andre_Agassi   1   Jelena_Dokic  1
+Andre_Agassi   1   John_Edwards  1
+Andre_Agassi   4   Bob_Hope  1
+Andre_Agassi   4   Cesar_Gaviria  1
+Andre_Agassi   4   Fernando_Henrique_Cardoso  1
+Andre_Agassi   4   Jelena_Dokic  1
+Andre_Agassi   4   John_Edwards  1
+Andre_Agassi   7   Bob_Hope  1
+Andre_Agassi   7   Cesar_Gaviria  1
+Andre_Agassi   7   Fernando_Henrique_Cardoso  1
+Andre_Agassi   7   Jelena_Dokic  1
+Andre_Agassi   7   John_Edwards  1
+Andre_Agassi   10   Bob_Hope  1
+Andre_Agassi   10   Cesar_Gaviria  1
+Andre_Agassi   10   Fernando_Henrique_Cardoso  1
+Andre_Agassi   10   Jelena_Dokic  1
+Andre_Agassi   10   John_Edwards  1
+Andre_Agassi   13   Bob_Hope  1
+Andre_Agassi   13   Cesar_Gaviria  1
+Andre_Agassi   13   Fernando_Henrique_Cardoso  1
+Andre_Agassi   13   Jelena_Dokic  1
+Andre_Agassi   13   John_Edwards  1
+Andre_Agassi   16   Bob_Hope  1
+Andre_Agassi   16   Cesar_Gaviria  1
+Andre_Agassi   16   Fernando_Henrique_Cardoso  1
+Andre_Agassi   16   Jelena_Dokic  1
+Andre_Agassi   16   John_Edwards  1
+Andre_Agassi   19   Bob_Hope  1
+Andre_Agassi   19   Cesar_Gaviria  1
+Andre_Agassi   19   Fernando_Henrique_Cardoso  1
+Andre_Agassi   19   Jelena_Dokic  1
+Andre_Agassi   19   John_Edwards  1
+Andre_Agassi   22   Bob_Hope  1
+Andre_Agassi   22   Cesar_Gaviria  1
+Andre_Agassi   22   Fernando_Henrique_Cardoso  1
+Andre_Agassi   22   Jelena_Dokic  1
+Andre_Agassi   22   John_Edwards  1
+Andre_Agassi   25   Bob_Hope  1
+Andre_Agassi   25   Cesar_Gaviria  1
+Andre_Agassi   25   Fernando_Henrique_Cardoso  1
+Andre_Agassi   25   Jelena_Dokic  1
+Andre_Agassi   25   John_Edwards  1
+Andre_Agassi   28   Bob_Hope  1
+Andre_Agassi   28   Cesar_Gaviria  1
+Andre_Agassi   28   Fernando_Henrique_Cardoso  1
+Andre_Agassi   28   Jelena_Dokic  1
+Andre_Agassi   28   John_Edwards  1
+Megawati_Sukarnoputri   1   Jonathan_Edwards  1
+Megawati_Sukarnoputri   1   Juan_Pablo_Montoya  1
+Megawati_Sukarnoputri   1   Justin_Timberlake  1
+Megawati_Sukarnoputri   1   Kevin_Costner  1
+Megawati_Sukarnoputri   1   Kim_Dae-jung  1
+Megawati_Sukarnoputri   4   Jonathan_Edwards  1
+Megawati_Sukarnoputri   4   Juan_Pablo_Montoya  1
+Megawati_Sukarnoputri   4   Justin_Timberlake  1
+Megawati_Sukarnoputri   4   Kevin_Costner  1
+Megawati_Sukarnoputri   4   Kim_Dae-jung  1
+Megawati_Sukarnoputri   7   Jonathan_Edwards  1
+Megawati_Sukarnoputri   7   Juan_Pablo_Montoya  1
+Megawati_Sukarnoputri   7   Justin_Timberlake  1
+Megawati_Sukarnoputri   7   Kevin_Costner  1
+Megawati_Sukarnoputri   7   Kim_Dae-jung  1
+Megawati_Sukarnoputri   10   Jonathan_Edwards  1
+Megawati_Sukarnoputri   10   Juan_Pablo_Montoya  1
+Megawati_Sukarnoputri   10   Justin_Timberlake  1
+Megawati_Sukarnoputri   10   Kevin_Costner  1
+Megawati_Sukarnoputri   10   Kim_Dae-jung  1
+Megawati_Sukarnoputri   13   Jonathan_Edwards  1
+Megawati_Sukarnoputri   13   Juan_Pablo_Montoya  1
+Megawati_Sukarnoputri   13   Justin_Timberlake  1
+Megawati_Sukarnoputri   13   Kevin_Costner  1
+Megawati_Sukarnoputri   13   Kim_Dae-jung  1
+Megawati_Sukarnoputri   16   Jonathan_Edwards  1
+Megawati_Sukarnoputri   16   Juan_Pablo_Montoya  1
+Megawati_Sukarnoputri   16   Justin_Timberlake  1
+Megawati_Sukarnoputri   16   Kevin_Costner  1
+Megawati_Sukarnoputri   16   Kim_Dae-jung  1
+Megawati_Sukarnoputri   19   Jonathan_Edwards  1
+Megawati_Sukarnoputri   19   Juan_Pablo_Montoya  1
+Megawati_Sukarnoputri   19   Justin_Timberlake  1
+Megawati_Sukarnoputri   19   Kevin_Costner  1
+Megawati_Sukarnoputri   19   Kim_Dae-jung  1
+Megawati_Sukarnoputri   22   Jonathan_Edwards  1
+Megawati_Sukarnoputri   22   Juan_Pablo_Montoya  1
+Megawati_Sukarnoputri   22   Justin_Timberlake  1
+Megawati_Sukarnoputri   22   Kevin_Costner  1
+Megawati_Sukarnoputri   22   Kim_Dae-jung  1
+Megawati_Sukarnoputri   25   Jonathan_Edwards  1
+Megawati_Sukarnoputri   25   Juan_Pablo_Montoya  1
+Megawati_Sukarnoputri   25   Justin_Timberlake  1
+Megawati_Sukarnoputri   25   Kevin_Costner  1
+Megawati_Sukarnoputri   25   Kim_Dae-jung  1
+Megawati_Sukarnoputri   28   Jonathan_Edwards  1
+Megawati_Sukarnoputri   28   Juan_Pablo_Montoya  1
+Megawati_Sukarnoputri   28   Justin_Timberlake  1
+Megawati_Sukarnoputri   28   Kevin_Costner  1
+Megawati_Sukarnoputri   28   Kim_Dae-jung  1
+Tom_Ridge   1   Li_Zhaoxing  1
+Tom_Ridge   1   Michelle_Kwan  1
+Tom_Ridge   1   Naji_Sabri  1
+Tom_Ridge   1   Richard_Virenque  1
+Tom_Ridge   1   Robert_Blake  1
+Tom_Ridge   4   Li_Zhaoxing  1
+Tom_Ridge   4   Michelle_Kwan  1
+Tom_Ridge   4   Naji_Sabri  1
+Tom_Ridge   4   Richard_Virenque  1
+Tom_Ridge   4   Robert_Blake  1
+Tom_Ridge   7   Li_Zhaoxing  1
+Tom_Ridge   7   Michelle_Kwan  1
+Tom_Ridge   7   Naji_Sabri  1
+Tom_Ridge   7   Richard_Virenque  1
+Tom_Ridge   7   Robert_Blake  1
+Tom_Ridge   10   Li_Zhaoxing  1
+Tom_Ridge   10   Michelle_Kwan  1
+Tom_Ridge   10   Naji_Sabri  1
+Tom_Ridge   10   Richard_Virenque  1
+Tom_Ridge   10   Robert_Blake  1
+Tom_Ridge   13   Li_Zhaoxing  1
+Tom_Ridge   13   Michelle_Kwan  1
+Tom_Ridge   13   Naji_Sabri  1
+Tom_Ridge   13   Richard_Virenque  1
+Tom_Ridge   13   Robert_Blake  1
+Tom_Ridge   16   Li_Zhaoxing  1
+Tom_Ridge   16   Michelle_Kwan  1
+Tom_Ridge   16   Naji_Sabri  1
+Tom_Ridge   16   Richard_Virenque  1
+Tom_Ridge   16   Robert_Blake  1
+Tom_Ridge   19   Li_Zhaoxing  1
+Tom_Ridge   19   Michelle_Kwan  1
+Tom_Ridge   19   Naji_Sabri  1
+Tom_Ridge   19   Richard_Virenque  1
+Tom_Ridge   19   Robert_Blake  1
+Tom_Ridge   22   Li_Zhaoxing  1
+Tom_Ridge   22   Michelle_Kwan  1
+Tom_Ridge   22   Naji_Sabri  1
+Tom_Ridge   22   Richard_Virenque  1
+Tom_Ridge   22   Robert_Blake  1
+Tom_Ridge   25   Li_Zhaoxing  1
+Tom_Ridge   25   Michelle_Kwan  1
+Tom_Ridge   25   Naji_Sabri  1
+Tom_Ridge   25   Richard_Virenque  1
+Tom_Ridge   25   Robert_Blake  1
+Tom_Ridge   28   Li_Zhaoxing  1
+Tom_Ridge   28   Michelle_Kwan  1
+Tom_Ridge   28   Naji_Sabri  1
+Tom_Ridge   28   Richard_Virenque  1
+Tom_Ridge   28   Robert_Blake  1
+Roh_Moo-hyun   1   Robert_Duvall  1
+Roh_Moo-hyun   1   Ron_Dittemore  1
+Roh_Moo-hyun   1   Sheryl_Crow  1
+Roh_Moo-hyun   1   Shimon_Peres  1
+Roh_Moo-hyun   1   Yao_Ming  1
+Roh_Moo-hyun   4   Robert_Duvall  1
+Roh_Moo-hyun   4   Ron_Dittemore  1
+Roh_Moo-hyun   4   Sheryl_Crow  1
+Roh_Moo-hyun   4   Shimon_Peres  1
+Roh_Moo-hyun   4   Yao_Ming  1
+Roh_Moo-hyun   7   Robert_Duvall  1
+Roh_Moo-hyun   7   Ron_Dittemore  1
+Roh_Moo-hyun   7   Sheryl_Crow  1
+Roh_Moo-hyun   7   Shimon_Peres  1
+Roh_Moo-hyun   7   Yao_Ming  1
+Roh_Moo-hyun   10   Robert_Duvall  1
+Roh_Moo-hyun   10   Ron_Dittemore  1
+Roh_Moo-hyun   10   Sheryl_Crow  1
+Roh_Moo-hyun   10   Shimon_Peres  1
+Roh_Moo-hyun   10   Yao_Ming  1
+Roh_Moo-hyun   13   Robert_Duvall  1
+Roh_Moo-hyun   13   Ron_Dittemore  1
+Roh_Moo-hyun   13   Sheryl_Crow  1
+Roh_Moo-hyun   13   Shimon_Peres  1
+Roh_Moo-hyun   13   Yao_Ming  1
+Roh_Moo-hyun   16   Robert_Duvall  1
+Roh_Moo-hyun   16   Ron_Dittemore  1
+Roh_Moo-hyun   16   Sheryl_Crow  1
+Roh_Moo-hyun   16   Shimon_Peres  1
+Roh_Moo-hyun   16   Yao_Ming  1
+Roh_Moo-hyun   19   Robert_Duvall  1
+Roh_Moo-hyun   19   Ron_Dittemore  1
+Roh_Moo-hyun   19   Sheryl_Crow  1
+Roh_Moo-hyun   19   Shimon_Peres  1
+Roh_Moo-hyun   19   Yao_Ming  1
+Roh_Moo-hyun   22   Robert_Duvall  1
+Roh_Moo-hyun   22   Ron_Dittemore  1
+Roh_Moo-hyun   22   Sheryl_Crow  1
+Roh_Moo-hyun   22   Shimon_Peres  1
+Roh_Moo-hyun   22   Yao_Ming  1
+Roh_Moo-hyun   25   Robert_Duvall  1
+Roh_Moo-hyun   25   Ron_Dittemore  1
+Roh_Moo-hyun   25   Sheryl_Crow  1
+Roh_Moo-hyun   25   Shimon_Peres  1
+Roh_Moo-hyun   25   Yao_Ming  1
+Roh_Moo-hyun   28   Robert_Duvall  1
+Roh_Moo-hyun   28   Ron_Dittemore  1
+Roh_Moo-hyun   28   Sheryl_Crow  1
+Roh_Moo-hyun   28   Shimon_Peres  1
+Roh_Moo-hyun   28   Yao_Ming  1
+David_Beckham   1   Yasser_Arafat  1
+David_Beckham   1   Al_Sharpton  1
+David_Beckham   1   Amelia_Vega  1
+David_Beckham   1   Ana_Guevara  1
+David_Beckham   1   Binyamin_Ben-Eliezer  1
+David_Beckham   4   Yasser_Arafat  1
+David_Beckham   4   Al_Sharpton  1
+David_Beckham   4   Amelia_Vega  1
+David_Beckham   4   Ana_Guevara  1
+David_Beckham   4   Binyamin_Ben-Eliezer  1
+David_Beckham   7   Yasser_Arafat  1
+David_Beckham   7   Al_Sharpton  1
+David_Beckham   7   Amelia_Vega  1
+David_Beckham   7   Ana_Guevara  1
+David_Beckham   7   Binyamin_Ben-Eliezer  1
+David_Beckham   10   Yasser_Arafat  1
+David_Beckham   10   Al_Sharpton  1
+David_Beckham   10   Amelia_Vega  1
+David_Beckham   10   Ana_Guevara  1
+David_Beckham   10   Binyamin_Ben-Eliezer  1
+David_Beckham   13   Yasser_Arafat  1
+David_Beckham   13   Al_Sharpton  1
+David_Beckham   13   Amelia_Vega  1
+David_Beckham   13   Ana_Guevara  1
+David_Beckham   13   Binyamin_Ben-Eliezer  1
+David_Beckham   16   Yasser_Arafat  1
+David_Beckham   16   Al_Sharpton  1
+David_Beckham   16   Amelia_Vega  1
+David_Beckham   16   Ana_Guevara  1
+David_Beckham   16   Binyamin_Ben-Eliezer  1
+David_Beckham   19   Yasser_Arafat  1
+David_Beckham   19   Al_Sharpton  1
+David_Beckham   19   Amelia_Vega  1
+David_Beckham   19   Ana_Guevara  1
+David_Beckham   19   Binyamin_Ben-Eliezer  1
+David_Beckham   22   Yasser_Arafat  1
+David_Beckham   22   Al_Sharpton  1
+David_Beckham   22   Amelia_Vega  1
+David_Beckham   22   Ana_Guevara  1
+David_Beckham   22   Binyamin_Ben-Eliezer  1
+David_Beckham   25   Yasser_Arafat  1
+David_Beckham   25   Al_Sharpton  1
+David_Beckham   25   Amelia_Vega  1
+David_Beckham   25   Ana_Guevara  1
+David_Beckham   25   Binyamin_Ben-Eliezer  1
+David_Beckham   28   Yasser_Arafat  1
+David_Beckham   28   Al_Sharpton  1
+David_Beckham   28   Amelia_Vega  1
+David_Beckham   28   Ana_Guevara  1
+David_Beckham   28   Binyamin_Ben-Eliezer  1
+Guillermo_Coria   1   Bob_Stoops  1
+Guillermo_Coria   1   David_Wells  1
+Guillermo_Coria   1   Dennis_Kucinich  1
+Guillermo_Coria   1   Elton_John  1
+Guillermo_Coria   1   Geoff_Hoon  1
+Guillermo_Coria   4   Bob_Stoops  1
+Guillermo_Coria   4   David_Wells  1
+Guillermo_Coria   4   Dennis_Kucinich  1
+Guillermo_Coria   4   Elton_John  1
+Guillermo_Coria   4   Geoff_Hoon  1
+Guillermo_Coria   7   Bob_Stoops  1
+Guillermo_Coria   7   David_Wells  1
+Guillermo_Coria   7   Dennis_Kucinich  1
+Guillermo_Coria   7   Elton_John  1
+Guillermo_Coria   7   Geoff_Hoon  1
+Guillermo_Coria   10   Bob_Stoops  1
+Guillermo_Coria   10   David_Wells  1
+Guillermo_Coria   10   Dennis_Kucinich  1
+Guillermo_Coria   10   Elton_John  1
+Guillermo_Coria   10   Geoff_Hoon  1
+Guillermo_Coria   13   Bob_Stoops  1
+Guillermo_Coria   13   David_Wells  1
+Guillermo_Coria   13   Dennis_Kucinich  1
+Guillermo_Coria   13   Elton_John  1
+Guillermo_Coria   13   Geoff_Hoon  1
+Guillermo_Coria   16   Bob_Stoops  1
+Guillermo_Coria   16   David_Wells  1
+Guillermo_Coria   16   Dennis_Kucinich  1
+Guillermo_Coria   16   Elton_John  1
+Guillermo_Coria   16   Geoff_Hoon  1
+Guillermo_Coria   19   Bob_Stoops  1
+Guillermo_Coria   19   David_Wells  1
+Guillermo_Coria   19   Dennis_Kucinich  1
+Guillermo_Coria   19   Elton_John  1
+Guillermo_Coria   19   Geoff_Hoon  1
+Guillermo_Coria   22   Bob_Stoops  1
+Guillermo_Coria   22   David_Wells  1
+Guillermo_Coria   22   Dennis_Kucinich  1
+Guillermo_Coria   22   Elton_John  1
+Guillermo_Coria   22   Geoff_Hoon  1
+Guillermo_Coria   25   Bob_Stoops  1
+Guillermo_Coria   25   David_Wells  1
+Guillermo_Coria   25   Dennis_Kucinich  1
+Guillermo_Coria   25   Elton_John  1
+Guillermo_Coria   25   Geoff_Hoon  1
+Guillermo_Coria   28   Bob_Stoops  1
+Guillermo_Coria   28   David_Wells  1
+Guillermo_Coria   28   Dennis_Kucinich  1
+Guillermo_Coria   28   Elton_John  1
+Guillermo_Coria   28   Geoff_Hoon  1
+Recep_Tayyip_Erdogan   1   Goldie_Hawn  1
+Recep_Tayyip_Erdogan   1   Gunter_Pleuger  1
+Recep_Tayyip_Erdogan   1   Holly_Hunter  1
+Recep_Tayyip_Erdogan   1   John_Manley  1
+Recep_Tayyip_Erdogan   1   John_McCain  1
+Recep_Tayyip_Erdogan   4   Goldie_Hawn  1
+Recep_Tayyip_Erdogan   4   Gunter_Pleuger  1
+Recep_Tayyip_Erdogan   4   Holly_Hunter  1
+Recep_Tayyip_Erdogan   4   John_Manley  1
+Recep_Tayyip_Erdogan   4   John_McCain  1
+Recep_Tayyip_Erdogan   7   Goldie_Hawn  1
+Recep_Tayyip_Erdogan   7   Gunter_Pleuger  1
+Recep_Tayyip_Erdogan   7   Holly_Hunter  1
+Recep_Tayyip_Erdogan   7   John_Manley  1
+Recep_Tayyip_Erdogan   7   John_McCain  1
+Recep_Tayyip_Erdogan   10   Goldie_Hawn  1
+Recep_Tayyip_Erdogan   10   Gunter_Pleuger  1
+Recep_Tayyip_Erdogan   10   Holly_Hunter  1
+Recep_Tayyip_Erdogan   10   John_Manley  1
+Recep_Tayyip_Erdogan   10   John_McCain  1
+Recep_Tayyip_Erdogan   13   Goldie_Hawn  1
+Recep_Tayyip_Erdogan   13   Gunter_Pleuger  1
+Recep_Tayyip_Erdogan   13   Holly_Hunter  1
+Recep_Tayyip_Erdogan   13   John_Manley  1
+Recep_Tayyip_Erdogan   13   John_McCain  1
+Recep_Tayyip_Erdogan   16   Goldie_Hawn  1
+Recep_Tayyip_Erdogan   16   Gunter_Pleuger  1
+Recep_Tayyip_Erdogan   16   Holly_Hunter  1
+Recep_Tayyip_Erdogan   16   John_Manley  1
+Recep_Tayyip_Erdogan   16   John_McCain  1
+Recep_Tayyip_Erdogan   19   Goldie_Hawn  1
+Recep_Tayyip_Erdogan   19   Gunter_Pleuger  1
+Recep_Tayyip_Erdogan   19   Holly_Hunter  1
+Recep_Tayyip_Erdogan   19   John_Manley  1
+Recep_Tayyip_Erdogan   19   John_McCain  1
+Recep_Tayyip_Erdogan   22   Goldie_Hawn  1
+Recep_Tayyip_Erdogan   22   Gunter_Pleuger  1
+Recep_Tayyip_Erdogan   22   Holly_Hunter  1
+Recep_Tayyip_Erdogan   22   John_Manley  1
+Recep_Tayyip_Erdogan   22   John_McCain  1
+Recep_Tayyip_Erdogan   25   Goldie_Hawn  1
+Recep_Tayyip_Erdogan   25   Gunter_Pleuger  1
+Recep_Tayyip_Erdogan   25   Holly_Hunter  1
+Recep_Tayyip_Erdogan   25   John_Manley  1
+Recep_Tayyip_Erdogan   25   John_McCain  1
+Recep_Tayyip_Erdogan   28   Goldie_Hawn  1
+Recep_Tayyip_Erdogan   28   Gunter_Pleuger  1
+Recep_Tayyip_Erdogan   28   Holly_Hunter  1
+Recep_Tayyip_Erdogan   28   John_Manley  1
+Recep_Tayyip_Erdogan   28   John_McCain  1
+Bill_Clinton   1   Jon_Gruden  1
+Bill_Clinton   1   Justine_Pasek  1
+Bill_Clinton   1   Larry_Brown  1
+Bill_Clinton   1   Mariah_Carey  1
+Bill_Clinton   1   Martin_Scorsese  1
+Bill_Clinton   3   Jon_Gruden  1
+Bill_Clinton   3   Justine_Pasek  1
+Bill_Clinton   3   Larry_Brown  1
+Bill_Clinton   3   Mariah_Carey  1
+Bill_Clinton   3   Martin_Scorsese  1
+Bill_Clinton   5   Jon_Gruden  1
+Bill_Clinton   5   Justine_Pasek  1
+Bill_Clinton   5   Larry_Brown  1
+Bill_Clinton   5   Mariah_Carey  1
+Bill_Clinton   5   Martin_Scorsese  1
+Bill_Clinton   7   Jon_Gruden  1
+Bill_Clinton   7   Justine_Pasek  1
+Bill_Clinton   7   Larry_Brown  1
+Bill_Clinton   7   Mariah_Carey  1
+Bill_Clinton   7   Martin_Scorsese  1
+Bill_Clinton   9   Jon_Gruden  1
+Bill_Clinton   9   Justine_Pasek  1
+Bill_Clinton   9   Larry_Brown  1
+Bill_Clinton   9   Mariah_Carey  1
+Bill_Clinton   9   Martin_Scorsese  1
+Bill_Clinton   11   Jon_Gruden  1
+Bill_Clinton   11   Justine_Pasek  1
+Bill_Clinton   11   Larry_Brown  1
+Bill_Clinton   11   Mariah_Carey  1
+Bill_Clinton   11   Martin_Scorsese  1
+Bill_Clinton   13   Jon_Gruden  1
+Bill_Clinton   13   Justine_Pasek  1
+Bill_Clinton   13   Larry_Brown  1
+Bill_Clinton   13   Mariah_Carey  1
+Bill_Clinton   13   Martin_Scorsese  1
+Bill_Clinton   15   Jon_Gruden  1
+Bill_Clinton   15   Justine_Pasek  1
+Bill_Clinton   15   Larry_Brown  1
+Bill_Clinton   15   Mariah_Carey  1
+Bill_Clinton   15   Martin_Scorsese  1
+Bill_Clinton   17   Jon_Gruden  1
+Bill_Clinton   17   Justine_Pasek  1
+Bill_Clinton   17   Larry_Brown  1
+Bill_Clinton   17   Mariah_Carey  1
+Bill_Clinton   17   Martin_Scorsese  1
+Bill_Clinton   19   Jon_Gruden  1
+Bill_Clinton   19   Justine_Pasek  1
+Bill_Clinton   19   Larry_Brown  1
+Bill_Clinton   19   Mariah_Carey  1
+Bill_Clinton   19   Martin_Scorsese  1
+Jack_Straw   1   Matthew_Perry  1
+Jack_Straw   1   Mike_Martz  1
+Jack_Straw   1   Mike_Myers  1
+Jack_Straw   1   Oscar_De_La_Hoya  1
+Jack_Straw   1   Paul_McCartney  1
+Jack_Straw   3   Matthew_Perry  1
+Jack_Straw   3   Mike_Martz  1
+Jack_Straw   3   Mike_Myers  1
+Jack_Straw   3   Oscar_De_La_Hoya  1
+Jack_Straw   3   Paul_McCartney  1
+Jack_Straw   5   Matthew_Perry  1
+Jack_Straw   5   Mike_Martz  1
+Jack_Straw   5   Mike_Myers  1
+Jack_Straw   5   Oscar_De_La_Hoya  1
+Jack_Straw   5   Paul_McCartney  1
+Jack_Straw   7   Matthew_Perry  1
+Jack_Straw   7   Mike_Martz  1
+Jack_Straw   7   Mike_Myers  1
+Jack_Straw   7   Oscar_De_La_Hoya  1
+Jack_Straw   7   Paul_McCartney  1
+Jack_Straw   9   Matthew_Perry  1
+Jack_Straw   9   Mike_Martz  1
+Jack_Straw   9   Mike_Myers  1
+Jack_Straw   9   Oscar_De_La_Hoya  1
+Jack_Straw   9   Paul_McCartney  1
+Jack_Straw   11   Matthew_Perry  1
+Jack_Straw   11   Mike_Martz  1
+Jack_Straw   11   Mike_Myers  1
+Jack_Straw   11   Oscar_De_La_Hoya  1
+Jack_Straw   11   Paul_McCartney  1
+Jack_Straw   13   Matthew_Perry  1
+Jack_Straw   13   Mike_Martz  1
+Jack_Straw   13   Mike_Myers  1
+Jack_Straw   13   Oscar_De_La_Hoya  1
+Jack_Straw   13   Paul_McCartney  1
+Jack_Straw   15   Matthew_Perry  1
+Jack_Straw   15   Mike_Martz  1
+Jack_Straw   15   Mike_Myers  1
+Jack_Straw   15   Oscar_De_La_Hoya  1
+Jack_Straw   15   Paul_McCartney  1
+Jack_Straw   17   Matthew_Perry  1
+Jack_Straw   17   Mike_Martz  1
+Jack_Straw   17   Mike_Myers  1
+Jack_Straw   17   Oscar_De_La_Hoya  1
+Jack_Straw   17   Paul_McCartney  1
+Jack_Straw   19   Matthew_Perry  1
+Jack_Straw   19   Mike_Martz  1
+Jack_Straw   19   Mike_Myers  1
+Jack_Straw   19   Oscar_De_La_Hoya  1
+Jack_Straw   19   Paul_McCartney  1
+Juan_Carlos_Ferrero   1   Pedro_Almodovar  1
+Juan_Carlos_Ferrero   1   Robert_Zoellick  1
+Juan_Carlos_Ferrero   1   Sophia_Loren  1
+Juan_Carlos_Ferrero   1   Steven_Spielberg  1
+Juan_Carlos_Ferrero   1   Vojislav_Kostunica  1
+Juan_Carlos_Ferrero   3   Pedro_Almodovar  1
+Juan_Carlos_Ferrero   3   Robert_Zoellick  1
+Juan_Carlos_Ferrero   3   Sophia_Loren  1
+Juan_Carlos_Ferrero   3   Steven_Spielberg  1
+Juan_Carlos_Ferrero   3   Vojislav_Kostunica  1
+Juan_Carlos_Ferrero   5   Pedro_Almodovar  1
+Juan_Carlos_Ferrero   5   Robert_Zoellick  1
+Juan_Carlos_Ferrero   5   Sophia_Loren  1
+Juan_Carlos_Ferrero   5   Steven_Spielberg  1
+Juan_Carlos_Ferrero   5   Vojislav_Kostunica  1
+Juan_Carlos_Ferrero   7   Pedro_Almodovar  1
+Juan_Carlos_Ferrero   7   Robert_Zoellick  1
+Juan_Carlos_Ferrero   7   Sophia_Loren  1
+Juan_Carlos_Ferrero   7   Steven_Spielberg  1
+Juan_Carlos_Ferrero   7   Vojislav_Kostunica  1
+Juan_Carlos_Ferrero   9   Pedro_Almodovar  1
+Juan_Carlos_Ferrero   9   Robert_Zoellick  1
+Juan_Carlos_Ferrero   9   Sophia_Loren  1
+Juan_Carlos_Ferrero   9   Steven_Spielberg  1
+Juan_Carlos_Ferrero   9   Vojislav_Kostunica  1
+Juan_Carlos_Ferrero   11   Pedro_Almodovar  1
+Juan_Carlos_Ferrero   11   Robert_Zoellick  1
+Juan_Carlos_Ferrero   11   Sophia_Loren  1
+Juan_Carlos_Ferrero   11   Steven_Spielberg  1
+Juan_Carlos_Ferrero   11   Vojislav_Kostunica  1
+Juan_Carlos_Ferrero   13   Pedro_Almodovar  1
+Juan_Carlos_Ferrero   13   Robert_Zoellick  1
+Juan_Carlos_Ferrero   13   Sophia_Loren  1
+Juan_Carlos_Ferrero   13   Steven_Spielberg  1
+Juan_Carlos_Ferrero   13   Vojislav_Kostunica  1
+Juan_Carlos_Ferrero   15   Pedro_Almodovar  1
+Juan_Carlos_Ferrero   15   Robert_Zoellick  1
+Juan_Carlos_Ferrero   15   Sophia_Loren  1
+Juan_Carlos_Ferrero   15   Steven_Spielberg  1
+Juan_Carlos_Ferrero   15   Vojislav_Kostunica  1
+Juan_Carlos_Ferrero   17   Pedro_Almodovar  1
+Juan_Carlos_Ferrero   17   Robert_Zoellick  1
+Juan_Carlos_Ferrero   17   Sophia_Loren  1
+Juan_Carlos_Ferrero   17   Steven_Spielberg  1
+Juan_Carlos_Ferrero   17   Vojislav_Kostunica  1
+Juan_Carlos_Ferrero   19   Pedro_Almodovar  1
+Juan_Carlos_Ferrero   19   Robert_Zoellick  1
+Juan_Carlos_Ferrero   19   Sophia_Loren  1
+Juan_Carlos_Ferrero   19   Steven_Spielberg  1
+Juan_Carlos_Ferrero   19   Vojislav_Kostunica  1
+Ricardo_Lagos   1   William_Donaldson  1
+Ricardo_Lagos   1   William_Ford_Jr  1
+Ricardo_Lagos   1   Yashwant_Sinha  1
+Ricardo_Lagos   1   Angela_Bassett  1
+Ricardo_Lagos   1   Arminio_Fraga  1
+Ricardo_Lagos   3   William_Donaldson  1
+Ricardo_Lagos   3   William_Ford_Jr  1
+Ricardo_Lagos   3   Yashwant_Sinha  1
+Ricardo_Lagos   3   Angela_Bassett  1
+Ricardo_Lagos   3   Arminio_Fraga  1
+Ricardo_Lagos   5   William_Donaldson  1
+Ricardo_Lagos   5   William_Ford_Jr  1
+Ricardo_Lagos   5   Yashwant_Sinha  1
+Ricardo_Lagos   5   Angela_Bassett  1
+Ricardo_Lagos   5   Arminio_Fraga  1
+Ricardo_Lagos   7   William_Donaldson  1
+Ricardo_Lagos   7   William_Ford_Jr  1
+Ricardo_Lagos   7   Yashwant_Sinha  1
+Ricardo_Lagos   7   Angela_Bassett  1
+Ricardo_Lagos   7   Arminio_Fraga  1
+Ricardo_Lagos   9   William_Donaldson  1
+Ricardo_Lagos   9   William_Ford_Jr  1
+Ricardo_Lagos   9   Yashwant_Sinha  1
+Ricardo_Lagos   9   Angela_Bassett  1
+Ricardo_Lagos   9   Arminio_Fraga  1
+Ricardo_Lagos   11   William_Donaldson  1
+Ricardo_Lagos   11   William_Ford_Jr  1
+Ricardo_Lagos   11   Yashwant_Sinha  1
+Ricardo_Lagos   11   Angela_Bassett  1
+Ricardo_Lagos   11   Arminio_Fraga  1
+Ricardo_Lagos   13   William_Donaldson  1
+Ricardo_Lagos   13   William_Ford_Jr  1
+Ricardo_Lagos   13   Yashwant_Sinha  1
+Ricardo_Lagos   13   Angela_Bassett  1
+Ricardo_Lagos   13   Arminio_Fraga  1
+Ricardo_Lagos   15   William_Donaldson  1
+Ricardo_Lagos   15   William_Ford_Jr  1
+Ricardo_Lagos   15   Yashwant_Sinha  1
+Ricardo_Lagos   15   Angela_Bassett  1
+Ricardo_Lagos   15   Arminio_Fraga  1
+Ricardo_Lagos   17   William_Donaldson  1
+Ricardo_Lagos   17   William_Ford_Jr  1
+Ricardo_Lagos   17   Yashwant_Sinha  1
+Ricardo_Lagos   17   Angela_Bassett  1
+Ricardo_Lagos   17   Arminio_Fraga  1
+Ricardo_Lagos   19   William_Donaldson  1
+Ricardo_Lagos   19   William_Ford_Jr  1
+Ricardo_Lagos   19   Yashwant_Sinha  1
+Ricardo_Lagos   19   Angela_Bassett  1
+Ricardo_Lagos   19   Arminio_Fraga  1
+Rudolph_Giuliani   1   Billy_Crystal  1
+Rudolph_Giuliani   1   Bob_Graham  1
+Rudolph_Giuliani   1   Boris_Becker  1
+Rudolph_Giuliani   1   Bulent_Ecevit  1
+Rudolph_Giuliani   1   Cameron_Diaz  1
+Rudolph_Giuliani   3   Billy_Crystal  1
+Rudolph_Giuliani   3   Bob_Graham  1
+Rudolph_Giuliani   3   Boris_Becker  1
+Rudolph_Giuliani   3   Bulent_Ecevit  1
+Rudolph_Giuliani   3   Cameron_Diaz  1
+Rudolph_Giuliani   5   Billy_Crystal  1
+Rudolph_Giuliani   5   Bob_Graham  1
+Rudolph_Giuliani   5   Boris_Becker  1
+Rudolph_Giuliani   5   Bulent_Ecevit  1
+Rudolph_Giuliani   5   Cameron_Diaz  1
+Rudolph_Giuliani   7   Billy_Crystal  1
+Rudolph_Giuliani   7   Bob_Graham  1
+Rudolph_Giuliani   7   Boris_Becker  1
+Rudolph_Giuliani   7   Bulent_Ecevit  1
+Rudolph_Giuliani   7   Cameron_Diaz  1
+Rudolph_Giuliani   9   Billy_Crystal  1
+Rudolph_Giuliani   9   Bob_Graham  1
+Rudolph_Giuliani   9   Boris_Becker  1
+Rudolph_Giuliani   9   Bulent_Ecevit  1
+Rudolph_Giuliani   9   Cameron_Diaz  1
+Rudolph_Giuliani   11   Billy_Crystal  1
+Rudolph_Giuliani   11   Bob_Graham  1
+Rudolph_Giuliani   11   Boris_Becker  1
+Rudolph_Giuliani   11   Bulent_Ecevit  1
+Rudolph_Giuliani   11   Cameron_Diaz  1
+Rudolph_Giuliani   13   Billy_Crystal  1
+Rudolph_Giuliani   13   Bob_Graham  1
+Rudolph_Giuliani   13   Boris_Becker  1
+Rudolph_Giuliani   13   Bulent_Ecevit  1
+Rudolph_Giuliani   13   Cameron_Diaz  1
+Rudolph_Giuliani   15   Billy_Crystal  1
+Rudolph_Giuliani   15   Bob_Graham  1
+Rudolph_Giuliani   15   Boris_Becker  1
+Rudolph_Giuliani   15   Bulent_Ecevit  1
+Rudolph_Giuliani   15   Cameron_Diaz  1
+Rudolph_Giuliani   17   Billy_Crystal  1
+Rudolph_Giuliani   17   Bob_Graham  1
+Rudolph_Giuliani   17   Boris_Becker  1
+Rudolph_Giuliani   17   Bulent_Ecevit  1
+Rudolph_Giuliani   17   Cameron_Diaz  1
+Rudolph_Giuliani   19   Billy_Crystal  1
+Rudolph_Giuliani   19   Bob_Graham  1
+Rudolph_Giuliani   19   Boris_Becker  1
+Rudolph_Giuliani   19   Bulent_Ecevit  1
+Rudolph_Giuliani   19   Cameron_Diaz  1
+Tom_Daschle   1   Carmen_Electra  1
+Tom_Daschle   1   Charlton_Heston  1
+Tom_Daschle   1   Clay_Aiken  1
+Tom_Daschle   1   Clint_Eastwood  1
+Tom_Daschle   1   Costas_Simitis  1
+Tom_Daschle   3   Carmen_Electra  1
+Tom_Daschle   3   Charlton_Heston  1
+Tom_Daschle   3   Clay_Aiken  1
+Tom_Daschle   3   Clint_Eastwood  1
+Tom_Daschle   3   Costas_Simitis  1
+Tom_Daschle   5   Carmen_Electra  1
+Tom_Daschle   5   Charlton_Heston  1
+Tom_Daschle   5   Clay_Aiken  1
+Tom_Daschle   5   Clint_Eastwood  1
+Tom_Daschle   5   Costas_Simitis  1
+Tom_Daschle   7   Carmen_Electra  1
+Tom_Daschle   7   Charlton_Heston  1
+Tom_Daschle   7   Clay_Aiken  1
+Tom_Daschle   7   Clint_Eastwood  1
+Tom_Daschle   7   Costas_Simitis  1
+Tom_Daschle   9   Carmen_Electra  1
+Tom_Daschle   9   Charlton_Heston  1
+Tom_Daschle   9   Clay_Aiken  1
+Tom_Daschle   9   Clint_Eastwood  1
+Tom_Daschle   9   Costas_Simitis  1
+Tom_Daschle   11   Carmen_Electra  1
+Tom_Daschle   11   Charlton_Heston  1
+Tom_Daschle   11   Clay_Aiken  1
+Tom_Daschle   11   Clint_Eastwood  1
+Tom_Daschle   11   Costas_Simitis  1
+Tom_Daschle   13   Carmen_Electra  1
+Tom_Daschle   13   Charlton_Heston  1
+Tom_Daschle   13   Clay_Aiken  1
+Tom_Daschle   13   Clint_Eastwood  1
+Tom_Daschle   13   Costas_Simitis  1
+Tom_Daschle   15   Carmen_Electra  1
+Tom_Daschle   15   Charlton_Heston  1
+Tom_Daschle   15   Clay_Aiken  1
+Tom_Daschle   15   Clint_Eastwood  1
+Tom_Daschle   15   Costas_Simitis  1
+Tom_Daschle   17   Carmen_Electra  1
+Tom_Daschle   17   Charlton_Heston  1
+Tom_Daschle   17   Clay_Aiken  1
+Tom_Daschle   17   Clint_Eastwood  1
+Tom_Daschle   17   Costas_Simitis  1
+Tom_Daschle   19   Carmen_Electra  1
+Tom_Daschle   19   Charlton_Heston  1
+Tom_Daschle   19   Clay_Aiken  1
+Tom_Daschle   19   Clint_Eastwood  1
+Tom_Daschle   19   Costas_Simitis  1
+Atal_Bihari_Vajpayee   1   Dennis_Hastert  1
+Atal_Bihari_Vajpayee   1   Diana_Krall  1
+Atal_Bihari_Vajpayee   1   Fujio_Cho  1
+Atal_Bihari_Vajpayee   1   JK_Rowling  1
+Atal_Bihari_Vajpayee   1   Jay_Garner  1
+Atal_Bihari_Vajpayee   3   Dennis_Hastert  1
+Atal_Bihari_Vajpayee   3   Diana_Krall  1
+Atal_Bihari_Vajpayee   3   Fujio_Cho  1
+Atal_Bihari_Vajpayee   3   JK_Rowling  1
+Atal_Bihari_Vajpayee   3   Jay_Garner  1
+Atal_Bihari_Vajpayee   5   Dennis_Hastert  1
+Atal_Bihari_Vajpayee   5   Diana_Krall  1
+Atal_Bihari_Vajpayee   5   Fujio_Cho  1
+Atal_Bihari_Vajpayee   5   JK_Rowling  1
+Atal_Bihari_Vajpayee   5   Jay_Garner  1
+Atal_Bihari_Vajpayee   7   Dennis_Hastert  1
+Atal_Bihari_Vajpayee   7   Diana_Krall  1
+Atal_Bihari_Vajpayee   7   Fujio_Cho  1
+Atal_Bihari_Vajpayee   7   JK_Rowling  1
+Atal_Bihari_Vajpayee   7   Jay_Garner  1
+Atal_Bihari_Vajpayee   9   Dennis_Hastert  1
+Atal_Bihari_Vajpayee   9   Diana_Krall  1
+Atal_Bihari_Vajpayee   9   Fujio_Cho  1
+Atal_Bihari_Vajpayee   9   JK_Rowling  1
+Atal_Bihari_Vajpayee   9   Jay_Garner  1
+Atal_Bihari_Vajpayee   11   Dennis_Hastert  1
+Atal_Bihari_Vajpayee   11   Diana_Krall  1
+Atal_Bihari_Vajpayee   11   Fujio_Cho  1
+Atal_Bihari_Vajpayee   11   JK_Rowling  1
+Atal_Bihari_Vajpayee   11   Jay_Garner  1
+Atal_Bihari_Vajpayee   13   Dennis_Hastert  1
+Atal_Bihari_Vajpayee   13   Diana_Krall  1
+Atal_Bihari_Vajpayee   13   Fujio_Cho  1
+Atal_Bihari_Vajpayee   13   JK_Rowling  1
+Atal_Bihari_Vajpayee   13   Jay_Garner  1
+Atal_Bihari_Vajpayee   15   Dennis_Hastert  1
+Atal_Bihari_Vajpayee   15   Diana_Krall  1
+Atal_Bihari_Vajpayee   15   Fujio_Cho  1
+Atal_Bihari_Vajpayee   15   JK_Rowling  1
+Atal_Bihari_Vajpayee   15   Jay_Garner  1
+Atal_Bihari_Vajpayee   17   Dennis_Hastert  1
+Atal_Bihari_Vajpayee   17   Diana_Krall  1
+Atal_Bihari_Vajpayee   17   Fujio_Cho  1
+Atal_Bihari_Vajpayee   17   JK_Rowling  1
+Atal_Bihari_Vajpayee   17   Jay_Garner  1
+Atal_Bihari_Vajpayee   19   Dennis_Hastert  1
+Atal_Bihari_Vajpayee   19   Diana_Krall  1
+Atal_Bihari_Vajpayee   19   Fujio_Cho  1
+Atal_Bihari_Vajpayee   19   JK_Rowling  1
+Atal_Bihari_Vajpayee   19   Jay_Garner  1
+Jose_Maria_Aznar   1   Jim_Furyk  1
+Jose_Maria_Aznar   1   Jose_Manuel_Durao_Barroso  1
+Jose_Maria_Aznar   1   Marco_Antonio_Barrera  1
+Jose_Maria_Aznar   1   Michael_Douglas  1
+Jose_Maria_Aznar   1   Mike_Krzyzewski  1
+Jose_Maria_Aznar   3   Jim_Furyk  1
+Jose_Maria_Aznar   3   Jose_Manuel_Durao_Barroso  1
+Jose_Maria_Aznar   3   Marco_Antonio_Barrera  1
+Jose_Maria_Aznar   3   Michael_Douglas  1
+Jose_Maria_Aznar   3   Mike_Krzyzewski  1
+Jose_Maria_Aznar   5   Jim_Furyk  1
+Jose_Maria_Aznar   5   Jose_Manuel_Durao_Barroso  1
+Jose_Maria_Aznar   5   Marco_Antonio_Barrera  1
+Jose_Maria_Aznar   5   Michael_Douglas  1
+Jose_Maria_Aznar   5   Mike_Krzyzewski  1
+Jose_Maria_Aznar   7   Jim_Furyk  1
+Jose_Maria_Aznar   7   Jose_Manuel_Durao_Barroso  1
+Jose_Maria_Aznar   7   Marco_Antonio_Barrera  1
+Jose_Maria_Aznar   7   Michael_Douglas  1
+Jose_Maria_Aznar   7   Mike_Krzyzewski  1
+Jose_Maria_Aznar   9   Jim_Furyk  1
+Jose_Maria_Aznar   9   Jose_Manuel_Durao_Barroso  1
+Jose_Maria_Aznar   9   Marco_Antonio_Barrera  1
+Jose_Maria_Aznar   9   Michael_Douglas  1
+Jose_Maria_Aznar   9   Mike_Krzyzewski  1
+Jose_Maria_Aznar   11   Jim_Furyk  1
+Jose_Maria_Aznar   11   Jose_Manuel_Durao_Barroso  1
+Jose_Maria_Aznar   11   Marco_Antonio_Barrera  1
+Jose_Maria_Aznar   11   Michael_Douglas  1
+Jose_Maria_Aznar   11   Mike_Krzyzewski  1
+Jose_Maria_Aznar   13   Jim_Furyk  1
+Jose_Maria_Aznar   13   Jose_Manuel_Durao_Barroso  1
+Jose_Maria_Aznar   13   Marco_Antonio_Barrera  1
+Jose_Maria_Aznar   13   Michael_Douglas  1
+Jose_Maria_Aznar   13   Mike_Krzyzewski  1
+Jose_Maria_Aznar   15   Jim_Furyk  1
+Jose_Maria_Aznar   15   Jose_Manuel_Durao_Barroso  1
+Jose_Maria_Aznar   15   Marco_Antonio_Barrera  1
+Jose_Maria_Aznar   15   Michael_Douglas  1
+Jose_Maria_Aznar   15   Mike_Krzyzewski  1
+Jose_Maria_Aznar   17   Jim_Furyk  1
+Jose_Maria_Aznar   17   Jose_Manuel_Durao_Barroso  1
+Jose_Maria_Aznar   17   Marco_Antonio_Barrera  1
+Jose_Maria_Aznar   17   Michael_Douglas  1
+Jose_Maria_Aznar   17   Mike_Krzyzewski  1
+Jose_Maria_Aznar   19   Jim_Furyk  1
+Jose_Maria_Aznar   19   Jose_Manuel_Durao_Barroso  1
+Jose_Maria_Aznar   19   Marco_Antonio_Barrera  1
+Jose_Maria_Aznar   19   Michael_Douglas  1
+Jose_Maria_Aznar   19   Mike_Krzyzewski  1
+Saddam_Hussein   1   Monica_Seles  1
+Saddam_Hussein   1   Paula_Radcliffe  1
+Saddam_Hussein   1   Ricardo_Sanchez  1
+Saddam_Hussein   1   Rob_Marshall  1
+Saddam_Hussein   1   Robert_De_Niro  1
+Saddam_Hussein   3   Monica_Seles  1
+Saddam_Hussein   3   Paula_Radcliffe  1
+Saddam_Hussein   3   Ricardo_Sanchez  1
+Saddam_Hussein   3   Rob_Marshall  1
+Saddam_Hussein   3   Robert_De_Niro  1
+Saddam_Hussein   5   Monica_Seles  1
+Saddam_Hussein   5   Paula_Radcliffe  1
+Saddam_Hussein   5   Ricardo_Sanchez  1
+Saddam_Hussein   5   Rob_Marshall  1
+Saddam_Hussein   5   Robert_De_Niro  1
+Saddam_Hussein   7   Monica_Seles  1
+Saddam_Hussein   7   Paula_Radcliffe  1
+Saddam_Hussein   7   Ricardo_Sanchez  1
+Saddam_Hussein   7   Rob_Marshall  1
+Saddam_Hussein   7   Robert_De_Niro  1
+Saddam_Hussein   9   Monica_Seles  1
+Saddam_Hussein   9   Paula_Radcliffe  1
+Saddam_Hussein   9   Ricardo_Sanchez  1
+Saddam_Hussein   9   Rob_Marshall  1
+Saddam_Hussein   9   Robert_De_Niro  1
+Saddam_Hussein   11   Monica_Seles  1
+Saddam_Hussein   11   Paula_Radcliffe  1
+Saddam_Hussein   11   Ricardo_Sanchez  1
+Saddam_Hussein   11   Rob_Marshall  1
+Saddam_Hussein   11   Robert_De_Niro  1
+Saddam_Hussein   13   Monica_Seles  1
+Saddam_Hussein   13   Paula_Radcliffe  1
+Saddam_Hussein   13   Ricardo_Sanchez  1
+Saddam_Hussein   13   Rob_Marshall  1
+Saddam_Hussein   13   Robert_De_Niro  1
+Saddam_Hussein   15   Monica_Seles  1
+Saddam_Hussein   15   Paula_Radcliffe  1
+Saddam_Hussein   15   Ricardo_Sanchez  1
+Saddam_Hussein   15   Rob_Marshall  1
+Saddam_Hussein   15   Robert_De_Niro  1
+Saddam_Hussein   17   Monica_Seles  1
+Saddam_Hussein   17   Paula_Radcliffe  1
+Saddam_Hussein   17   Ricardo_Sanchez  1
+Saddam_Hussein   17   Rob_Marshall  1
+Saddam_Hussein   17   Robert_De_Niro  1
+Saddam_Hussein   19   Monica_Seles  1
+Saddam_Hussein   19   Paula_Radcliffe  1
+Saddam_Hussein   19   Ricardo_Sanchez  1
+Saddam_Hussein   19   Rob_Marshall  1
+Saddam_Hussein   19   Robert_De_Niro  1
+Tiger_Woods   1   Roman_Polanski  1
+Tiger_Woods   1   Sarah_Hughes  1
+Tiger_Woods   1   Silvan_Shalom  1
+Tiger_Woods   1   Susan_Sarandon  1
+Tiger_Woods   1   Tariq_Aziz  1
+Tiger_Woods   3   Roman_Polanski  1
+Tiger_Woods   3   Sarah_Hughes  1
+Tiger_Woods   3   Silvan_Shalom  1
+Tiger_Woods   3   Susan_Sarandon  1
+Tiger_Woods   3   Tariq_Aziz  1
+Tiger_Woods   5   Roman_Polanski  1
+Tiger_Woods   5   Sarah_Hughes  1
+Tiger_Woods   5   Silvan_Shalom  1
+Tiger_Woods   5   Susan_Sarandon  1
+Tiger_Woods   5   Tariq_Aziz  1
+Tiger_Woods   7   Roman_Polanski  1
+Tiger_Woods   7   Sarah_Hughes  1
+Tiger_Woods   7   Silvan_Shalom  1
+Tiger_Woods   7   Susan_Sarandon  1
+Tiger_Woods   7   Tariq_Aziz  1
+Tiger_Woods   9   Roman_Polanski  1
+Tiger_Woods   9   Sarah_Hughes  1
+Tiger_Woods   9   Silvan_Shalom  1
+Tiger_Woods   9   Susan_Sarandon  1
+Tiger_Woods   9   Tariq_Aziz  1
+Tiger_Woods   11   Roman_Polanski  1
+Tiger_Woods   11   Sarah_Hughes  1
+Tiger_Woods   11   Silvan_Shalom  1
+Tiger_Woods   11   Susan_Sarandon  1
+Tiger_Woods   11   Tariq_Aziz  1
+Tiger_Woods   13   Roman_Polanski  1
+Tiger_Woods   13   Sarah_Hughes  1
+Tiger_Woods   13   Silvan_Shalom  1
+Tiger_Woods   13   Susan_Sarandon  1
+Tiger_Woods   13   Tariq_Aziz  1
+Tiger_Woods   15   Roman_Polanski  1
+Tiger_Woods   15   Sarah_Hughes  1
+Tiger_Woods   15   Silvan_Shalom  1
+Tiger_Woods   15   Susan_Sarandon  1
+Tiger_Woods   15   Tariq_Aziz  1
+Tiger_Woods   17   Roman_Polanski  1
+Tiger_Woods   17   Sarah_Hughes  1
+Tiger_Woods   17   Silvan_Shalom  1
+Tiger_Woods   17   Susan_Sarandon  1
+Tiger_Woods   17   Tariq_Aziz  1
+Tiger_Woods   19   Roman_Polanski  1
+Tiger_Woods   19   Sarah_Hughes  1
+Tiger_Woods   19   Silvan_Shalom  1
+Tiger_Woods   19   Susan_Sarandon  1
+Tiger_Woods   19   Tariq_Aziz  1
+Hamid_Karzai   1   Valentino_Rossi  1
+Hamid_Karzai   1   Yoko_Ono  1
+Hamid_Karzai   1   Zinedine_Zidane  1
+Hamid_Karzai   1   Ahmed_Chalabi  1
+Hamid_Karzai   1   Ai_Sugiyama  1
+Hamid_Karzai   3   Valentino_Rossi  1
+Hamid_Karzai   3   Yoko_Ono  1
+Hamid_Karzai   3   Zinedine_Zidane  1
+Hamid_Karzai   3   Ahmed_Chalabi  1
+Hamid_Karzai   3   Ai_Sugiyama  1
+Hamid_Karzai   5   Valentino_Rossi  1
+Hamid_Karzai   5   Yoko_Ono  1
+Hamid_Karzai   5   Zinedine_Zidane  1
+Hamid_Karzai   5   Ahmed_Chalabi  1
+Hamid_Karzai   5   Ai_Sugiyama  1
+Hamid_Karzai   7   Valentino_Rossi  1
+Hamid_Karzai   7   Yoko_Ono  1
+Hamid_Karzai   7   Zinedine_Zidane  1
+Hamid_Karzai   7   Ahmed_Chalabi  1
+Hamid_Karzai   7   Ai_Sugiyama  1
+Hamid_Karzai   9   Valentino_Rossi  1
+Hamid_Karzai   9   Yoko_Ono  1
+Hamid_Karzai   9   Zinedine_Zidane  1
+Hamid_Karzai   9   Ahmed_Chalabi  1
+Hamid_Karzai   9   Ai_Sugiyama  1
+Hamid_Karzai   11   Valentino_Rossi  1
+Hamid_Karzai   11   Yoko_Ono  1
+Hamid_Karzai   11   Zinedine_Zidane  1
+Hamid_Karzai   11   Ahmed_Chalabi  1
+Hamid_Karzai   11   Ai_Sugiyama  1
+Hamid_Karzai   13   Valentino_Rossi  1
+Hamid_Karzai   13   Yoko_Ono  1
+Hamid_Karzai   13   Zinedine_Zidane  1
+Hamid_Karzai   13   Ahmed_Chalabi  1
+Hamid_Karzai   13   Ai_Sugiyama  1
+Hamid_Karzai   15   Valentino_Rossi  1
+Hamid_Karzai   15   Yoko_Ono  1
+Hamid_Karzai   15   Zinedine_Zidane  1
+Hamid_Karzai   15   Ahmed_Chalabi  1
+Hamid_Karzai   15   Ai_Sugiyama  1
+Hamid_Karzai   17   Valentino_Rossi  1
+Hamid_Karzai   17   Yoko_Ono  1
+Hamid_Karzai   17   Zinedine_Zidane  1
+Hamid_Karzai   17   Ahmed_Chalabi  1
+Hamid_Karzai   17   Ai_Sugiyama  1
+Hamid_Karzai   19   Valentino_Rossi  1
+Hamid_Karzai   19   Yoko_Ono  1
+Hamid_Karzai   19   Zinedine_Zidane  1
+Hamid_Karzai   19   Ahmed_Chalabi  1
+Hamid_Karzai   19   Ai_Sugiyama  1
+Lindsay_Davenport   1   Alastair_Campbell  1
+Lindsay_Davenport   1   Angela_Merkel  1
+Lindsay_Davenport   1   Antonio_Banderas  1
+Lindsay_Davenport   1   Arnoldo_Aleman  1
+Lindsay_Davenport   1   Ashanti  1
+Lindsay_Davenport   3   Alastair_Campbell  1
+Lindsay_Davenport   3   Angela_Merkel  1
+Lindsay_Davenport   3   Antonio_Banderas  1
+Lindsay_Davenport   3   Arnoldo_Aleman  1
+Lindsay_Davenport   3   Ashanti  1
+Lindsay_Davenport   5   Alastair_Campbell  1
+Lindsay_Davenport   5   Angela_Merkel  1
+Lindsay_Davenport   5   Antonio_Banderas  1
+Lindsay_Davenport   5   Arnoldo_Aleman  1
+Lindsay_Davenport   5   Ashanti  1
+Lindsay_Davenport   7   Alastair_Campbell  1
+Lindsay_Davenport   7   Angela_Merkel  1
+Lindsay_Davenport   7   Antonio_Banderas  1
+Lindsay_Davenport   7   Arnoldo_Aleman  1
+Lindsay_Davenport   7   Ashanti  1
+Lindsay_Davenport   9   Alastair_Campbell  1
+Lindsay_Davenport   9   Angela_Merkel  1
+Lindsay_Davenport   9   Antonio_Banderas  1
+Lindsay_Davenport   9   Arnoldo_Aleman  1
+Lindsay_Davenport   9   Ashanti  1
+Lindsay_Davenport   11   Alastair_Campbell  1
+Lindsay_Davenport   11   Angela_Merkel  1
+Lindsay_Davenport   11   Antonio_Banderas  1
+Lindsay_Davenport   11   Arnoldo_Aleman  1
+Lindsay_Davenport   11   Ashanti  1
+Lindsay_Davenport   13   Alastair_Campbell  1
+Lindsay_Davenport   13   Angela_Merkel  1
+Lindsay_Davenport   13   Antonio_Banderas  1
+Lindsay_Davenport   13   Arnoldo_Aleman  1
+Lindsay_Davenport   13   Ashanti  1
+Lindsay_Davenport   15   Alastair_Campbell  1
+Lindsay_Davenport   15   Angela_Merkel  1
+Lindsay_Davenport   15   Antonio_Banderas  1
+Lindsay_Davenport   15   Arnoldo_Aleman  1
+Lindsay_Davenport   15   Ashanti  1
+Lindsay_Davenport   17   Alastair_Campbell  1
+Lindsay_Davenport   17   Angela_Merkel  1
+Lindsay_Davenport   17   Antonio_Banderas  1
+Lindsay_Davenport   17   Arnoldo_Aleman  1
+Lindsay_Davenport   17   Ashanti  1
+Lindsay_Davenport   19   Alastair_Campbell  1
+Lindsay_Davenport   19   Angela_Merkel  1
+Lindsay_Davenport   19   Antonio_Banderas  1
+Lindsay_Davenport   19   Arnoldo_Aleman  1
+Lindsay_Davenport   19   Ashanti  1
+Naomi_Watts   1   Benazir_Bhutto  1
+Naomi_Watts   1   Benjamin_Netanyahu  1
+Naomi_Watts   1   Bernard_Law  1
+Naomi_Watts   1   Brad_Johnson  1
+Naomi_Watts   1   Catherine_Deneuve  1
+Naomi_Watts   3   Benazir_Bhutto  1
+Naomi_Watts   3   Benjamin_Netanyahu  1
+Naomi_Watts   3   Bernard_Law  1
+Naomi_Watts   3   Brad_Johnson  1
+Naomi_Watts   3   Catherine_Deneuve  1
+Naomi_Watts   5   Benazir_Bhutto  1
+Naomi_Watts   5   Benjamin_Netanyahu  1
+Naomi_Watts   5   Bernard_Law  1
+Naomi_Watts   5   Brad_Johnson  1
+Naomi_Watts   5   Catherine_Deneuve  1
+Naomi_Watts   7   Benazir_Bhutto  1
+Naomi_Watts   7   Benjamin_Netanyahu  1
+Naomi_Watts   7   Bernard_Law  1
+Naomi_Watts   7   Brad_Johnson  1
+Naomi_Watts   7   Catherine_Deneuve  1
+Naomi_Watts   9   Benazir_Bhutto  1
+Naomi_Watts   9   Benjamin_Netanyahu  1
+Naomi_Watts   9   Bernard_Law  1
+Naomi_Watts   9   Brad_Johnson  1
+Naomi_Watts   9   Catherine_Deneuve  1
+Naomi_Watts   11   Benazir_Bhutto  1
+Naomi_Watts   11   Benjamin_Netanyahu  1
+Naomi_Watts   11   Bernard_Law  1
+Naomi_Watts   11   Brad_Johnson  1
+Naomi_Watts   11   Catherine_Deneuve  1
+Naomi_Watts   13   Benazir_Bhutto  1
+Naomi_Watts   13   Benjamin_Netanyahu  1
+Naomi_Watts   13   Bernard_Law  1
+Naomi_Watts   13   Brad_Johnson  1
+Naomi_Watts   13   Catherine_Deneuve  1
+Naomi_Watts   15   Benazir_Bhutto  1
+Naomi_Watts   15   Benjamin_Netanyahu  1
+Naomi_Watts   15   Bernard_Law  1
+Naomi_Watts   15   Brad_Johnson  1
+Naomi_Watts   15   Catherine_Deneuve  1
+Naomi_Watts   17   Benazir_Bhutto  1
+Naomi_Watts   17   Benjamin_Netanyahu  1
+Naomi_Watts   17   Bernard_Law  1
+Naomi_Watts   17   Brad_Johnson  1
+Naomi_Watts   17   Catherine_Deneuve  1
+Naomi_Watts   19   Benazir_Bhutto  1
+Naomi_Watts   19   Benjamin_Netanyahu  1
+Naomi_Watts   19   Bernard_Law  1
+Naomi_Watts   19   Brad_Johnson  1
+Naomi_Watts   19   Catherine_Deneuve  1
+Pete_Sampras   1   Choi_Sung-hong  1
+Pete_Sampras   1   Christine_Baumgartner  1
+Pete_Sampras   1   Ciro_Gomes  1
+Pete_Sampras   1   Clara_Harris  1
+Pete_Sampras   1   Claudia_Pechstein  1
+Pete_Sampras   3   Choi_Sung-hong  1
+Pete_Sampras   3   Christine_Baumgartner  1
+Pete_Sampras   3   Ciro_Gomes  1
+Pete_Sampras   3   Clara_Harris  1
+Pete_Sampras   3   Claudia_Pechstein  1
+Pete_Sampras   5   Choi_Sung-hong  1
+Pete_Sampras   5   Christine_Baumgartner  1
+Pete_Sampras   5   Ciro_Gomes  1
+Pete_Sampras   5   Clara_Harris  1
+Pete_Sampras   5   Claudia_Pechstein  1
+Pete_Sampras   7   Choi_Sung-hong  1
+Pete_Sampras   7   Christine_Baumgartner  1
+Pete_Sampras   7   Ciro_Gomes  1
+Pete_Sampras   7   Clara_Harris  1
+Pete_Sampras   7   Claudia_Pechstein  1
+Pete_Sampras   9   Choi_Sung-hong  1
+Pete_Sampras   9   Christine_Baumgartner  1
+Pete_Sampras   9   Ciro_Gomes  1
+Pete_Sampras   9   Clara_Harris  1
+Pete_Sampras   9   Claudia_Pechstein  1
+Pete_Sampras   11   Choi_Sung-hong  1
+Pete_Sampras   11   Christine_Baumgartner  1
+Pete_Sampras   11   Ciro_Gomes  1
+Pete_Sampras   11   Clara_Harris  1
+Pete_Sampras   11   Claudia_Pechstein  1
+Pete_Sampras   13   Choi_Sung-hong  1
+Pete_Sampras   13   Christine_Baumgartner  1
+Pete_Sampras   13   Ciro_Gomes  1
+Pete_Sampras   13   Clara_Harris  1
+Pete_Sampras   13   Claudia_Pechstein  1
+Pete_Sampras   15   Choi_Sung-hong  1
+Pete_Sampras   15   Christine_Baumgartner  1
+Pete_Sampras   15   Ciro_Gomes  1
+Pete_Sampras   15   Clara_Harris  1
+Pete_Sampras   15   Claudia_Pechstein  1
+Pete_Sampras   17   Choi_Sung-hong  1
+Pete_Sampras   17   Christine_Baumgartner  1
+Pete_Sampras   17   Ciro_Gomes  1
+Pete_Sampras   17   Clara_Harris  1
+Pete_Sampras   17   Claudia_Pechstein  1
+Pete_Sampras   19   Choi_Sung-hong  1
+Pete_Sampras   19   Christine_Baumgartner  1
+Pete_Sampras   19   Ciro_Gomes  1
+Pete_Sampras   19   Clara_Harris  1
+Pete_Sampras   19   Claudia_Pechstein  1
+Carlos_Menem   1   Colin_Montgomerie  1
+Carlos_Menem   1   Cruz_Bustamante  1
+Carlos_Menem   1   David_Anderson  1
+Carlos_Menem   1   David_Heymann  1
+Carlos_Menem   1   David_Trimble  1
+Carlos_Menem   3   Colin_Montgomerie  1
+Carlos_Menem   3   Cruz_Bustamante  1
+Carlos_Menem   3   David_Anderson  1
+Carlos_Menem   3   David_Heymann  1
+Carlos_Menem   3   David_Trimble  1
+Carlos_Menem   5   Colin_Montgomerie  1
+Carlos_Menem   5   Cruz_Bustamante  1
+Carlos_Menem   5   David_Anderson  1
+Carlos_Menem   5   David_Heymann  1
+Carlos_Menem   5   David_Trimble  1
+Carlos_Menem   7   Colin_Montgomerie  1
+Carlos_Menem   7   Cruz_Bustamante  1
+Carlos_Menem   7   David_Anderson  1
+Carlos_Menem   7   David_Heymann  1
+Carlos_Menem   7   David_Trimble  1
+Carlos_Menem   9   Colin_Montgomerie  1
+Carlos_Menem   9   Cruz_Bustamante  1
+Carlos_Menem   9   David_Anderson  1
+Carlos_Menem   9   David_Heymann  1
+Carlos_Menem   9   David_Trimble  1
+Carlos_Menem   11   Colin_Montgomerie  1
+Carlos_Menem   11   Cruz_Bustamante  1
+Carlos_Menem   11   David_Anderson  1
+Carlos_Menem   11   David_Heymann  1
+Carlos_Menem   11   David_Trimble  1
+Carlos_Menem   13   Colin_Montgomerie  1
+Carlos_Menem   13   Cruz_Bustamante  1
+Carlos_Menem   13   David_Anderson  1
+Carlos_Menem   13   David_Heymann  1
+Carlos_Menem   13   David_Trimble  1
+Carlos_Menem   15   Colin_Montgomerie  1
+Carlos_Menem   15   Cruz_Bustamante  1
+Carlos_Menem   15   David_Anderson  1
+Carlos_Menem   15   David_Heymann  1
+Carlos_Menem   15   David_Trimble  1
+Carlos_Menem   17   Colin_Montgomerie  1
+Carlos_Menem   17   Cruz_Bustamante  1
+Carlos_Menem   17   David_Anderson  1
+Carlos_Menem   17   David_Heymann  1
+Carlos_Menem   17   David_Trimble  1
+Carlos_Menem   19   Colin_Montgomerie  1
+Carlos_Menem   19   Cruz_Bustamante  1
+Carlos_Menem   19   David_Anderson  1
+Carlos_Menem   19   David_Heymann  1
+Carlos_Menem   19   David_Trimble  1

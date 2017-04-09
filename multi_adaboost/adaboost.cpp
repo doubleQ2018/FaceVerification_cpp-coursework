@@ -6,15 +6,15 @@
 
 using namespace std;
 
-AdaBoost::AdaBoost(vector<vector<double> > x, vector<int> y, vector<vector<double> > test, int m)
+AdaBoost::AdaBoost(vector<vector<double> > x, vector<int> y, vector<vector<double> > test, int m, int t1, int k1)
 {
     features = x;
     test_features = test;
     label = y;
     size = x.size();
     D = x[0].size();
-    T = 50;
-    K = 3;
+    T = t1;
+    K = k1;
     for(int i = 0; i < size; i++)
     {
         if(label[i] < 0) 
@@ -148,11 +148,12 @@ void AdaBoost::TrainProcessor()
                 sums += s * fa[j];
                 tmp.push_back(s * fa[j]);
             }
-            cout<<"tmp:"<<endl;
-            for(int j = 0; j < K; j++) cout<<tmp[j]<<" ";
-            cout<<endl;
+            //cout<<"tmp:"<<endl;
+            //for(int j = 0; j < K; j++) cout<<tmp[j]<<" ";
+            //cout<<endl;
             for(int j = 0; j < K; j++) q[i][j] = tmp[j] / sums;
         }
+        
         cout<<"q:"<<endl;
         for(int i = 0; i < q.size(); i++)
         {
@@ -177,12 +178,13 @@ void AdaBoost::TrainProcessor()
             }
             for(int j = 0; j < size; j++) weights[i][j] /= sums;
         }
+        
         cout<<"w:"<<endl;
         for(int i = 0; i < weights.size(); i++)
         {
             for(auto x : weights[i]) cout << x <<" ";
             cout<<endl;
-        }   
+        }
 
         //done
 
@@ -228,12 +230,12 @@ void AdaBoost::RenewWeight(int k)
             {
                 maxp = p;
                 tmpDim = d;
-                tmpRu = IndexAndWeight[i].first;///
+                tmpRu = IndexAndWeight[i].first;
             }
         }
     }
     //tmpMinError = maxp;
-    cout<<"maxp = "<<maxp<<endl;
+    //cout<<"maxp = "<<maxp<<endl;
     cout<<"choose dimension = "<<tmpDim<<endl;
     //for(int i = 0; i < size; i++) cout<<features[i][tmpDim]<<" ";
     //cout<<endl;
@@ -257,7 +259,7 @@ double AdaBoost::CalculateMLE(double alpha, int j)
     double mle = 0;
     for(int i = 0; i < pnums; i++)
     {
-        double x = - tmpS(i, j) + alpha * (features[i][tmpDim] < tmpRu ? 1 : -1);
+        double x = - tmpS(i, j) - alpha * (features[i][tmpDim] < tmpRu ? 1 : -1);
         //cout<<"i = "<<(i+1)<<", feature = "<<features[i][tmpDim]<<", h(m, n) = "<<x<<endl;
         //cout<<(features[i][tmpDim] < tmpRu ? 1 : -1)<<endl;
         mle += q[dd[i]][j] * log(1 / (1 + exp(x)));   
@@ -265,7 +267,7 @@ double AdaBoost::CalculateMLE(double alpha, int j)
     }
     for(int i = pnums; i < size; i++)
     {
-        double x = - tmpS(i, j) + alpha * (features[i][tmpDim] < tmpRu ? 1 : -1);
+        double x = - tmpS(i, j) - alpha * (features[i][tmpDim] < tmpRu ? 1 : -1);
         //cout<<"i = "<<(i+1)<<", feature = "<<features[i][tmpDim]<<", h(m, n) = "<<x<<endl;
         //cout<<(features[i][tmpDim] < tmpRu ? 1 : -1)<<endl;
         mle += q[dd[i]][j] * log(exp(x) / (1 + exp(x)));
@@ -280,7 +282,7 @@ void AdaBoost::RenewAlpha(int j)
     for(double s = 0.001; s < 1; s += 0.001) // step=0.001 for searching
     {
         double m = CalculateMLE(s, j);
-        cout<<"s = "<<s<<", MLE = "<<m<<endl;
+        //cout<<"s = "<<s<<", MLE = "<<m<<endl;
         if(m > MaxMle)
         {
             MaxMle = m;
@@ -312,6 +314,9 @@ void AdaBoost::TestProcessor()
            plikely += q[dd[i]][j] / (1 + x);                 
            nlikely += q[dd[i]][j] * x / (1 + x);
        }
+       vector<double> tmp;
+       tmp.push_back(plikely);
+       tmp.push_back(nlikely);
        if(plikely > nlikely) test_result.push_back("1");
        else test_result.push_back("-1");
 
@@ -320,7 +325,8 @@ void AdaBoost::TestProcessor()
 
 void AdaBoost::SaveResult()
 {
-    ofstream outfile("result.txt");
-    for(int i = 0; i < test_result.size(); i++) outfile<<test_result[i]<<endl;
+    string result_file = "result_T" + to_string(T) + "_K" + to_string(K) + ".txt";
+    ofstream outfile(result_file);
+    for(int i = 0; i < test_result.size(); i++) outfile<<test_result[i]<<"  "<<scores[i][0]<<"  "<<scores[i][1]<<endl;
     outfile.close();
 }
