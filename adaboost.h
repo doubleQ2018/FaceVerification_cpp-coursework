@@ -1,4 +1,7 @@
-#include<iostream>
+#ifndef _ADABOOST_H_
+#define _ADABOOST_H_
+
+//#include<iostream>
 #include<vector>
 
 using namespace std;
@@ -35,3 +38,5 @@ class AdaBoost
 
 
 };
+
+#endif //_ADABOOST_H_
