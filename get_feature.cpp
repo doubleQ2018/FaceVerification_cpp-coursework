@@ -9,35 +9,25 @@
 #include <iomanip>
 
 
-FeatureProcessor::FeatureProcessor(string f, string t)
-{
-    FFileName = f;
-    TFileName = t;
-}
-
-string FixedString(string x)
-{
+string FixedString(string x){
     stringstream strStream;
     strStream<<setw(4)<<setfill('0')<<x;
     return strStream.str() + ".jpg";
 }
-void FeatureProcessor::LoadPair()
-{
+
+void FeatureProcessor::LoadPair(){
     ifstream in(FFileName);
     string line;
     int i = 0;
-    while(getline(in, line))
-    {
-        if(i >= 1 && i <= 1100)
-        {
+    while(getline(in, line)){
+        if(i >= 1 && i <= 1100){
             istringstream inn(line);
             string x, a, b;
             inn >> x >> a >> b;
             pair<string, string> tmp(x + "/" + x + "_" + FixedString(a), x + "/" + x + "_" + FixedString(b));
             fpair.push_back(tmp);
         }
-        else if(i > 1100)
-        {
+        else if(i > 1100){
             istringstream inn(line);
             string x, y, a, b;
             inn >> x >> a >> y >> b;
@@ -49,18 +39,15 @@ void FeatureProcessor::LoadPair()
     ifstream in1(TFileName);
     string line1;
     i = 0;
-    while(getline(in1, line1))
-    {
-        if(i >= 1 && i <= 500)
-        {
+    while(getline(in1, line1)){
+        if(i >= 1 && i <= 500){
             istringstream inn(line1);
             string x, a, b;
             inn >> x >> a >> b;
             pair<string, string> tmp(x + "/" + x + "_" + FixedString(a), x + "/" + x + "_" + FixedString(b));
             tpair.push_back(tmp);
         }
-        else if(i > 500)
-        {
+        else if(i > 500){
             istringstream inn(line1);
             string x, y, a, b;
             inn >> x >> a >> y >> b;
@@ -72,21 +59,15 @@ void FeatureProcessor::LoadPair()
 
 }
 
-vector<double> calculate(vector<double> &x, vector<double> y)
-{
+vector<double> calculate(vector<double> &x, vector<double> y){
     for(int i = 0; i < x.size(); i++)
-    {
         x[i] = x[i] + y[i] == 0 ? 0 : pow(x[i] - y[i], 2) / (x[i] + y[i]);
-    }
     return x;
 }
-void FeatureProcessor::GetFeature()
-{
+void FeatureProcessor::GetFeature(){
     string path = "/Users/zhangqi/STUDY/qq/data/pre_data/";
     cout<<"Preparint train set..."<<endl;
-    for(int i = 0; i < fpair.size(); i++)
-    //for(int i = 1090; i < 1110; i++)
-    {
+    for(int i = 0; i < fpair.size(); i++){
         LBPextractor A(path + fpair[i].first);
         LBPextractor B(path + fpair[i].second);
         vector<double> x1 = A.getFeature();
@@ -95,9 +76,7 @@ void FeatureProcessor::GetFeature()
         feature.push_back(f);
     }
     cout<<"Preparint test set..."<<endl;
-    for(int i = 0; i < tpair.size(); i++)
-    //for(int i = 0; i < 10; i++)
-    {
+    for(int i = 0; i < tpair.size(); i++){
         LBPextractor A(path + tpair[i].first);
         LBPextractor B(path + tpair[i].second);
         vector<double> x1 = A.getFeature();
@@ -109,13 +88,3 @@ void FeatureProcessor::GetFeature()
 
 vector<vector<double> > FeatureProcessor::OutFeature() {return feature;}
 vector<vector<double> > FeatureProcessor::OutTestFeature() {return test_feature;}
-
-/*
-int main()
-{
-    string name = "pairsDevTrain.txt";   
-    FeatureProcessor A(name);
-    A.LoadPair();
-    vector<vector<double> > res = A.GetFeature();
-    cout<<res.size();
-}*/

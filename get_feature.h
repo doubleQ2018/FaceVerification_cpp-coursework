@@ -9,17 +9,14 @@ using namespace std;
 class FeatureProcessor
 {
     public:
-        FeatureProcessor(string f, string t);
+        FeatureProcessor(string f, string t): FFileName(f), TFileName(t){}
         void LoadPair();
         void GetFeature();
-        vector<vector<double> > OutFeature();
-        vector<vector<double> > OutTestFeature();
+        vector<vector<double>> OutFeature();
+        vector<vector<double>> OutTestFeature();
     private:
-        string FFileName;
-        string TFileName;
-        vector<pair<string, string> > fpair;
-        vector<pair<string, string> > tpair;
-        vector<vector<double> > feature;
-        vector<vector<double> > test_feature;
+        string FFileName, TFileName;
+        vector<pair<string, string>> fpair, tpair;
+        vector<vector<double>> feature, test_feature;
 };
 #endif //_GET_FEATURE_H_
