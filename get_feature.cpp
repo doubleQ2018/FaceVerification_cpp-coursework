@@ -1,3 +1,4 @@
+#include"get_feature.h"
 #include"lbp.cpp"
 #include<iostream>
 #include<vector>
@@ -7,24 +8,6 @@
 #include<sstream>
 #include <iomanip>
 
-using namespace std;
-
-class FeatureProcessor
-{
-    public:
-        FeatureProcessor(string f, string t);
-        void LoadPair();
-        void GetFeature();
-        vector<vector<double> > OutFeature();
-        vector<vector<double> > OutTestFeature();
-    private:
-        string FFileName;
-        string TFileName;
-        vector<pair<string, string> > fpair;
-        vector<pair<string, string> > tpair;
-        vector<vector<double> > feature;
-        vector<vector<double> > test_feature;
-};
 
 FeatureProcessor::FeatureProcessor(string f, string t)
 {
