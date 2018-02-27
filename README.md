@@ -8,6 +8,6 @@ Includes:
 
 ## LBP Features Extraction
 * LBP Feature (Radius = 2, Points = 8)
-![lbp example](asset/example.png)
+![](assert/example.png)
 * LBP results of different P&R values in my experiment
-![](asset/LBP.png)
+![](assert/LBP.png)
