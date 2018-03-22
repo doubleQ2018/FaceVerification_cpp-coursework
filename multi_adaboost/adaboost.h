@@ -3,8 +3,7 @@
 
 using namespace std;
 
-class AdaBoost
-{
+class AdaBoost{
     public:
         AdaBoost(vector<vector<double> > x, vector<int> y, vector<vector<double> > test, int m, int t1, int k1);
         void Processor();
@@ -33,18 +32,16 @@ class AdaBoost
         double tmpAlpha;
         double tmpMinError;
         int tmpDim;
-        vector<vector<double> > weights;// K x size
-        vector<vector<double> > q;      // M x K
-        vector<double> fa;              // K
-        vector<vector<double> > alphas;     // K x T
-        vector<vector<double> > dimensions; // K x T
-        vector<vector<double> > thresholds; // K x T
+        vector<vector<double>> weights;// K x size
+        vector<vector<double>> q;      // M x K
+        vector<double> fa;             // K
+        vector<vector<double>> alphas;     // K x T
+        vector<vector<double>> dimensions; // K x T
+        vector<vector<double>> thresholds; // K x T
         vector<string> test_result;
-        vector<vector<double> > scores;
+        vector<vector<double>> scores;
         virtual int S(double z, double ru) {return z <= ru ? 1 : -1;}
         void TrainProcessor();
         void RenewWeight(int k);
         void RenewAlpha(int k);
-
-
 };
